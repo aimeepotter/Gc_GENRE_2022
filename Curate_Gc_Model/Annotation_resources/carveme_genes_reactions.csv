@@ -1,0 +1,511 @@
+,carvemegenes,NGO_IDs,carvemereactions
+0,YP_208072_1,{'NGO_ID': 'NGO0974'},"[<Reaction 2AGPGAT120 at 0x20f4b5e1c10>, <Reaction 2AGPEAT160 at 0x20f4b23c850>, <Reaction 2AGPEAT120 at 0x20f4b23ccd0>, <Reaction AACPS4 at 0x20f4c34ccd0>, <Reaction 2AGPGAT160 at 0x20f4b5e1910>, <Reaction 2AGPGAT141 at 0x20f4b23cd30>, <Reaction 2AGPEAT140 at 0x20f4b23cd60>, <Reaction AACPS9 at 0x20f4c348970>, <Reaction 2AGPGAT140 at 0x20f4b23cdc0>, <Reaction 2AGPGAT161 at 0x20f4b5e1df0>, <Reaction AACPS1 at 0x20f4c348e50>, <Reaction 2AGPGAT181 at 0x20f4b5e1e80>, <Reaction 2AGPEAT161 at 0x20f4b23ceb0>, <Reaction 2AGPGAT180 at 0x20f4b5e1eb0>, <Reaction AACPS3 at 0x20f4c348af0>, <Reaction AACPS2 at 0x20f4c348f10>, <Reaction 2AGPEAT141 at 0x20f4b23c730>, <Reaction AACPS7 at 0x20f4c34cf40>, <Reaction AACPS6 at 0x20f4c34cb50>, <Reaction 2AGPEAT180 at 0x20f4b23c760>, <Reaction 2AGPEAT181 at 0x20f4b23cf70>, <Reaction AACPS8 at 0x20f4c34cbe0>]"
+1,YP_208834_1,{'NGO_ID': 'NGO1804'},"[<Reaction C160SN at 0x20f4ab83400>, <Reaction 3HAD161 at 0x20f4b723610>, <Reaction 3HAD120 at 0x20f4b5e1a30>, <Reaction 3HAD180 at 0x20f4b23c7f0>, <Reaction C140SN at 0x20f4ab83ee0>, <Reaction 3HAD160 at 0x20f4b5e1d00>, <Reaction 3HAD60 at 0x20f4b723f40>, <Reaction 3HAD141 at 0x20f4b5e1b50>, <Reaction 3HAD140 at 0x20f4b5e1970>, <Reaction 3HAD100 at 0x20f4b5e1790>, <Reaction 3HAD80 at 0x20f4b723fa0>, <Reaction 3HAD40 at 0x20f4b5e1dc0>, <Reaction C120SN at 0x20f4ab839d0>, <Reaction 3HAD181 at 0x20f4b5e1be0>, <Reaction 3HAD121 at 0x20f4b5e17f0>]"
+2,YP_209169_1,{'NGO_ID': 'NGO2163'},"[<Reaction C160SN at 0x20f4ab83400>, <Reaction 3OAR60 at 0x20f4c339820>, <Reaction 3OAR181 at 0x20f4b5e1c70>, <Reaction 3OAR161 at 0x20f4b723d30>, <Reaction 3OAR100 at 0x20f4b723d60>, <Reaction 3OAR80 at 0x20f4c339970>, <Reaction C120SN at 0x20f4ab839d0>, <Reaction 3OAR140 at 0x20f4b723e50>, <Reaction 3OAR121 at 0x20f4b723e80>, <Reaction C140SN at 0x20f4ab83ee0>, <Reaction KAS16 at 0x20f5a304ee0>, <Reaction 3OAR40 at 0x20f4b723f10>, <Reaction 3OAR120 at 0x20f4b723f70>, <Reaction 3OAR160 at 0x20f4b723b80>, <Reaction 3OAR180 at 0x20f4b723790>, <Reaction 3OAR141 at 0x20f4b723fd0>]"
+3,YP_208796_1,{'NGO_ID': 'NGO1763'},"[<Reaction C160SN at 0x20f4ab83400>, <Reaction 3OAS160 at 0x20f4c339c10>, <Reaction 3OAS80 at 0x20f4c348cd0>, <Reaction 3OAS141 at 0x20f4c339d60>, <Reaction 3OAS140 at 0x20f4c339d90>, <Reaction 3OAS120 at 0x20f4c339dc0>, <Reaction C120SN at 0x20f4ab839d0>, <Reaction PYK at 0x20f4ca019d0>, <Reaction 3OAS180 at 0x20f4c3395e0>, <Reaction MACPD at 0x20f4cb94df0>, <Reaction 3OAS100 at 0x20f4c339df0>, <Reaction KAS14 at 0x20f5a2f8e20>, <Reaction ACOATA at 0x20f4c48fe50>, <Reaction 3OAS121 at 0x20f4b723a90>, <Reaction 3OAS60 at 0x20f4c339ac0>, <Reaction C140SN at 0x20f4ab83ee0>, <Reaction KAS16 at 0x20f5a304ee0>, <Reaction 3OAS181 at 0x20f4c339730>, <Reaction KAS15 at 0x20f5a304760>, <Reaction 3OAS161 at 0x20f4c339fd0>]"
+4,YP_209174_1,{'NGO_ID': 'NGO2168'},"[<Reaction 3OAS160 at 0x20f4c339c10>, <Reaction KAS14 at 0x20f5a2f8e20>, <Reaction MACPD at 0x20f4cb94df0>, <Reaction ACOATA at 0x20f4c48fe50>, <Reaction 3OAS121 at 0x20f4b723a90>, <Reaction 3OAS60 at 0x20f4c339ac0>, <Reaction 3OAS80 at 0x20f4c348cd0>, <Reaction 3OAS181 at 0x20f4c339730>, <Reaction 3OAS141 at 0x20f4c339d60>, <Reaction KAS15 at 0x20f5a304760>, <Reaction 3OAS140 at 0x20f4c339d90>, <Reaction 3OAS120 at 0x20f4c339dc0>, <Reaction 3OAS161 at 0x20f4c339fd0>, <Reaction 3OAS180 at 0x20f4c3395e0>, <Reaction 3OAS100 at 0x20f4c339df0>]"
+5,YP_208604_1,{'NGO_ID': 'NGO1559'},"[<Reaction NO3tex at 0x20f4b0b3820>, <Reaction ACtex at 0x20f4c496850>, <Reaction ILEtex at 0x20f5a2aa850>, <Reaction GLCURtex at 0x20f4c23a880>, <Reaction FE2tex at 0x20f4b067a00>, <Reaction LEUtex at 0x20f5a2f8280>, <Reaction H2tex at 0x20f5366bb20>, <Reaction GUAtex at 0x20f53641b50>, <Reaction NO2tex at 0x20f4b0b9b50>, <Reaction H2Otex at 0x20f535f4b80>, <Reaction ETOHtex at 0x20f4b05fb80>, <Reaction HYXNtex at 0x20f566bdbe0>, <Reaction FORtex at 0x20f4b0adbe0>, <Reaction MEOHtex at 0x20f4accdbe0>, <Reaction CA2tex at 0x20f4ab83c40>, <Reaction SO3tex at 0x20f4ca29c70>, <Reaction CLtex at 0x20f4aba9ca0>, <Reaction Htex at 0x20f566ccca0>, <Reaction TSULtex at 0x20f4ca6cd30>, <Reaction COBALT2tex at 0x20f4aeb6d60>, <Reaction FE3tex at 0x20f4b067d60>, <Reaction GLYCtex at 0x20f4a610d90>, <Reaction BUTtex at 0x20f4ab80dc0>, <Reaction SO4tex at 0x20f4ca21610>, <Reaction CO2tex at 0x20f4aeb6e20>, <Reaction NAtex at 0x20f4ae04e20>, <Reaction PPAtex at 0x20f4c8bffa0>, <Reaction NI2tex at 0x20f4ae04e80>, <Reaction Ktex at 0x20f5a2f8eb0>, <Reaction VALtex at 0x20f4cc29eb0>, <Reaction 4HBZtex at 0x20f4c339ee0>, <Reaction TOLtex at 0x20f4ca55ee0>, <Reaction NH4tex at 0x20f4b0b3f10>, <Reaction PYRtex at 0x20f4ca01f10>, <Reaction OXFOtex at 0x20f4b0e5f40>, <Reaction MG2tex at 0x20f4ad1cf70>, <Reaction CU2tex at 0x20f4aeb6fa0>, <Reaction PItex at 0x20f4c6f2fd0>]"
+6,YP_208343_1,{'NGO_ID': 'NGO1274'},"[<Reaction AM4PCP at 0x20f4c812700>, <Reaction 4PCP at 0x20f4c339eb0>, <Reaction UM4PCP at 0x20f4cbfee50>, <Reaction AGM4PCP at 0x20f4c73fd30>]"
+7,YP_207501_1,{'NGO_ID': 'NGO0345'},"[<Reaction AHCYSNS at 0x20f4c765700>, <Reaction 5DOAN at 0x20f4c348d90>, <Reaction MTAN at 0x20f4ad2d8e0>]"
+8,YP_208649_1,{'NGO_ID': 'NGO1609'},[<Reaction A5PISO at 0x20f4c348d60>]
+9,YP_207220_1,{'NGO_ID': 'NGO0040'},"[<Reaction ABTA at 0x20f4c348b80>, <Reaction G1SAT at 0x20f4b3d5e20>]"
+10,spontaneous,{},"[<Reaction H2St at 0x20f5366b820>, <Reaction ATPM at 0x20f4cc65070>, <Reaction MEOHtrpp at 0x20f4acc58e0>, <Reaction OMCDC at 0x20f4b0e58e0>, <Reaction NH4t at 0x20f4b0b3970>, <Reaction BZt at 0x20f4ab83a30>, <Reaction ATPHs at 0x20f4ab80ac0>, <Reaction H2tpp at 0x20f53650af0>, <Reaction MGSA at 0x20f4ad1cb20>, <Reaction FESD1s at 0x20f4b083b50>, <Reaction GLYCtpp at 0x20f4a42db50>, <Reaction H2Otex at 0x20f535f4b80>, <Reaction O2t at 0x20f4b0cafa0>, <Reaction CO2tpp at 0x20f4aeb6d00>, <Reaction HCO3E at 0x20f53608d30>, <Reaction H2Otpp at 0x20f53625d60>, <Reaction ACALDt at 0x20f4c34cd90>, <Reaction CO2t at 0x20f4aeb6dc0>, <Reaction NOtpp at 0x20f4b0b9dc0>, <Reaction St at 0x20f4ca29dc0>, <Reaction NH3c at 0x20f4ae04df0>, <Reaction GTPHs at 0x20f535eae20>, <Reaction ETOHtrpp at 0x20f4b05fe50>, <Reaction METOX2s at 0x20f4ace26a0>, <Reaction G5SADs at 0x20f4b3e1ee0>, <Reaction DATPHs at 0x20f4af78f10>, <Reaction FALGTHLs at 0x20f4b063f10>, <Reaction NH4tex at 0x20f4b0b3f10>, <Reaction H2Ot at 0x20f535fdf40>, <Reaction METOX1s at 0x20f4accdf40>, <Reaction DHPTDCs2 at 0x20f4afc3760>, <Reaction MTHTHFSs at 0x20f4adf0760>, <Reaction NH4tpp at 0x20f4b0b3fa0>]"
+11,YP_207414_1,{'NGO_ID': 'NGO0249'},[<Reaction ACCOAC at 0x20f4c348e80>]
+12,YP_207944_1,{'NGO_ID': 'NGO0821'},[<Reaction ACCOAC at 0x20f4c348e80>]
+13,YP_207223_1,{'NGO_ID': 'NGO0044'},[<Reaction ACCOAC at 0x20f4c348e80>]
+14,YP_207224_1,{'NGO_ID': 'NGO0045'},[<Reaction ACCOAC at 0x20f4c348e80>]
+15,YP_207961_1,{'NGO_ID': 'NGO0844'},[<Reaction ACGK at 0x20f4c34ce80>]
+16,YP_207208_1,{'NGO_ID': 'NGO0027'},[<Reaction ACGS at 0x20f4c48fdf0>]
+17,YP_208266_1,{'NGO_ID': 'NGO1194'},"[<Reaction ORNTAC at 0x20f4b0e5d60>, <Reaction ACGS at 0x20f4c48fdf0>]"
+18,YP_208306_1,{'NGO_ID': 'NGO1235'},"[<Reaction ACLS at 0x20f4c48fd60>, <Reaction ACHBS at 0x20f4c48f7f0>]"
+19,YP_208307_1,{'NGO_ID': 'NGO1236'},"[<Reaction ACLS at 0x20f4c48fd60>, <Reaction ACHBS at 0x20f4c48f7f0>]"
+20,YP_208571_1,{'NGO_ID': 'NGO1521'},"[<Reaction ACKr at 0x20f4c48fd90>, <Reaction PPAKr at 0x20f4c720640>]"
+21,YP_208075_1,{'NGO_ID': 'NGO0977'},"[<Reaction ACKr at 0x20f4c48fd90>, <Reaction PPAKr at 0x20f4c720640>]"
+22,YP_208795_1,{'NGO_ID': 'NGO1762'},"[<Reaction ACPPAT120 at 0x20f4c496e20>, <Reaction ACOATA at 0x20f4c48fe50>, <Reaction ACPPAT180 at 0x20f4c4969d0>, <Reaction ACPPAT160 at 0x20f4c733670>, <Reaction ACPPAT181 at 0x20f4c733c70>, <Reaction MCOATA at 0x20f4cb97910>, <Reaction UAGAAT at 0x20f4cbf2b20>, <Reaction ACPPAT140 at 0x20f4c496b50>, <Reaction ACPPAT161 at 0x20f4c496b80>, <Reaction ACPPAT141 at 0x20f4c496fd0>]"
+23,YP_208302_1,{'NGO_ID': 'NGO1231'},"[<Reaction ACONTb at 0x20f4c496ca0>, <Reaction MICITDr at 0x20f4ad22a30>, <Reaction ACONT at 0x20f4c48f940>, <Reaction ACONTa at 0x20f4c48fee0>]"
+24,YP_207785_1,{'NGO_ID': 'NGO0646'},"[<Reaction ACOTA at 0x20f4c496910>, <Reaction SOTA at 0x20f4ca29730>, <Reaction SDPTAi at 0x20f4ca19f70>, <Reaction SDPTA at 0x20f4ca19790>, <Reaction SADH at 0x20f4ca01fd0>]"
+25,YP_209176_1,{'NGO_ID': 'NGO2171'},"[<Reaction G3PAT140 at 0x20f4b3d5a00>, <Reaction G3PAT160 at 0x20f4b3d5c10>, <Reaction ACPPAT120 at 0x20f4c496e20>, <Reaction G3PAT120 at 0x20f4b3d5c40>, <Reaction ACPPAT180 at 0x20f4c4969d0>, <Reaction ACPPAT160 at 0x20f4c733670>, <Reaction ACPPAT181 at 0x20f4c733c70>, <Reaction G3PAT180 at 0x20f4b0add00>, <Reaction ACPPAT140 at 0x20f4c496b50>, <Reaction ACPPAT161 at 0x20f4c496b80>, <Reaction G3PAT161 at 0x20f4b3d5fa0>, <Reaction ACPPAT141 at 0x20f4c496fd0>, <Reaction G3PAT181 at 0x20f4b3d5df0>]"
+26,YP_209124_1,{'NGO_ID': 'NGO2112'},"[<Reaction ADCL at 0x20f4c496fa0>, <Reaction ADCS at 0x20f4c733ee0>]"
+27,YP_208575_1,{'NGO_ID': 'NGO1527'},"[<Reaction HXANt2r at 0x20f566e58b0>, <Reaction GUAt2r at 0x20f535ddf40>, <Reaction ADEt2rpp at 0x20f4c733160>]"
+28,YP_207556_1,{'NGO_ID': 'NGO0400'},"[<Reaction DADK at 0x20f4aee0910>, <Reaction ADK1 at 0x20f4c733820>]"
+29,YP_209177_1,{'NGO_ID': 'NGO2172'},"[<Reaction ADPT at 0x20f4c733b80>, <Reaction HXPRT at 0x20f4a5f3d90>, <Reaction XPPT at 0x20f4cc29df0>, <Reaction GUAPRT at 0x20f535ea7f0>]"
+30,YP_208375_1,{'NGO_ID': 'NGO1311'},"[<Reaction ADPT at 0x20f4c733b80>, <Reaction GUAPRT at 0x20f535ea7f0>]"
+31,YP_208744_1,{'NGO_ID': 'NGO1711'},"[<Reaction ADSL1r at 0x20f4c733580>, <Reaction ADSL2r at 0x20f4c7336a0>]"
+32,YP_207554_1,{'NGO_ID': 'NGO0398'},[<Reaction ADSS at 0x20f4c73f400>]
+33,YP_207402_1,{'NGO_ID': 'NGO0237'},"[<Reaction AGM3PA at 0x20f4c73f880>, <Reaction AM4PA at 0x20f4c812c10>, <Reaction AM3PA at 0x20f4c812fa0>, <Reaction AGM4PA at 0x20f4c73fc70>]"
+34,YP_208552_1,{'NGO_ID': 'NGO1502'},"[<Reaction AGM4PApp at 0x20f4c73fbe0>, <Reaction AGM3PApp at 0x20f4c7338e0>]"
+35,YP_207305_1,{'NGO_ID': 'NGO0135'},"[<Reaction AGM3PH at 0x20f4c733fa0>, <Reaction AGMH at 0x20f4c73f8e0>, <Reaction AGM4PH at 0x20f4c73faf0>]"
+36,YP_208639_1,{'NGO_ID': 'NGO1599'},"[<Reaction AGM4Pt2pp at 0x20f4c73fa30>, <Reaction AGMt2pp at 0x20f4c73ffd0>, <Reaction AGM3Pt2pp at 0x20f4c73fee0>]"
+37,YP_207559_1,{'NGO_ID': 'NGO0403'},[<Reaction AGMHE at 0x20f4c73f970>]
+38,YP_208536_1,{'NGO_ID': 'NGO1486'},[<Reaction AGMT at 0x20f4c73fd00>]
+39,YP_209082_1,{'NGO_ID': 'NGO2069'},"[<Reaction AGPAT141 at 0x20f4c73fb20>, <Reaction AGPAT160 at 0x20f4c765d30>, <Reaction AGPAT161 at 0x20f4c73fd60>, <Reaction AGPAT180 at 0x20f4c765fa0>, <Reaction AGPAT140 at 0x20f4c73fdc0>, <Reaction AGPAT181 at 0x20f4c765fd0>, <Reaction AGPAT120 at 0x20f4c7655e0>]"
+40,YP_207751_1,{'NGO_ID': 'NGO0611'},"[<Reaction AGPAT141 at 0x20f4c73fb20>, <Reaction AGPAT160 at 0x20f4c765d30>, <Reaction AGPAT161 at 0x20f4c73fd60>, <Reaction AGPAT180 at 0x20f4c765fa0>, <Reaction AGPAT140 at 0x20f4c73fdc0>, <Reaction AGPAT181 at 0x20f4c765fd0>, <Reaction AGPAT120 at 0x20f4c7655e0>]"
+41,YP_207959_1,{'NGO_ID': 'NGO0842'},"[<Reaction PSP_L at 0x20f4c8c2a90>, <Reaction AGPAT160 at 0x20f4c765d30>]"
+42,YP_207290_1,{'NGO_ID': 'NGO0118'},[<Reaction AGPR at 0x20f4c765e50>]
+43,YP_207542_1,{'NGO_ID': 'NGO0386'},"[<Reaction CYSTGL_1 at 0x20f4aee0c10>, <Reaction CYSDS at 0x20f4aeb6430>, <Reaction METB1 at 0x20f4ace2c40>, <Reaction AHSERL2 at 0x20f4c765e80>, <Reaction TRPAS1 at 0x20f4ca68ee0>, <Reaction CYSTGL at 0x20f4aee0b20>, <Reaction SHSL2r at 0x20f4ca21b20>, <Reaction SHSL4r at 0x20f4ca21f70>, <Reaction SHSL1 at 0x20f4ca29580>, <Reaction CYSTL at 0x20f4aee0dc0>]"
+44,YP_207497_1,{'NGO_ID': 'NGO0340'},"[<Reaction CYSS_2 at 0x20f4aee0fa0>, <Reaction SLCYSS at 0x20f4ca21fa0>, <Reaction CYSS at 0x20f4aee07f0>, <Reaction AHSERL4 at 0x20f4c765f70>]"
+45,YP_208518_1,{'NGO_ID': 'NGO1466'},"[<Reaction IMPC at 0x20f5a2aa8e0>, <Reaction AICART at 0x20f4c765a60>]"
+46,YP_207988_1,{'NGO_ID': 'NGO0875'},[<Reaction AIRC1 at 0x20f4c765ee0>]
+47,YP_207877_1,{'NGO_ID': 'NGO0748'},[<Reaction AIRC1 at 0x20f4c765ee0>]
+48,YP_208024_1,{'NGO_ID': 'NGO0916'},"[<Reaction AKGDb at 0x20f4c765d90>, <Reaction AKGDH at 0x20f4c80bfd0>, <Reaction OXOADLR at 0x20f4b135460>]"
+49,YP_207707_1,{'NGO_ID': 'NGO0562'},"[<Reaction PDH at 0x20f4b135fd0>, <Reaction GLYCL at 0x20f4a12feb0>, <Reaction AKGDH at 0x20f4c80bfd0>]"
+50,YP_208025_1,{'NGO_ID': 'NGO0917'},"[<Reaction AKGDa at 0x20f4c765ca0>, <Reaction GLCOASYNT at 0x20f4c231eb0>, <Reaction AKGDH at 0x20f4c80bfd0>]"
+51,YP_208023_1,{'NGO_ID': 'NGO0915'},"[<Reaction PDHcr at 0x20f4b135b80>, <Reaction PDH at 0x20f4b135fd0>, <Reaction GLYCL at 0x20f4a12feb0>, <Reaction AKGDH at 0x20f4c80bfd0>]"
+52,YP_208535_1,{'NGO_ID': 'NGO1485'},"[<Reaction AKGt2r at 0x20f4c765d00>, <Reaction FUMt2r at 0x20f4b3d5d30>, <Reaction MALt2r at 0x20f4c91eee0>, <Reaction SUCCt2r at 0x20f4ca29f70>]"
+53,YP_208579_1,{'NGO_ID': 'NGO1531'},"[<Reaction DGUNC at 0x20f4af7dd00>, <Reaction ALAALAr at 0x20f4c80bee0>]"
+54,YP_208361_1,{'NGO_ID': 'NGO1295'},[<Reaction ALAR at 0x20f4c765f40>]
+55,YP_207979_1,{'NGO_ID': 'NGO0866'},"[<Reaction ALATA_L2 at 0x20f4c812d00>, <Reaction THFAT at 0x20f4ca61f10>, <Reaction ALATA_D2 at 0x20f4c812d60>, <Reaction THRA2i at 0x20f4ca61f70>, <Reaction GHMT2r at 0x20f4b3edbe0>, <Reaction THRAi at 0x20f4ca61df0>]"
+56,YP_208131_1,{'NGO_ID': 'NGO1047'},[<Reaction ALATA_L at 0x20f4c812c40>]
+57,YP_208818_1,{'NGO_ID': 'NGO1787'},"[<Reaction ALAt2r at 0x20f4c80bb20>, <Reaction DALAt2r at 0x20f4aeead60>]"
+58,YP_208356_1,{'NGO_ID': 'NGO1290'},"[<Reaction ALAt2r at 0x20f4c80bb20>, <Reaction DALAt2r at 0x20f4aeead60>]"
+59,YP_208837_1,{'NGO_ID': 'NGO1807'},"[<Reaction ALAt2r at 0x20f4c80bb20>, <Reaction DSERt2 at 0x20f4afd2d90>, <Reaction DALAt2r at 0x20f4aeead60>, <Reaction GLYt2r at 0x20f4f007a90>, <Reaction ALAt4 at 0x20f4c8125e0>]"
+60,YP_208798_1,{'NGO_ID': 'NGO1767'},[<Reaction ALCD1 at 0x20f4c812af0>]
+61,YP_208496_2,{'NGO_ID': 'NGO1442'},"[<Reaction ALCD2ir at 0x20f4c812cd0>, <Reaction ALCD2x at 0x20f4c812460>]"
+62,YP_207843_1,{},"[<Reaction ALCD2y at 0x20f4c812a00>, <Reaction SBTD_D2 at 0x20f4ca06e20>, <Reaction LALDO at 0x20f5a2f8340>]"
+63,YP_207480_1,{'NGO_ID': 'NGO0321'},"[<Reaction AMMQT8_2 at 0x20f4c812f40>, <Reaction AMMQLT8 at 0x20f4c765970>]"
+64,YP_209061_1,{'NGO_ID': 'NGO2041'},"[<Reaction AMPMS2 at 0x20f4c8124c0>, <Reaction AMPMS at 0x20f4c8124f0>]"
+65,YP_208298_1,{'NGO_ID': 'NGO1227'},"[<Reaction AMPTASECG at 0x20f4c80b9d0>, <Reaction AMPTASEPG at 0x20f4c8127f0>]"
+66,YP_207327_1,{'NGO_ID': 'NGO0158'},"[<Reaction AMPTASECG at 0x20f4c80b9d0>, <Reaction AMPTASEPG at 0x20f4c8127f0>]"
+67,YP_207775_1,{'NGO_ID': 'NGO0636'},"[<Reaction I2FE2SR at 0x20f566bd520>, <Reaction CYSDSF at 0x20f4aeb6b80>, <Reaction ICYSDS at 0x20f5a2aad90>, <Reaction AMPTASECG at 0x20f4c80b9d0>, <Reaction I2FE2SS2 at 0x20f566f3df0>]"
+68,YP_208624_1,{'NGO_ID': 'NGO1583'},[<Reaction ANHMK at 0x20f4c812f10>]
+69,YP_208274_1,{'NGO_ID': 'NGO1203'},[<Reaction ANPRT at 0x20f4cf2ae80>]
+70,YP_208275_1,{'NGO_ID': 'NGO1204'},[<Reaction ANS at 0x20f4cf2ac10>]
+71,YP_207985_1,{'NGO_ID': 'NGO0872'},[<Reaction ANS at 0x20f4cf2ac10>]
+72,YP_207396_1,{'NGO_ID': 'NGO0231'},[<Reaction AP4AH at 0x20f4cf2ad30>]
+73,YP_208507_1,{'NGO_ID': 'NGO1454'},[<Reaction AP4AS at 0x20f4cf2ad60>]
+74,YP_207972_1,{'NGO_ID': 'NGO0858'},"[<Reaction APG3PAT160 at 0x20f4cf2ad00>, <Reaction APG3PAT161 at 0x20f4cf2a910>, <Reaction APG3PAT180 at 0x20f4d1fad00>, <Reaction APG3PAT141 at 0x20f4cf2a940>, <Reaction APG3PAT140 at 0x20f4cf2ae50>, <Reaction APG3PAT120 at 0x20f4cf2aa60>, <Reaction APG3PAT181 at 0x20f4d1fae50>]"
+75,YP_207262_1,{'NGO_ID': 'NGO0089'},"[<Reaction APRAUR at 0x20f4cf2a700>, <Reaction DHPPDA2 at 0x20f4af83940>, <Reaction DHPPDA at 0x20f4af83a00>]"
+76,YP_208955_1,{'NGO_ID': 'NGO1930'},[<Reaction ARABDI at 0x20f4d1fad30>]
+77,YP_208537_1,{'NGO_ID': 'NGO1487'},"[<Reaction ARGDC at 0x20f4cf2abb0>, <Reaction ARGDCpp at 0x20f4d1fafd0>]"
+78,YP_207384_1,{'NGO_ID': 'NGO0219'},[<Reaction ARGSL at 0x20f4d1fafa0>]
+79,YP_208984_1,{'NGO_ID': 'NGO1961'},"[<Reaction ARGSL at 0x20f4d1fafa0>, <Reaction ARGSS at 0x20f4d1fa9d0>]"
+80,YP_209017_1,{'NGO_ID': 'NGO1997'},"[<Reaction ASAD at 0x20f4d1fa730>, <Reaction ASADi at 0x20f4d1fa7c0>]"
+81,YP_208401_1,{'NGO_ID': 'NGO1339'},[<Reaction ASNN at 0x20f4d2045e0>]
+82,YP_207760_1,{'NGO_ID': 'NGO0620'},[<Reaction ASP1DC at 0x20f4d1fa7f0>]
+83,YP_208908_1,{'NGO_ID': 'NGO1876'},[<Reaction ASPCT at 0x20f4d204be0>]
+84,YP_208909_1,{'NGO_ID': 'NGO1877'},[<Reaction ASPCT at 0x20f4d204be0>]
+85,YP_208057_1,{'NGO_ID': 'NGO0956'},[<Reaction ASPK at 0x20f4d204f40>]
+86,YP_208613_1,{'NGO_ID': 'NGO1568'},"[<Reaction ASPO3 at 0x20f4d204b20>, <Reaction ASPO6 at 0x20f4d204430>, <Reaction ASPO1 at 0x20f4d204e80>, <Reaction ASPO4 at 0x20f4d204fd0>, <Reaction ASPO5 at 0x20f4d204af0>]"
+87,YP_207702_1,{'NGO_ID': 'NGO0556'},[<Reaction ASPT at 0x20f4d204e20>]
+88,YP_208506_1,{'NGO_ID': 'NGO1452'},"[<Reaction PHETA1 at 0x20f4b415e20>, <Reaction ASPTA at 0x20f4d204a30>, <Reaction TYRTA at 0x20f4ca6cd60>]"
+89,YP_208158_1,{'NGO_ID': 'NGO1079'},"[<Reaction ATHRDHr at 0x20f4d2042b0>, <Reaction LSERDHr at 0x20f4cb94f40>, <Reaction DSERDHr at 0x20f4afc3850>]"
+90,YP_208309_1,{'NGO_ID': 'NGO1238'},[<Reaction ATPPRT at 0x20f4ab80910>]
+91,YP_207353_1,{'NGO_ID': 'NGO0186'},[<Reaction BTDD_RR at 0x20f4d204ac0>]
+92,YP_207937_1,{'NGO_ID': 'NGO0813'},"[<Reaction BTS5 at 0x20f4ab80f40>, <Reaction BTS2 at 0x20f4d204a60>, <Reaction BTS4 at 0x20f4d204df0>]"
+93,YP_207997_1,{'NGO_ID': 'NGO0886'},[<Reaction BZSCD at 0x20f4ab83d00>]
+94,YP_208703_1,{'NGO_ID': 'NGO1666'},"[<Reaction C160SN at 0x20f4ab83400>, <Reaction EAR121x at 0x20f4afd2c40>, <Reaction EAR161y at 0x20f4afe78b0>, <Reaction EAR60x at 0x20f4b05ccd0>, <Reaction EAR180y at 0x20f4b05c8e0>, <Reaction EAR120x at 0x20f4afd27f0>, <Reaction C120SN at 0x20f4ab839d0>, <Reaction EAR160x at 0x20f4afe79d0>, <Reaction EAR100y at 0x20f4afd29d0>, <Reaction EAR120y at 0x20f4afe7e20>, <Reaction EAR161x at 0x20f4afe7a30>, <Reaction EAR181x at 0x20f4b05ca30>, <Reaction EAR140x at 0x20f4afe7e50>, <Reaction EAR40x at 0x20f4b05ce50>, <Reaction EAR140y at 0x20f4afe7fa0>, <Reaction EAR160y at 0x20f4afe7eb0>, <Reaction EAR80y at 0x20f4b05ceb0>, <Reaction C140SN at 0x20f4ab83ee0>, <Reaction EAR100x at 0x20f4afd2f10>, <Reaction EAR121y at 0x20f4afe7fd0>, <Reaction EAR141y at 0x20f4afe7b50>, <Reaction EAR141x at 0x20f4afe7f70>, <Reaction EAR60y at 0x20f4b05cb80>, <Reaction EAR180x at 0x20f4b05c790>, <Reaction EAR40y at 0x20f4b05cfa0>, <Reaction EAR181y at 0x20f4b05cfd0>, <Reaction EAR80x at 0x20f4b05c7f0>]"
+95,YP_207227_1,{'NGO_ID': 'NGO0048'},[<Reaction CBPS at 0x20f4ab83b50>]
+96,YP_207230_1,{'NGO_ID': 'NGO0053'},[<Reaction CBPS at 0x20f4ab83b50>]
+97,YP_208898_1,{'NGO_ID': 'NGO1866'},[<Reaction CDGUNPD at 0x20f4ab838b0>]
+98,YP_207593_1,{'NGO_ID': 'NGO0440'},[<Reaction CDPMEK at 0x20f4ab83880>]
+99,YP_207679_1,{'NGO_ID': 'NGO0529'},"[<Reaction CHLt2pp at 0x20f4aba4760>, <Reaction GLYBt2r at 0x20f4c246bb0>, <Reaction CHLt2 at 0x20f4aba4ee0>]"
+100,YP_208560_1,{'NGO_ID': 'NGO1510'},"[<Reaction PPNDH at 0x20f4c8bfca0>, <Reaction CHORM at 0x20f4aba45e0>]"
+101,YP_208393_1,{'NGO_ID': 'NGO1331'},[<Reaction CHORS at 0x20f4aba4a30>]
+102,YP_208012_1,{'NGO_ID': 'NGO0902'},"[<Reaction CLPNS141pp at 0x20f4aba9910>, <Reaction CLPNS120pp at 0x20f4aba9fd0>, <Reaction CLPNS160pp at 0x20f4aba9730>, <Reaction CLPNS161pp at 0x20f4aba9b80>, <Reaction CLPNS181pp at 0x20f4aba98b0>, <Reaction CLPNS180pp at 0x20f4aba9cd0>, <Reaction CLPNS140pp at 0x20f4aba9be0>]"
+103,YP_208267_1,{'NGO_ID': 'NGO1195'},[<Reaction CLt3_2pp at 0x20f4aba4880>]
+104,YP_208621_1,{'NGO_ID': 'NGO1580'},[<Reaction CPPPGO2 at 0x20f4aeb6c40>]
+105,YP_207399_1,{'NGO_ID': 'NGO0234'},[<Reaction CPPPGO2 at 0x20f4aeb6c40>]
+106,YP_208026_1,{'NGO_ID': 'NGO0918'},[<Reaction CS at 0x20f4aeb6f10>]
+107,YP_208048_1,{'NGO_ID': 'NGO0941'},"[<Reaction CSND at 0x20f4aeb6cd0>, <Reaction MCSNAH at 0x20f4acc5850>]"
+108,YP_209029_1,{'NGO_ID': 'NGO2009'},[<Reaction CSNt2 at 0x20f4aeb68b0>]
+109,YP_208283_1,{'NGO_ID': 'NGO1212'},[<Reaction CTPS2 at 0x20f4aeb69d0>]
+110,YP_208228_1,{'NGO_ID': 'NGO1149'},[<Reaction CYSTL at 0x20f4aee0dc0>]
+111,YP_208800_1,{'NGO_ID': 'NGO1769'},[<Reaction CYTBCYTC at 0x20f4aee0f70>]
+112,YP_207745_1,{'NGO_ID': 'NGO0605'},"[<Reaction UMPK at 0x20f4cc10c40>, <Reaction CYTK1 at 0x20f4aee0d60>, <Reaction CYTK2 at 0x20f4aeeac70>]"
+113,YP_207815_1,{'NGO_ID': 'NGO0676'},[<Reaction CYTOM at 0x20f4aeeaa00>]
+114,YP_207722_1,{'NGO_ID': 'NGO0579'},[<Reaction Cut1 at 0x20f4aeb6b20>]
+115,YP_208838_1,{'NGO_ID': 'NGO1808'},[<Reaction DAAD at 0x20f4aeb65b0>]
+116,YP_207890_1,{'NGO_ID': 'NGO0763'},[<Reaction DADK at 0x20f4aee0910>]
+117,YP_208287_1,{'NGO_ID': 'NGO1216'},"[<Reaction DAGK140 at 0x20f4aeea700>, <Reaction DAGK180 at 0x20f4aeeaf40>, <Reaction DAGK181 at 0x20f4aeeaa60>, <Reaction DAGK160 at 0x20f4aeeaf70>, <Reaction DAGK120 at 0x20f4aee0eb0>, <Reaction DAGK141 at 0x20f4aeeacd0>]"
+118,YP_209111_1,{'NGO_ID': 'NGO2098'},[<Reaction DAPDC at 0x20f4aeeafa0>]
+119,YP_207495_1,{'NGO_ID': 'NGO0338'},[<Reaction DAPE at 0x20f4aeead30>]
+120,YP_208297_1,{'NGO_ID': 'NGO1226'},[<Reaction DARBt2rpp at 0x20f4aeeadc0>]
+121,YP_208828_1,{'NGO_ID': 'NGO1798'},"[<Reaction DASYN120 at 0x20f4aeeae80>, <Reaction DASYN161 at 0x20f4af78ca0>, <Reaction DASYN181 at 0x20f4af78dc0>, <Reaction DASYN180 at 0x20f4af789d0>, <Reaction DASYN160 at 0x20f4af78df0>]"
+122,YP_208213_1,{'NGO_ID': 'NGO1134'},"[<Reaction DB4PS at 0x20f4af78880>, <Reaction GTPCII2 at 0x20f535eaca0>, <Reaction GTPCII at 0x20f50f11eb0>]"
+123,YP_207840_1,{'NGO_ID': 'NGO0704'},"[<Reaction DB4PS at 0x20f4af78880>, <Reaction GTPCII2 at 0x20f535eaca0>, <Reaction GTPCII at 0x20f50f11eb0>]"
+124,YP_207576_1,{'NGO_ID': 'NGO0421'},"[<Reaction DCTPD2 at 0x20f4af78d00>, <Reaction DCTPD at 0x20f4af78c70>]"
+125,YP_208731_1,{'NGO_ID': 'NGO1695'},[<Reaction DDPA at 0x20f4af78b50>]
+126,YP_208405_1,{'NGO_ID': 'NGO1343'},[<Reaction DDPA at 0x20f4af78b50>]
+127,YP_208374_1,{'NGO_ID': 'NGO1310'},"[<Reaction DGK1 at 0x20f4af7dfd0>, <Reaction GK1 at 0x20f4c2315e0>]"
+128,YP_207344_1,{'NGO_ID': 'NGO0177'},[<Reaction DGUNC at 0x20f4af7dd00>]
+129,YP_207343_1,{'NGO_ID': 'NGO0176'},[<Reaction DGUNC at 0x20f4af7dd00>]
+130,YP_208578_1,{'NGO_ID': 'NGO1530'},[<Reaction DGUNC at 0x20f4af7dd00>]
+131,YP_207933_1,{'NGO_ID': 'NGO0809'},"[<Reaction DHAD2 at 0x20f4af7de80>, <Reaction DHAD1 at 0x20f4af7dfa0>]"
+132,YP_208812_1,{'NGO_ID': 'NGO1781'},[<Reaction DHDPRy at 0x20f4af7ddc0>]
+133,YP_208050_1,{'NGO_ID': 'NGO0947'},[<Reaction DHDPS at 0x20f4af7d700>]
+134,YP_208730_1,{'NGO_ID': 'NGO1694'},"[<Reaction DHFR at 0x20f4af7df40>, <Reaction FOLR2 at 0x20f4b0adf70>]"
+135,YP_207429_1,{'NGO_ID': 'NGO0266'},[<Reaction DHFS at 0x20f4af7dca0>]
+136,YP_207971_1,{'NGO_ID': 'NGO0857'},[<Reaction DHNPA2r at 0x20f4af83bb0>]
+137,YP_207482_1,{'NGO_ID': 'NGO0323'},"[<Reaction DHNPA_1 at 0x20f4af83d00>, <Reaction HPPK2 at 0x20f56694820>, <Reaction HPPK at 0x20f56687dc0>, <Reaction FOLD3 at 0x20f4b0ade50>]"
+138,YP_208794_1,{'NGO_ID': 'NGO1761'},"[<Reaction DHORD2 at 0x20f4af83f10>, <Reaction DHORDi at 0x20f4af83b50>, <Reaction DHORD5 at 0x20f4af83ee0>]"
+139,YP_207418_1,{'NGO_ID': 'NGO0255'},[<Reaction DHORTS at 0x20f4af83f40>]
+140,YP_208404_1,{'NGO_ID': 'NGO1342'},"[<Reaction DHPS2 at 0x20f4af83910>, <Reaction FOLD3 at 0x20f4b0ade50>, <Reaction DHPS at 0x20f4af838e0>]"
+141,YP_207265_1,{'NGO_ID': 'NGO0092'},[<Reaction DHQS at 0x20f4afc3dc0>]
+142,YP_207869_1,{'NGO_ID': 'NGO0740'},[<Reaction DHQTi at 0x20f4afc37f0>]
+143,YP_208391_1,{'NGO_ID': 'NGO1329'},"[<Reaction PHETA1 at 0x20f4b415e20>, <Reaction TYRTA at 0x20f4ca6cd60>, <Reaction LEUTAi at 0x20f5a32cb80>, <Reaction TRPTA at 0x20f4ca6cd90>, <Reaction DLYSPYRAT at 0x20f4afc3fd0>, <Reaction DLYSOXGAT at 0x20f4afc3ee0>, <Reaction UNK3 at 0x20f4cbfeaf0>]"
+144,YP_209000_1,{'NGO_ID': 'NGO1980'},"[<Reaction DMALRED at 0x20f4afc3c40>, <Reaction MDH3 at 0x20f4acc7e50>, <Reaction MDH2 at 0x20f4cb97f70>]"
+145,YP_208768_1,{'NGO_ID': 'NGO1735'},"[<Reaction GRTT at 0x20f50f02f10>, <Reaction DMATT at 0x20f4afc3520>]"
+146,YP_207744_1,{'NGO_ID': 'NGO0604'},"[<Reaction DMPPS at 0x20f4afc3e20>, <Reaction IPDPS at 0x20f56719160>]"
+147,YP_207247_1,{'NGO_ID': 'NGO0072'},"[<Reaction DMPPS at 0x20f4afc3e20>, <Reaction IPDPS at 0x20f56719160>]"
+148,YP_207824_1,{'NGO_ID': 'NGO0685'},"[<Reaction DNTPPA at 0x20f4afd2d00>, <Reaction DNMPPA at 0x20f4afc3c10>]"
+149,YP_208755_1,{'NGO_ID': 'NGO1722'},"[<Reaction DNTPPA at 0x20f4afd2d00>, <Reaction DNMPPA at 0x20f4afc3c10>]"
+150,YP_208396_1,{'NGO_ID': 'NGO1334'},"[<Reaction DNTPPA at 0x20f4afd2d00>, <Reaction DNMPPA at 0x20f4afc3c10>]"
+151,YP_208556_1,{'NGO_ID': 'NGO1506'},"[<Reaction DNTPPA at 0x20f4afd2d00>, <Reaction NTPP4 at 0x20f4b0ca820>, <Reaction NTPP2 at 0x20f4b0bfc40>, <Reaction NTPP1 at 0x20f4b0bf550>, <Reaction NTPP3 at 0x20f4b0bf9d0>]"
+152,YP_207389_2,{},"[<Reaction DNTPPA at 0x20f4afd2d00>, <Reaction NTPP5 at 0x20f4b0cae50>]"
+153,YP_208708_1,{'NGO_ID': 'NGO1671'},[<Reaction DPCOAK at 0x20f4af83fd0>]
+154,YP_207404_1,{'NGO_ID': 'NGO0239'},[<Reaction DTMPK at 0x20f4afd2dc0>]
+155,YP_207609_1,{'NGO_ID': 'NGO0459'},[<Reaction DUTPDP at 0x20f4afc3be0>]
+156,YP_208829_1,{'NGO_ID': 'NGO1799'},[<Reaction DXPRIi at 0x20f4afd2d30>]
+157,YP_207217_1,{'NGO_ID': 'NGO0036'},[<Reaction DXPS at 0x20f4afd2be0>]
+158,YP_208503_1,{'NGO_ID': 'NGO1449'},"[<Reaction GLYCLTt2rpp at 0x20f4a1e5ee0>, <Reaction L_LACt2r at 0x20f4c910df0>, <Reaction GLYCLTt2r at 0x20f4a1c9d60>, <Reaction D_LACt2 at 0x20f4afc3f70>]"
+159,YP_208807_1,{'NGO_ID': 'NGO1776'},"[<Reaction GAPD at 0x20f4b3e1430>, <Reaction E4PD at 0x20f4afd2940>, <Reaction GAPDi_nadp at 0x20f4b3edcd0>]"
+160,YP_207845_1,{'NGO_ID': 'NGO0713'},"[<Reaction OAADC at 0x20f4b0ca400>, <Reaction EDA at 0x20f4afe77c0>]"
+161,YP_207846_1,{'NGO_ID': 'NGO0714'},[<Reaction EDD at 0x20f4b05ce20>]
+162,YP_207324_2,{},"[<Reaction EDTXS3 at 0x20f4b05fe80>, <Reaction EDTXS1 at 0x20f4b05f790>]"
+163,YP_207757_1,{'NGO_ID': 'NGO0617'},[<Reaction ENO at 0x20f4b05f8e0>]
+164,YP_208138_1,{'NGO_ID': 'NGO1055'},"[<Reaction FACOAE160 at 0x20f4b05ffa0>, <Reaction FACOAE161 at 0x20f4b05fd60>, <Reaction FACOAE140 at 0x20f4b05cf70>]"
+165,YP_208284_1,{'NGO_ID': 'NGO1213'},"[<Reaction FACOAL80t2pp at 0x20f4b077e20>, <Reaction FACOAL60t2pp at 0x20f4b063a60>, <Reaction FACOAL161t2pp at 0x20f4b077ca0>, <Reaction FACOAL180t2pp at 0x20f4b063d00>, <Reaction FACOAL140t2pp at 0x20f4b063b20>, <Reaction FACOAL120t2pp at 0x20f4b063520>, <Reaction FACOAL160t2pp at 0x20f4b05fd30>, <Reaction FACOAL181t2pp at 0x20f4b077970>, <Reaction FACOAL141t2pp at 0x20f4b063dc0>, <Reaction FACOAL100t2pp at 0x20f4b063df0>]"
+166,YP_207680_1,{'NGO_ID': 'NGO0530'},"[<Reaction FACOAL140 at 0x20f4b05f6a0>, <Reaction FACOAL181 at 0x20f4b0777c0>, <Reaction FACOAL161 at 0x20f4b063ee0>, <Reaction FACOAL160 at 0x20f4b063af0>]"
+167,YP_207798_1,{'NGO_ID': 'NGO0659'},"[<Reaction FLVR at 0x20f4b083df0>, <Reaction FADRx at 0x20f4b077760>, <Reaction FMNRx at 0x20f4b0ada90>, <Reaction FLVRx at 0x20f4b083ca0>, <Reaction FE3Ri at 0x20f4b067fd0>, <Reaction FMNRx2 at 0x20f4b0adaf0>]"
+168,YP_207236_1,{'NGO_ID': 'NGO0059'},"[<Reaction FADRx at 0x20f4b077760>, <Reaction HPA3MO at 0x20f5366b4f0>]"
+169,YP_207215_1,{'NGO_ID': 'NGO0034'},[<Reaction FBA at 0x20f4b077c70>]
+170,YP_209167_1,{'NGO_ID': 'NGO2161'},"[<Reaction HISTP at 0x20f56694a30>, <Reaction FBP at 0x20f4b083fd0>, <Reaction MI1PP at 0x20f4ad22b50>]"
+171,YP_207976_1,{'NGO_ID': 'NGO0862'},[<Reaction FBP at 0x20f4b083fd0>]
+172,YP_207453_1,{'NGO_ID': 'NGO0293'},[<Reaction FCLT at 0x20f4b0838e0>]
+173,YP_207423_2,{},"[<Reaction FE2Gabcpp at 0x20f4b083b20>, <Reaction FE3Gabcpp at 0x20f4b067940>]"
+174,YP_207239_1,{'NGO_ID': 'NGO0063'},[<Reaction FE2abc at 0x20f4b083e50>]
+175,YP_207382_1,{'NGO_ID': 'NGO0217'},[<Reaction FE2abc at 0x20f4b083e50>]
+176,YP_207381_1,{'NGO_ID': 'NGO0216'},[<Reaction FE2abc at 0x20f4b083e50>]
+177,YP_207380_1,{'NGO_ID': 'NGO0215'},[<Reaction FE2abc at 0x20f4b083e50>]
+178,YP_209010_1,{'NGO_ID': 'NGO1990'},"[<Reaction FE2abcpp at 0x20f4b077700>, <Reaction FE2abc at 0x20f4b083e50>]"
+179,YP_207792_1,{'NGO_ID': 'NGO0653'},[<Reaction FESR at 0x20f4b067cd0>]
+180,YP_207544_1,{'NGO_ID': 'NGO0388'},"[<Reaction FLVRx at 0x20f4b083ca0>, <Reaction FLVR at 0x20f4b083df0>]"
+181,YP_207243_1,{'NGO_ID': 'NGO0068'},"[<Reaction FMNAT at 0x20f4b0ade80>, <Reaction RBFK at 0x20f4ca06af0>]"
+182,YP_208998_1,{'NGO_ID': 'NGO1977'},[<Reaction FOMETRi at 0x20f4b0ade20>]
+183,YP_209057_1,{'NGO_ID': 'NGO2037'},[<Reaction FRUpts at 0x20f4b0adee0>]
+184,YP_209058_1,{'NGO_ID': 'NGO2038'},[<Reaction FRUpts at 0x20f4b0adee0>]
+185,YP_207472_1,{'NGO_ID': 'NGO0313'},[<Reaction FRUpts at 0x20f4b0adee0>]
+186,YP_207238_1,{'NGO_ID': 'NGO0062'},[<Reaction FTHFLi at 0x20f4b0adfa0>]
+187,YP_208117_1,{'NGO_ID': 'NGO1029'},[<Reaction FUM at 0x20f4b3d5e80>]
+188,YP_209072_1,{'NGO_ID': 'NGO2053'},"[<Reaction UAGDP at 0x20f4cbf2940>, <Reaction G1PACT at 0x20f4b3d5970>]"
+189,YP_208926_1,{'NGO_ID': 'NGO1898'},[<Reaction G1PTT at 0x20f4b0ad550>]
+190,YP_207810_1,{'NGO_ID': 'NGO0671'},"[<Reaction G2PP at 0x20f4b3d5b80>, <Reaction MI1PP at 0x20f4ad22b50>]"
+191,YP_209041_1,{'NGO_ID': 'NGO2021'},"[<Reaction G3PD2_1 at 0x20f4b3e1d90>, <Reaction G3PD1 at 0x20f4b3d5dc0>, <Reaction G3PD2 at 0x20f4b3e1c70>]"
+192,YP_207966_1,{'NGO_ID': 'NGO0850'},"[<Reaction G5SD2 at 0x20f4b3e1e20>, <Reaction G5SD at 0x20f4b3e1df0>]"
+193,YP_207847_1,{'NGO_ID': 'NGO0715'},"[<Reaction G6PDH2r at 0x20f4b3e1eb0>, <Reaction G6PBDH at 0x20f4b3e1fd0>]"
+194,YP_208705_1,{'NGO_ID': 'NGO1668'},"[<Reaction G6PI at 0x20f4b3e1280>, <Reaction PGI at 0x20f4b16e5e0>]"
+195,YP_207385_1,{'NGO_ID': 'NGO0220'},"[<Reaction GALUi at 0x20f4b3e1640>, <Reaction GLGC at 0x20f4c231cd0>]"
+196,YP_207312_1,{'NGO_ID': 'NGO0142'},"[<Reaction GALt2 at 0x20f4b3e1850>, <Reaction GLCt2 at 0x20f4c231be0>]"
+197,YP_208956_1,{'NGO_ID': 'NGO1931'},[<Reaction GAPD at 0x20f4b3e1430>]
+198,YP_208295_1,{'NGO_ID': 'NGO1224'},[<Reaction GARFT at 0x20f4b3ed430>]
+199,YP_208442_1,{'NGO_ID': 'NGO1382'},"[<Reaction GTPDPK at 0x20f535eafa0>, <Reaction GDPDPK at 0x20f4b3e14f0>]"
+200,YP_208372_1,{'NGO_ID': 'NGO1308'},"[<Reaction PPGPPDP at 0x20f4c8bfeb0>, <Reaction GDPTPDP at 0x20f4b3edd30>, <Reaction GDPDPK at 0x20f4b3e14f0>]"
+201,YP_209065_1,{'NGO_ID': 'NGO2045'},[<Reaction GF6PTA at 0x20f4b3edb20>]
+202,YP_207362_2,{},[<Reaction GGPTRCO at 0x20f4b3edf40>]
+203,YP_208314_1,{'NGO_ID': 'NGO1243'},"[<Reaction GLYCLTDx at 0x20f4a58eb20>, <Reaction GHBDHy at 0x20f4b3edf70>]"
+204,YP_209090_1,{'NGO_ID': 'NGO2077'},"[<Reaction GLCNt2r at 0x20f4b3ed880>, <Reaction GLCNt2rpp at 0x20f4c2312b0>, <Reaction GLCNt2ir at 0x20f4c231fd0>]"
+205,YP_208414_1,{'NGO_ID': 'NGO1353'},[<Reaction GLCTR4 at 0x20f4c231970>]
+206,YP_208640_1,{'NGO_ID': 'NGO1600'},[<Reaction GLNS at 0x20f4c23abb0>]
+207,YP_209033_1,{'NGO_ID': 'NGO2013'},[<Reaction GLNabc at 0x20f4c231ee0>]
+208,YP_207529_1,{'NGO_ID': 'NGO0373'},[<Reaction GLNabc at 0x20f4c231ee0>]
+209,YP_209034_1,{'NGO_ID': 'NGO2014'},[<Reaction GLNabc at 0x20f4c231ee0>]
+210,YP_209032_1,{'NGO_ID': 'NGO2012'},[<Reaction GLNabc at 0x20f4c231ee0>]
+211,YP_209031_1,{'NGO_ID': 'NGO2011'},[<Reaction GLNabc at 0x20f4c231ee0>]
+212,YP_207528_1,{'NGO_ID': 'NGO0372'},[<Reaction GLNabc at 0x20f4c231ee0>]
+213,YP_207530_1,{'NGO_ID': 'NGO0374'},[<Reaction GLNabc at 0x20f4c231ee0>]
+214,YP_208418_1,{'NGO_ID': 'NGO1358'},"[<Reaction GLUDxi at 0x20f4c231c10>, <Reaction GLUDy at 0x20f4c23aeb0>]"
+215,YP_207426_1,{'NGO_ID': 'NGO0263'},[<Reaction GLUPRT at 0x20f4c23ac70>]
+216,YP_208550_1,{'NGO_ID': 'NGO1500'},[<Reaction GLUR at 0x20f4c23ab50>]
+217,YP_208460_1,{'NGO_ID': 'NGO1403'},[<Reaction GLUTRR at 0x20f4c23aa90>]
+218,YP_208951_1,{'NGO_ID': 'NGO1926'},[<Reaction GLUTRS at 0x20f4c246f70>]
+219,YP_208947_1,{'NGO_ID': 'NGO1922'},[<Reaction GLUabc at 0x20f4c23af70>]
+220,YP_208066_1,{'NGO_ID': 'NGO0968'},[<Reaction GLUabc at 0x20f4c23af70>]
+221,YP_208919_1,{'NGO_ID': 'NGO1890'},"[<Reaction GLUt4pp at 0x20f4c23ac40>, <Reaction GLUt4 at 0x20f4c23aa60>]"
+222,YP_208388_1,{'NGO_ID': 'NGO1325'},[<Reaction GLYCL at 0x20f4a12feb0>]
+223,YP_208463_1,{'NGO_ID': 'NGO1406'},"[<Reaction GLYCL at 0x20f4a12feb0>, <Reaction GLYCL_2 at 0x20f4a175fd0>]"
+224,YP_208461_1,{'NGO_ID': 'NGO1404'},[<Reaction GLYCL at 0x20f4a12feb0>]
+225,YP_208004_1,{'NGO_ID': 'NGO0893'},[<Reaction GLYCTO1 at 0x20f4a03cf10>]
+226,YP_209053_1,{'NGO_ID': 'NGO2033'},[<Reaction GLYOX at 0x20f4eff9d60>]
+227,YP_208259_1,{'NGO_ID': 'NGO1187'},[<Reaction GLYOX at 0x20f4eff9d60>]
+228,YP_208765_1,{'NGO_ID': 'NGO1732'},"[<Reaction PG181abcpp at 0x20f4b3f1c10>, <Reaction PGP141abcpp at 0x20f4b40cca0>, <Reaction PA160abcpp at 0x20f4b1358b0>, <Reaction PGP160abcpp at 0x20f4b40c4c0>, <Reaction PGP181abcpp at 0x20f4b40e4c0>, <Reaction PE180abcpp at 0x20f4b16e520>, <Reaction PGP140abcpp at 0x20f4b40c130>, <Reaction PA181abcpp at 0x20f4b135940>, <Reaction PA180abcpp at 0x20f4b135fa0>, <Reaction PA161abcpp at 0x20f4b135d60>, <Reaction PA120abcpp at 0x20f4b135580>, <Reaction PE140abcpp at 0x20f4b16ed90>, <Reaction PG120abcpp at 0x20f4b16e9a0>, <Reaction PG141abcpp at 0x20f4b3f19a0>, <Reaction PGP120abcpp at 0x20f4b16efa0>, <Reaction PA141abcpp at 0x20f4b1359d0>, <Reaction PG160abcpp at 0x20f4b3f1dc0>, <Reaction PGP161abcpp at 0x20f4b40cdc0>, <Reaction PG161abcpp at 0x20f4b3f1e20>, <Reaction PE160abcpp at 0x20f4b16ee50>, <Reaction PA140abcpp at 0x20f4b135e80>, <Reaction PGP180abcpp at 0x20f4b40ce80>, <Reaction PE181abcpp at 0x20f4b16efd0>, <Reaction PE161abcpp at 0x20f4b16eeb0>, <Reaction PG180abcpp at 0x20f4b16eac0>, <Reaction PG140abcpp at 0x20f4b1412e0>, <Reaction K2L4Aabcpp at 0x20f5670df10>, <Reaction PE141abcpp at 0x20f4b141f10>, <Reaction LIPAabcpp at 0x20f5a348b80>, <Reaction PE120abcpp at 0x20f4b16e3a0>, <Reaction GM1LIPAabcpp at 0x20f4a13cfd0>]"
+229,YP_207558_1,{},"[<Reaction GMHEPK at 0x20f4a61fca0>, <Reaction GMHEPAT at 0x20f4f053ca0>]"
+230,YP_209020_1,{'NGO_ID': 'NGO2000'},"[<Reaction GMHEPK at 0x20f4a61fca0>, <Reaction GMHEPAT at 0x20f4f053ca0>]"
+231,YP_207248_1,{'NGO_ID': 'NGO0073'},"[<Reaction GMHEPPA at 0x20f4a1f4a00>, <Reaction PGLYCP at 0x20f4b40cd90>]"
+232,YP_209170_1,{'NGO_ID': 'NGO2164'},[<Reaction GMPS2 at 0x20f50f02850>]
+233,YP_208939_1,{'NGO_ID': 'NGO1914'},[<Reaction GND at 0x20f4f0aa970>]
+234,YP_209089_1,{'NGO_ID': 'NGO2076'},[<Reaction GNK at 0x20f50da9be0>]
+235,YP_207952_1,{'NGO_ID': 'NGO0830'},[<Reaction GRTT at 0x20f50f02f10>]
+236,YP_207507_1,{'NGO_ID': 'NGO0351'},"[<Reaction GRXR at 0x20f50f5ac10>, <Reaction PAPSR2 at 0x20f4b135550>]"
+237,YP_208441_1,{'NGO_ID': 'NGO1381'},[<Reaction GRXR at 0x20f50f5ac10>]
+238,YP_207286_1,{'NGO_ID': 'NGO0114'},[<Reaction GRXR at 0x20f50f5ac10>]
+239,YP_208288_1,{'NGO_ID': 'NGO1217'},[<Reaction GTHS at 0x20f535d5f40>]
+240,YP_208721_1,{'NGO_ID': 'NGO1684'},[<Reaction GTPCI at 0x20f4f08cf70>]
+241,YP_207543_1,{'NGO_ID': 'NGO0387'},[<Reaction GTPCI at 0x20f4f08cf70>]
+242,YP_208125_1,{'NGO_ID': 'NGO1041'},[<Reaction GTPDPDP at 0x20f50fa9d90>]
+243,YP_209055_1,{'NGO_ID': 'NGO2035'},"[<Reaction HXPRT at 0x20f4a5f3d90>, <Reaction GUAPRT at 0x20f535ea7f0>]"
+244,YP_208618_1,{'NGO_ID': 'NGO1577'},[<Reaction H2Otex at 0x20f535f4b80>]
+245,YP_207471_1,{'NGO_ID': 'NGO0312'},[<Reaction HBZOPT at 0x20f53679280>]
+246,YP_209092_1,{'NGO_ID': 'NGO2079'},[<Reaction HCO3E at 0x20f53608d30>]
+247,YP_207687_1,{'NGO_ID': 'NGO0541'},[<Reaction HDCAt2pp at 0x20f5366b9d0>]
+248,YP_208959_1,{'NGO_ID': 'NGO1934'},[<Reaction HEPT1 at 0x20f5365c880>]
+249,YP_208084_1,{'NGO_ID': 'NGO0987'},[<Reaction HEPT2 at 0x20f5665dfa0>]
+250,YP_207849_1,{'NGO_ID': 'NGO0717'},[<Reaction HEX1 at 0x20f5665d460>]
+251,YP_207712_1,{'NGO_ID': 'NGO0567'},"[<Reaction OPTCCL at 0x20f4b0e5ee0>, <Reaction HHDDI at 0x20f53650ee0>]"
+252,YP_208311_1,{'NGO_ID': 'NGO1240'},[<Reaction HISTD at 0x20f56518fa0>]
+253,YP_209083_1,{'NGO_ID': 'NGO2070'},[<Reaction HISTP at 0x20f56694a30>]
+254,YP_207316_1,{'NGO_ID': 'NGO0146'},[<Reaction HMBS at 0x20f56694640>]
+255,YP_209063_1,{'NGO_ID': 'NGO2043'},[<Reaction HPYRRx at 0x20f56679fd0>]
+256,YP_207905_1,{'NGO_ID': 'NGO0779'},[<Reaction HSDx at 0x20f566940d0>]
+257,YP_208041_1,{'NGO_ID': 'NGO0933'},[<Reaction HSERTA at 0x20f56687f40>]
+258,YP_208042_1,{'NGO_ID': 'NGO0934'},[<Reaction HSERTA at 0x20f56687f40>]
+259,YP_209088_1,{'NGO_ID': 'NGO2075'},[<Reaction HSK at 0x20f566d85e0>]
+260,YP_207773_1,{'NGO_ID': 'NGO0633'},"[<Reaction I2FE2ST at 0x20f5670de20>, <Reaction I2FE2SR at 0x20f566bd520>, <Reaction I4FE4SR at 0x20f5a1a8d60>, <Reaction I4FE4ST at 0x20f5a1a8eb0>, <Reaction I2FE2SS2 at 0x20f566f3df0>]"
+261,YP_209113_1,{'NGO_ID': 'NGO2100'},[<Reaction I2FE2SS2 at 0x20f566f3df0>]
+262,YP_207772_1,{'NGO_ID': 'NGO0632'},"[<Reaction I2FE2ST at 0x20f5670de20>, <Reaction I4FE4ST at 0x20f5a1a8eb0>]"
+263,YP_208161_1,{'NGO_ID': 'NGO1082'},[<Reaction ICDHyr at 0x20f566f3e80>]
+264,YP_207378_1,{'NGO_ID': 'NGO0213'},[<Reaction IG3PS at 0x20f566d8850>]
+265,YP_207376_1,{'NGO_ID': 'NGO0211'},[<Reaction IG3PS at 0x20f566d8850>]
+266,YP_208313_1,{'NGO_ID': 'NGO1242'},[<Reaction IGPDH at 0x20f566e5e20>]
+267,YP_208754_1,{'NGO_ID': 'NGO1721'},[<Reaction IGPS at 0x20f566e5fd0>]
+268,YP_208702_1,{'NGO_ID': 'NGO1665'},"[<Reaction LEUTA at 0x20f5a32c9a0>, <Reaction VALTA at 0x20f4cc10e50>, <Reaction ILETA at 0x20f566d88e0>]"
+269,YP_207925_1,{'NGO_ID': 'NGO0799'},[<Reaction IMPD at 0x20f5a2c6b50>]
+270,YP_208425_1,{'NGO_ID': 'NGO1365'},[<Reaction INDOLEt2pp at 0x20f566bd6a0>]
+271,YP_208424_1,{'NGO_ID': 'NGO1364'},[<Reaction INDOLEt2pp at 0x20f566bd6a0>]
+272,YP_209086_1,{'NGO_ID': 'NGO2073'},"[<Reaction TRPt2r at 0x20f4ca6c790>, <Reaction INDOLEt2rpp at 0x20f5a2d1d30>, <Reaction TRPt2rpp at 0x20f4ca6cf70>, <Reaction INDOLEt2r at 0x20f5a2b8c70>]"
+273,YP_209060_1,{'NGO_ID': 'NGO2040'},[<Reaction IPDDI at 0x20f5a2c6580>]
+274,YP_207813_1,{'NGO_ID': 'NGO0674'},[<Reaction IPMD at 0x20f5a2b8e50>]
+275,YP_207818_1,{'NGO_ID': 'NGO0679'},"[<Reaction IPPMIb at 0x20f5a2b8c40>, <Reaction IPPMIa at 0x20f5a2d1fd0>]"
+276,YP_207816_1,{'NGO_ID': 'NGO0677'},"[<Reaction IPPMIb at 0x20f5a2b8c40>, <Reaction IPPMIa at 0x20f5a2d1fd0>]"
+277,YP_207965_1,{'NGO_ID': 'NGO0848'},[<Reaction IPPS at 0x20f5a2f8250>]
+278,YP_209171_1,{'NGO_ID': 'NGO2165'},"[<Reaction PG181abcpp at 0x20f4b3f1c10>, <Reaction PGP141abcpp at 0x20f4b40cca0>, <Reaction PA160abcpp at 0x20f4b1358b0>, <Reaction PGP160abcpp at 0x20f4b40c4c0>, <Reaction PGP181abcpp at 0x20f4b40e4c0>, <Reaction PE180abcpp at 0x20f4b16e520>, <Reaction PGP140abcpp at 0x20f4b40c130>, <Reaction PA181abcpp at 0x20f4b135940>, <Reaction PA180abcpp at 0x20f4b135fa0>, <Reaction PA161abcpp at 0x20f4b135d60>, <Reaction PA120abcpp at 0x20f4b135580>, <Reaction PE140abcpp at 0x20f4b16ed90>, <Reaction PG120abcpp at 0x20f4b16e9a0>, <Reaction PG141abcpp at 0x20f4b3f19a0>, <Reaction PGP120abcpp at 0x20f4b16efa0>, <Reaction PA141abcpp at 0x20f4b1359d0>, <Reaction PG160abcpp at 0x20f4b3f1dc0>, <Reaction PGP161abcpp at 0x20f4b40cdc0>, <Reaction LIPACabcpp at 0x20f5a32c610>, <Reaction PG161abcpp at 0x20f4b3f1e20>, <Reaction PE160abcpp at 0x20f4b16ee50>, <Reaction PA140abcpp at 0x20f4b135e80>, <Reaction PGP180abcpp at 0x20f4b40ce80>, <Reaction PE161abcpp at 0x20f4b16eeb0>, <Reaction PG180abcpp at 0x20f4b16eac0>, <Reaction PG140abcpp at 0x20f4b1412e0>, <Reaction K2L4Aabcpp at 0x20f5670df10>, <Reaction PE141abcpp at 0x20f4b141f10>, <Reaction LIPAabcpp at 0x20f5a348b80>, <Reaction PE120abcpp at 0x20f4b16e3a0>, <Reaction PE181abcpp at 0x20f4b16efd0>]"
+279,YP_208304_1,{'NGO_ID': 'NGO1233'},"[<Reaction KARA2 at 0x20f5a2f88b0>, <Reaction KARA1 at 0x20f5a2eb940>]"
+280,YP_207410_1,{'NGO_ID': 'NGO0245'},[<Reaction KDOCT2 at 0x20f5a304e80>]
+281,YP_208648_1,{'NGO_ID': 'NGO1608'},[<Reaction KDOPP at 0x20f5a2f88e0>]
+282,YP_207759_1,{'NGO_ID': 'NGO0619'},[<Reaction KDOPS at 0x20f5a2f8550>]
+283,YP_208232_1,{'NGO_ID': 'NGO1154'},[<Reaction Kt2pp at 0x20f5a320a90>]
+284,YP_207395_1,{'NGO_ID': 'NGO0230'},"[<Reaction Kt2pp at 0x20f5a320a90>, <Reaction Kt2r at 0x20f5a2f8970>]"
+285,YP_208561_1,{},"[<Reaction NAt3pp at 0x20f4ae048e0>, <Reaction Kt3pp at 0x20f5a304d60>]"
+286,YP_208805_1,{},[<Reaction Kt3pp at 0x20f5a304d60>]
+287,YP_208001_1,{'NGO_ID': 'NGO0890'},"[<Reaction LDH_D at 0x20f5a2f8b20>, <Reaction LDH_D2 at 0x20f5a320be0>]"
+288,YP_208398_1,{'NGO_ID': 'NGO1336'},[<Reaction LDH_D at 0x20f5a2f8b20>]
+289,YP_207918_1,{'NGO_ID': 'NGO0792'},[<Reaction LIPOCT at 0x20f5a3514f0>]
+290,YP_207919_1,{'NGO_ID': 'NGO0793'},[<Reaction LIPOS at 0x20f5a348ee0>]
+291,YP_208813_1,{'NGO_ID': 'NGO1782'},[<Reaction LPADSS at 0x20f4c5e1d30>]
+292,YP_208386_1,{'NGO_ID': 'NGO1323'},"[<Reaction LPLIPAL1G120pp at 0x20f5a33ac10>, <Reaction LPLIPAL1A160pp at 0x20f4c91bc40>, <Reaction LPLIPAL1G180pp at 0x20f5a348c70>, <Reaction LPLIPAL1G140pp at 0x20f4c91bcd0>, <Reaction LPLIPAL1E140pp at 0x20f5a2f84f0>, <Reaction LPLIPAL1A180pp at 0x20f5a312550>, <Reaction LPLIPAL1E181pp at 0x20f4c91ed90>, <Reaction LPLIPAL1G161pp at 0x20f4cb84dc0>, <Reaction LPLIPAL1E160pp at 0x20f4c91bdf0>, <Reaction LPLIPAL1E180pp at 0x20f4c91ea60>, <Reaction LPLIPAL1E141pp at 0x20f5a351670>, <Reaction LPLIPAL1G181pp at 0x20f4cb84a90>, <Reaction LPLIPAL1A181pp at 0x20f4c91beb0>, <Reaction LPLIPAL1A120pp at 0x20f5a351f10>, <Reaction LPLIPAL1G141pp at 0x20f4cb84f10>, <Reaction LPLIPAL1E120pp at 0x20f4c91e730>, <Reaction LPLIPAL1A161pp at 0x20f4c910f40>, <Reaction LPLIPAL1E161pp at 0x20f4c91bf70>, <Reaction LPLIPAL1A141pp at 0x20f5a348790>, <Reaction LPLIPAL1G160pp at 0x20f4c91efa0>, <Reaction LPLIPAL1A140pp at 0x20f4c910be0>]"
+293,YP_207778_1,{'NGO_ID': 'NGO0639'},"[<Reaction L_LACD3 at 0x20f4c5e1fa0>, <Reaction L_LACD2 at 0x20f5a33aa60>]"
+294,YP_208016_1,{'NGO_ID': 'NGO0906'},"[<Reaction L_LACD3 at 0x20f4c5e1fa0>, <Reaction L_LACD2 at 0x20f5a33aa60>]"
+295,YP_208014_1,{'NGO_ID': 'NGO0904'},"[<Reaction L_LACD3 at 0x20f4c5e1fa0>, <Reaction L_LACD2 at 0x20f5a33aa60>]"
+296,YP_208015_1,{'NGO_ID': 'NGO0905'},"[<Reaction L_LACD3 at 0x20f4c5e1fa0>, <Reaction L_LACD2 at 0x20f5a33aa60>]"
+297,YP_207306_1,{'NGO_ID': 'NGO0136'},[<Reaction MALt10 at 0x20f4cb94ac0>]
+298,YP_207237_1,{'NGO_ID': 'NGO0060'},[<Reaction MAN1PT2 at 0x20f4cb97c40>]
+299,YP_208574_1,{'NGO_ID': 'NGO1526'},[<Reaction MCITL2 at 0x20f4acb4f40>]
+300,YP_208573_1,{'NGO_ID': 'NGO1525'},[<Reaction MCITS at 0x20f4acb4b50>]
+301,YP_209172_1,{'NGO_ID': 'NGO2166'},[<Reaction MCOATA at 0x20f4cb97910>]
+302,YP_208590_1,{'NGO_ID': 'NGO1542'},"[<Reaction MCTP1App at 0x20f4acb4e80>, <Reaction MCTP2App at 0x20f4acc5a00>]"
+303,YP_208643_1,{'NGO_ID': 'NGO1603'},"[<Reaction MCTP2App at 0x20f4acc5a00>, <Reaction MCTP1Bpp at 0x20f4cb84d30>, <Reaction MPTG2 at 0x20f4adf0160>, <Reaction MCTP1App at 0x20f4acb4e80>, <Reaction MPTG at 0x20f4ad2deb0>]"
+304,YP_207596_1,{'NGO_ID': 'NGO0443'},"[<Reaction MDDCP2pp at 0x20f4cb97e20>, <Reaction MDDCP4pp at 0x20f4acc7f40>, <Reaction MDDCP5pp at 0x20f4acc7b50>, <Reaction MDDCP1pp at 0x20f4acc5a60>, <Reaction MDDCP3pp at 0x20f4cb94d60>]"
+305,YP_207280_1,{'NGO_ID': 'NGO0107'},"[<Reaction MDDCP2pp at 0x20f4cb97e20>, <Reaction MDDCP1pp at 0x20f4acc5a60>, <Reaction MDDEP3pp at 0x20f4acc7880>, <Reaction MDDEP4pp at 0x20f4cb97af0>, <Reaction MDDCP4pp at 0x20f4acc7f40>, <Reaction MDDCP5pp at 0x20f4acc7b50>, <Reaction MDDCP3pp at 0x20f4cb94d60>, <Reaction MDDEP1pp at 0x20f4acc7dc0>]"
+306,YP_207485_1,{'NGO_ID': 'NGO0327'},"[<Reaction MDDEP3pp at 0x20f4acc7880>, <Reaction MDDEP1pp at 0x20f4acc7dc0>, <Reaction MDDEP4pp at 0x20f4cb97af0>]"
+307,YP_207405_1,{},[<Reaction ME2 at 0x20f4acc77c0>]
+308,YP_207736_1,{'NGO_ID': 'NGO0594'},"[<Reaction MECDPDH4 at 0x20f4ace2910>, <Reaction MECDPDH2 at 0x20f4acc5f40>, <Reaction MECDPDH at 0x20f4acc7d60>]"
+309,YP_208069_1,{'NGO_ID': 'NGO0971'},[<Reaction MECDPS at 0x20f4ace2ee0>]
+310,YP_208070_1,{'NGO_ID': 'NGO0972'},[<Reaction MEPCT at 0x20f4accdd00>]
+311,YP_207279_2,{'NGO_ID': 'NGO0106'},[<Reaction METAT at 0x20f4acc5dc0>]
+312,YP_208036_1,{'NGO_ID': 'NGO0928'},"[<Reaction METS at 0x20f4ad1c700>, <Reaction METS_1 at 0x20f4ad1c400>]"
+313,YP_209078_1,{'NGO_ID': 'NGO2059'},"[<Reaction METSOXR1 at 0x20f4ad1cbb0>, <Reaction METSOXR2 at 0x20f4ace2f70>]"
+314,YP_209148_1,{'NGO_ID': 'NGO2139'},[<Reaction METabc at 0x20f4acc79d0>]
+315,YP_209147_1,{'NGO_ID': 'NGO2138'},[<Reaction METabc at 0x20f4acc79d0>]
+316,YP_209146_1,{'NGO_ID': 'NGO2137'},[<Reaction METabc at 0x20f4acc79d0>]
+317,YP_208260_1,{'NGO_ID': 'NGO1188'},"[<Reaction MGt5 at 0x20f4ad27940>, <Reaction MG2uabcpp at 0x20f4ad22c40>]"
+318,YP_207716_1,{'NGO_ID': 'NGO0571'},[<Reaction MLDEP2pp at 0x20f4accdac0>]
+319,YP_208986_1,{'NGO_ID': 'NGO1963'},[<Reaction MLDEP2pp at 0x20f4accdac0>]
+320,YP_208723_1,{'NGO_ID': 'NGO1686'},[<Reaction MLDEP2pp at 0x20f4accdac0>]
+321,YP_209144_1,{'NGO_ID': 'NGO2135'},"[<Reaction MLTGY2pp at 0x20f4ad27f10>, <Reaction MLTGY1pp at 0x20f4ad27fa0>, <Reaction MLTGY3pp at 0x20f4ad2dd90>, <Reaction MLTGY4pp at 0x20f4cb975e0>]"
+322,YP_208121_1,{'NGO_ID': 'NGO1033'},"[<Reaction MLTGY2pp at 0x20f4ad27f10>, <Reaction MLTGY1pp at 0x20f4ad27fa0>, <Reaction MLTGY3pp at 0x20f4ad2dd90>, <Reaction MLTGY4pp at 0x20f4cb975e0>]"
+323,YP_209068_1,{'NGO_ID': 'NGO2048'},"[<Reaction MLTGY2pp at 0x20f4ad27f10>, <Reaction MLTGY1pp at 0x20f4ad27fa0>, <Reaction MLTGY3pp at 0x20f4ad2dd90>, <Reaction MLTGY4pp at 0x20f4cb975e0>]"
+324,YP_207748_1,{'NGO_ID': 'NGO0608'},"[<Reaction MLTGY2pp at 0x20f4ad27f10>, <Reaction MLTGY1pp at 0x20f4ad27fa0>, <Reaction MLTGY3pp at 0x20f4ad2dd90>, <Reaction MLTGY4pp at 0x20f4cb975e0>]"
+325,YP_207766_1,{'NGO_ID': 'NGO0626'},"[<Reaction MLTGY2pp at 0x20f4ad27f10>, <Reaction MLTGY1pp at 0x20f4ad27fa0>, <Reaction MLTGY3pp at 0x20f4ad2dd90>, <Reaction MLTGY4pp at 0x20f4cb975e0>]"
+326,YP_207337_2,{},"[<Reaction MNabc at 0x20f4ad2dc40>, <Reaction ZNabc at 0x20f4cc29f40>]"
+327,YP_208278_1,{'NGO_ID': 'NGO1207'},"[<Reaction MNabc at 0x20f4ad2dc40>, <Reaction ZNabc at 0x20f4cc29f40>]"
+328,YP_207336_1,{'NGO_ID': 'NGO0168'},"[<Reaction MNabc at 0x20f4ad2dc40>, <Reaction ZNabc at 0x20f4cc29f40>]"
+329,YP_208940_1,{'NGO_ID': 'NGO1915'},"[<Reaction MOAT2 at 0x20f4adf0f40>, <Reaction MOAT at 0x20f4ad22af0>]"
+330,YP_207590_1,{'NGO_ID': 'NGO0436'},[<Reaction MOHMT at 0x20f4ad27e80>]
+331,YP_207272_1,{'NGO_ID': 'NGO0099'},[<Reaction MPTG at 0x20f4ad2deb0>]
+332,YP_209019_1,{},"[<Reaction MTHFD at 0x20f4adf6a90>, <Reaction MTHFC at 0x20f4adf67f0>]"
+333,YP_208037_1,{'NGO_ID': 'NGO0929'},"[<Reaction MTHFR2_1 at 0x20f4adf0e80>, <Reaction MTHFR2 at 0x20f4adf0e50>]"
+334,YP_207400_1,{'NGO_ID': 'NGO0235'},[<Reaction NADDP at 0x20f4ad2da60>]
+335,YP_208779_1,{'NGO_ID': 'NGO1746'},[<Reaction NADHDH at 0x20f4ad27ac0>]
+336,YP_208473_1,{'NGO_ID': 'NGO1417'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+337,YP_208469_1,{'NGO_ID': 'NGO1413'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+338,YP_208471_1,{'NGO_ID': 'NGO1415'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+339,YP_208472_1,{'NGO_ID': 'NGO1416'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+340,YP_208474_1,{'NGO_ID': 'NGO1418'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+341,YP_208470_1,{'NGO_ID': 'NGO1414'},[<Reaction NADHNQR at 0x20f4adf0dc0>]
+342,YP_207546_1,{'NGO_ID': 'NGO0390'},[<Reaction NADK at 0x20f4adfcbb0>]
+343,YP_208525_1,{'NGO_ID': 'NGO1473'},"[<Reaction NADPHQR4 at 0x20f4adfc700>, <Reaction NADPHQR at 0x20f4adfcd30>, <Reaction NADPHQR3 at 0x20f4adfcfd0>, <Reaction NADPHQR2 at 0x20f4adf6f70>]"
+344,YP_207793_1,{'NGO_ID': 'NGO0654'},"[<Reaction NADS2 at 0x20f4adfcf40>, <Reaction NADS1 at 0x20f4adfcf70>]"
+345,YP_208524_1,{'NGO_ID': 'NGO1472'},"[<Reaction NADTRHD at 0x20f4adfcd00>, <Reaction THD2pp at 0x20f4ca61a30>, <Reaction THD2 at 0x20f4ca61ee0>]"
+346,YP_208522_1,{'NGO_ID': 'NGO1470'},"[<Reaction NADTRHD at 0x20f4adfcd00>, <Reaction THD2pp at 0x20f4ca61a30>, <Reaction THD2 at 0x20f4ca61ee0>]"
+347,YP_208063_1,{'NGO_ID': 'NGO0962'},[<Reaction NAMNPP at 0x20f4adfc9a0>]
+348,YP_207313_1,{'NGO_ID': 'NGO0143'},[<Reaction NAt3_1 at 0x20f4adfcfa0>]
+349,YP_209036_1,{'NGO_ID': 'NGO2016'},"[<Reaction NAt3_2 at 0x20f4ae04790>, <Reaction NAt3_15 at 0x20f4ae04ca0>]"
+350,YP_207451_1,{'NGO_ID': 'NGO0291'},[<Reaction NAt3pp at 0x20f4ae048e0>]
+351,YP_207739_2,{},"[<Reaction NDPK2 at 0x20f4ae04e50>, <Reaction NDPK1 at 0x20f4adfcc70>, <Reaction NDPK7 at 0x20f4b0b34c0>, <Reaction NDPK5 at 0x20f4ae04cd0>, <Reaction NDPK6 at 0x20f4adfc970>, <Reaction NDPK8 at 0x20f4adfc190>, <Reaction NDPK3 at 0x20f4ae04fd0>, <Reaction NDPK4 at 0x20f4adfc7f0>]"
+352,YP_207363_2,{},[<Reaction NH4tpp at 0x20f4b0b3fa0>]
+353,YP_208021_1,{'NGO_ID': 'NGO0913'},"[<Reaction SUCOAS at 0x20f4ca299a0>, <Reaction NMNHYD at 0x20f4b0b38b0>, <Reaction NICRNS at 0x20f4b0b3f40>]"
+354,YP_209093_1,{'NGO_ID': 'NGO2080'},"[<Reaction NMNAT at 0x20f4b0b3a90>, <Reaction NNATr at 0x20f4b0b3f70>]"
+355,YP_208958_1,{'NGO_ID': 'NGO1933'},[<Reaction NNAM at 0x20f4b0b3df0>]
+356,YP_208610_1,{'NGO_ID': 'NGO1565'},[<Reaction NNDPR at 0x20f4b0b3af0>]
+357,YP_208344_1,{'NGO_ID': 'NGO1275'},[<Reaction NORZpp at 0x20f4b0b92b0>]
+358,YP_208140_1,{'NGO_ID': 'NGO1058'},"[<Reaction NTD12 at 0x20f4b0b9670>, <Reaction PPA2 at 0x20f4c720c70>, <Reaction NTD6 at 0x20f4b0b9a90>, <Reaction NTD2 at 0x20f4b0b9ca0>, <Reaction NTD3 at 0x20f4b0b98b0>, <Reaction NTD4 at 0x20f4b0bfca0>, <Reaction NTD5 at 0x20f4b0b9df0>, <Reaction NTD8 at 0x20f4b0bfeb0>, <Reaction NTD1 at 0x20f4b0b9910>, <Reaction PPA at 0x20f4c720790>, <Reaction NTD7 at 0x20f4b0bfdf0>, <Reaction NTD9 at 0x20f4b0bfdc0>, <Reaction NTD10 at 0x20f4b0b95e0>, <Reaction NTD11 at 0x20f4b0bf1f0>]"
+359,YP_209074_1,{'NGO_ID': 'NGO2055'},"[<Reaction NTD4 at 0x20f4b0bfca0>, <Reaction NTD2 at 0x20f4b0b9ca0>]"
+360,YP_207951_1,{'NGO_ID': 'NGO0829'},[<Reaction NTP1 at 0x20f4b0bfd30>]
+361,YP_208766_1,{'NGO_ID': 'NGO1733'},"[<Reaction NTP3 at 0x20f4b0bfe80>, <Reaction NTP10 at 0x20f4b0bff10>, <Reaction NTP1 at 0x20f4b0bfd30>, <Reaction NTP5 at 0x20f4b0bf730>]"
+362,YP_207538_1,{'NGO_ID': 'NGO0382'},[<Reaction NTP1 at 0x20f4b0bfd30>]
+363,YP_207386_1,{'NGO_ID': 'NGO0221'},"[<Reaction NTPP10 at 0x20f4b0bfc10>, <Reaction NTPP11 at 0x20f4b0bfe20>, <Reaction NTPP9 at 0x20f4b0caa60>]"
+364,YP_208303_1,{'NGO_ID': 'NGO1232'},[<Reaction OCBT at 0x20f4b0bfa00>]
+365,YP_208712_1,{'NGO_ID': 'NGO1675'},[<Reaction OCTDPS at 0x20f4b0ca730>]
+366,YP_208349_1,{'NGO_ID': 'NGO1283'},"[<Reaction OHPBAT at 0x20f4b0e5b80>, <Reaction PSERT at 0x20f4c8d5a00>]"
+367,YP_207557_1,{'NGO_ID': 'NGO0401'},[<Reaction OMPDC at 0x20f4b0e5eb0>]
+368,YP_208407_1,{'NGO_ID': 'NGO1345'},[<Reaction OPHBDC at 0x20f4b0e5460>]
+369,YP_209149_1,{'NGO_ID': 'NGO2140'},[<Reaction OPHBDC at 0x20f4b0e5460>]
+370,YP_208480_1,{'NGO_ID': 'NGO1424'},[<Reaction OPHHX at 0x20f4b0e5fd0>]
+371,YP_207210_1,{'NGO_ID': 'NGO0029'},[<Reaction ORPT at 0x20f4b0e59d0>]
+372,YP_207795_1,{'NGO_ID': 'NGO0656'},[<Reaction OXFOt4pp at 0x20f4b0e5fa0>]
+373,YP_008914856_1,{},"[<Reaction PROD2 at 0x20f4c8c2f70>, <Reaction P5CD at 0x20f4b0e5f70>]"
+374,YP_208931_1,{'NGO_ID': 'NGO1905'},[<Reaction P5CR at 0x20f4b0e5ca0>]
+375,YP_207591_1,{'NGO_ID': 'NGO0437'},[<Reaction PANTS at 0x20f4b135eb0>]
+376,YP_208585_1,{'NGO_ID': 'NGO1537'},[<Reaction PAPPT3 at 0x20f4b141970>]
+377,YP_207791_1,{'NGO_ID': 'NGO0652'},"[<Reaction THIORDXi at 0x20f4ca61e20>, <Reaction RNDR4 at 0x20f4ca06a30>, <Reaction RNDR3 at 0x20f4ca06d30>, <Reaction PAPSR at 0x20f4b135a90>, <Reaction RNDR2 at 0x20f4ca06ca0>, <Reaction RNDR1 at 0x20f4ca06fd0>, <Reaction TRDR at 0x20f4ca68df0>]"
+378,YP_207709_1,{'NGO_ID': 'NGO0564'},"[<Reaction PDH at 0x20f4b135fd0>, <Reaction PDHbr at 0x20f4b141ee0>]"
+379,YP_207710_1,{'NGO_ID': 'NGO0565'},"[<Reaction PDHa at 0x20f4b141d00>, <Reaction PDH at 0x20f4b135fd0>]"
+380,YP_208033_1,{'NGO_ID': 'NGO0925'},[<Reaction PDHcr at 0x20f4b135b80>]
+381,YP_207797_1,{'NGO_ID': 'NGO0658'},"[<Reaction PDX5POi at 0x20f4b141e80>, <Reaction PYDXO at 0x20f4ca01820>, <Reaction PYAM5PO at 0x20f4ca018b0>, <Reaction PYDXNO at 0x20f4ca01eb0>]"
+382,YP_208817_1,{'NGO_ID': 'NGO1786'},[<Reaction PDX5PS at 0x20f4b141e50>]
+383,YP_208558_1,{'NGO_ID': 'NGO1508'},[<Reaction PDX5PS at 0x20f4b141e50>]
+384,YP_208376_1,{'NGO_ID': 'NGO1312'},"[<Reaction PYDXPP at 0x20f4ca01d00>, <Reaction PDXPP at 0x20f4b141b50>]"
+385,YP_208403_1,{'NGO_ID': 'NGO1341'},[<Reaction PGAMT at 0x20f4b3f1fd0>]
+386,YP_207851_1,{'NGO_ID': 'NGO0719'},[<Reaction PGI at 0x20f4b16e5e0>]
+387,YP_208944_1,{'NGO_ID': 'NGO1919'},[<Reaction PGK at 0x20f4b40cac0>]
+388,YP_207848_1,{'NGO_ID': 'NGO0716'},[<Reaction PGL at 0x20f4b40ca00>]
+389,YP_208135_1,{'NGO_ID': 'NGO1052'},[<Reaction PGLYCP at 0x20f4b40cd90>]
+390,YP_207368_1,{'NGO_ID': 'NGO0203'},[<Reaction PGLYCP at 0x20f4b40cd90>]
+391,YP_209047_1,{'NGO_ID': 'NGO2027'},[<Reaction PGM at 0x20f4b40cbe0>]
+392,YP_208329_1,{'NGO_ID': 'NGO1258'},[<Reaction PGM at 0x20f4b40cbe0>]
+393,YP_208615_1,{'NGO_ID': 'NGO1574'},"[<Reaction PGPP181pp at 0x20f4b415be0>, <Reaction PGPP141 at 0x20f4b40ea60>, <Reaction PGPP140 at 0x20f4b40ec70>, <Reaction PGPP161pp at 0x20f4b40e490>, <Reaction PGPP181 at 0x20f4b415ac0>, <Reaction PGPP180pp at 0x20f4b4159a0>, <Reaction PGPP160 at 0x20f4b40e730>, <Reaction PGPP161 at 0x20f4b40ef40>, <Reaction PGPP160pp at 0x20f4b40e550>, <Reaction PGPP120 at 0x20f4b40e970>, <Reaction PGPP140pp at 0x20f4b40ed90>, <Reaction PGPP180 at 0x20f4b40cfa0>, <Reaction PGPP120pp at 0x20f4b40efd0>, <Reaction PGPP141pp at 0x20f4b40e5e0>]"
+394,YP_208318_1,{'NGO_ID': 'NGO1247'},"[<Reaction PGSA161 at 0x20f4b415d00>, <Reaction PGSA180 at 0x20f4b40e610>, <Reaction PGSA120 at 0x20f4b415f10>, <Reaction PGSA141 at 0x20f4b415f40>, <Reaction PGSA181 at 0x20f4b415880>, <Reaction PGSA140 at 0x20f4b415fa0>, <Reaction PGSA160 at 0x20f4b415fd0>]"
+395,YP_207356_1,{'NGO_ID': 'NGO0189'},[<Reaction PHEMEabcpp at 0x20f4b415a00>]
+396,YP_207454_1,{'NGO_ID': 'NGO0294'},[<Reaction PHEMEabcpp at 0x20f4b415a00>]
+397,YP_207355_1,{'NGO_ID': 'NGO0188'},[<Reaction PHEMEabcpp at 0x20f4b415a00>]
+398,YP_207533_1,{'NGO_ID': 'NGO0377'},[<Reaction PIt2r at 0x20f4b40ef70>]
+399,YP_208542_1,{'NGO_ID': 'NGO1492'},"[<Reaction PLIPA1E161pp at 0x20f4c6f2820>, <Reaction PLIPA2A120pp at 0x20f4c6fd850>, <Reaction PLIPA2A181pp at 0x20f4c711880>, <Reaction PLIPA2G161pp at 0x20f4c720880>, <Reaction PLIPA2A180pp at 0x20f4c6fd8b0>, <Reaction PLIPA1E180pp at 0x20f4c6f2910>, <Reaction PLIPA1E140pp at 0x20f4c6f2970>, <Reaction PLIPA2E120pp at 0x20f4c7119d0>, <Reaction PLIPA2G180pp at 0x20f4c7209d0>, <Reaction PLIPA1E141pp at 0x20f4c6fd2e0>, <Reaction PLIPA1E181pp at 0x20f4c6fdb20>, <Reaction PLIPA2E180pp at 0x20f4c711b20>, <Reaction PLIPA1E120pp at 0x20f4c6f2bb0>, <Reaction PLIPA2E181pp at 0x20f4c711c70>, <Reaction PLIPA2A161pp at 0x20f4c6fd4c0>, <Reaction PLIPA1G161pp at 0x20f4c6fdcd0>, <Reaction PLIPA2E141pp at 0x20f4c711cd0>, <Reaction PLIPA1G140pp at 0x20f4c6f2d00>, <Reaction PLIPA1E160pp at 0x20f4c6f2d30>, <Reaction PLIPA2G181pp at 0x20f4c720f70>, <Reaction PLIPA1G181pp at 0x20f4c6fddf0>, <Reaction PLIPA2E161pp at 0x20f4c711df0>, <Reaction PLIPA2E140pp at 0x20f4c711f70>, <Reaction PLIPA2A141pp at 0x20f4c6fd640>, <Reaction PLIPA2G140pp at 0x20f4c711640>, <Reaction PLIPA1G120pp at 0x20f4c6f26d0>, <Reaction PLIPA1G141pp at 0x20f4c6fdf10>, <Reaction PLIPA2G141pp at 0x20f4c711f10>, <Reaction PLIPA1G180pp at 0x20f4c6fdf40>, <Reaction PLIPA2E160pp at 0x20f4c711f40>, <Reaction PLIPA1G160pp at 0x20f4c6fdf70>, <Reaction PLIPA2G160pp at 0x20f4c711790>, <Reaction PLIPA2G120pp at 0x20f4c711fa0>, <Reaction PLIPA2A160pp at 0x20f4c6fd7c0>, <Reaction PLIPA2A140pp at 0x20f4c6fd7f0>]"
+400,YP_207531_1,{'NGO_ID': 'NGO0375'},[<Reaction PMANM at 0x20f4c720cd0>]
+401,YP_208238_1,{'NGO_ID': 'NGO1160'},[<Reaction PMPK at 0x20f4c720df0>]
+402,YP_209021_1,{'NGO_ID': 'NGO2001'},[<Reaction PNTK at 0x20f4c720fa0>]
+403,YP_207388_1,{'NGO_ID': 'NGO0223'},[<Reaction PPA at 0x20f4c720790>]
+404,YP_208600_1,{'NGO_ID': 'NGO1552'},"[<Reaction PROt4pp at 0x20f4c8d5eb0>, <Reaction PPAt4pp at 0x20f4c8bfbb0>, <Reaction PROt4 at 0x20f4c8bf730>]"
+405,YP_207541_1,{'NGO_ID': 'NGO0385'},[<Reaction PPBNGS at 0x20f4c720f10>]
+406,YP_209040_2,{'NGO_ID': 'NGO2020'},[<Reaction PPC at 0x20f4c8bff40>]
+407,YP_208371_1,{'NGO_ID': 'NGO1307'},"[<Reaction PPNCL at 0x20f4c8bfc10>, <Reaction PPNCL2 at 0x20f4c8bfdc0>, <Reaction PPCDC at 0x20f4c8bfe50>]"
+408,YP_207188_1,{'NGO_ID': 'NGO0003'},[<Reaction PPK2r at 0x20f4c8bfe80>]
+409,YP_209125_1,{'NGO_ID': 'NGO2113'},"[<Reaction PPK2r at 0x20f4c8bfe80>, <Reaction PPKr at 0x20f4c8bff10>]"
+410,YP_208565_1,{'NGO_ID': 'NGO1515'},"[<Reaction PPND at 0x20f4c8bf820>, <Reaction PSCVT at 0x20f4c8d5d30>]"
+411,YP_209035_1,{'NGO_ID': 'NGO2015'},[<Reaction PPPGO at 0x20f4c8bfa60>]
+412,YP_208728_1,{'NGO_ID': 'NGO1692'},[<Reaction PPPGO at 0x20f4c8bfa60>]
+413,YP_207365_1,{'NGO_ID': 'NGO0200'},[<Reaction PPS at 0x20f4c720dc0>]
+414,YP_208963_1,{'NGO_ID': 'NGO1939'},[<Reaction PRAGSr at 0x20f4c8c2f40>]
+415,YP_207676_1,{'NGO_ID': 'NGO0526'},[<Reaction PRAIS at 0x20f4c8c2af0>]
+416,YP_207424_1,{'NGO_ID': 'NGO0261'},[<Reaction PRAIi at 0x20f4c8bf640>]
+417,YP_207375_1,{'NGO_ID': 'NGO0210'},[<Reaction PRAMPC at 0x20f4c8c2eb0>]
+418,YP_207491_2,{},[<Reaction PRASCSi at 0x20f4c8c2f10>]
+419,YP_207352_1,{'NGO_ID': 'NGO0185'},[<Reaction PRATPP at 0x20f4c8c2ee0>]
+420,YP_208255_1,{'NGO_ID': 'NGO1183'},[<Reaction PRFGS at 0x20f4c8c2fd0>]
+421,YP_207377_1,{'NGO_ID': 'NGO0212'},[<Reaction PRMICI at 0x20f4c8c2c40>]
+422,YP_207594_1,{'NGO_ID': 'NGO0441'},[<Reaction PRPPS at 0x20f4c8c2dc0>]
+423,YP_208010_1,{'NGO_ID': 'NGO0900'},[<Reaction PSCVT at 0x20f4c8d5d30>]
+424,YP_208277_1,{'NGO_ID': 'NGO1206'},"[<Reaction PSD161 at 0x20f4c8d5fa0>, <Reaction PSD180 at 0x20f4c8d5be0>, <Reaction PSD160 at 0x20f4c8d5a90>, <Reaction PSD181 at 0x20f4c8d5ca0>, <Reaction PSD120 at 0x20f4c8d58b0>, <Reaction PSD141 at 0x20f4c8d5cd0>, <Reaction PSD140 at 0x20f4c8d59d0>]"
+425,YP_208520_1,{'NGO_ID': 'NGO1468'},[<Reaction PSP_L at 0x20f4c8c2a90>]
+426,YP_208364_1,{'NGO_ID': 'NGO1298'},[<Reaction PSP_L at 0x20f4c8c2a90>]
+427,YP_207729_1,{'NGO_ID': 'NGO0586'},"[<Reaction PSSA160 at 0x20f4c8ded00>, <Reaction PSSA161 at 0x20f4c8def10>, <Reaction PSSA120 at 0x20f4c8d5e50>, <Reaction PSSA180 at 0x20f4c8ded90>, <Reaction PSSA181 at 0x20f4c8deeb0>]"
+428,YP_207379_1,{'NGO_ID': 'NGO0214'},"[<Reaction PTA2 at 0x20f4c8dedc0>, <Reaction PTAr at 0x20f4c8dea60>]"
+429,YP_209098_1,{'NGO_ID': 'NGO2085'},[<Reaction PTPATi at 0x20f4c8deb80>]
+430,YP_207359_2,{},"[<Reaction PTRCabcpp at 0x20f4c8de430>, <Reaction PTRCabc at 0x20f4c8deee0>]"
+431,YP_207361_1,{'NGO_ID': 'NGO0196'},"[<Reaction PTRCabcpp at 0x20f4c8de430>, <Reaction PTRCabc at 0x20f4c8deee0>]"
+432,YP_207360_1,{'NGO_ID': 'NGO0195'},"[<Reaction PTRCabcpp at 0x20f4c8de430>, <Reaction PTRCabc at 0x20f4c8deee0>]"
+433,YP_208324_1,{'NGO_ID': 'NGO1253'},"[<Reaction PTRCabcpp at 0x20f4c8de430>, <Reaction PTRCabc at 0x20f4c8deee0>]"
+434,YP_208914_1,{'NGO_ID': 'NGO1881'},[<Reaction PYK at 0x20f4ca019d0>]
+435,YP_208612_1,{'NGO_ID': 'NGO1567'},[<Reaction QULNS at 0x20f4ca01730>]
+436,YP_207420_1,{'NGO_ID': 'NGO0257'},"[<Reaction RBFSb at 0x20f4ca01ee0>, <Reaction RBFSa at 0x20f4ca06970>]"
+437,YP_207882_2,{'NGO_ID': 'NGO0755'},[<Reaction RBFSa at 0x20f4ca06970>]
+438,YP_209115_1,{'NGO_ID': 'NGO2102'},[<Reaction RHCCE at 0x20f4ca06f70>]
+439,YP_207753_1,{'NGO_ID': 'NGO0614'},"[<Reaction RNDR2 at 0x20f4ca06ca0>, <Reaction RNDR3 at 0x20f4ca06d30>, <Reaction RNDR4 at 0x20f4ca06a30>, <Reaction RNDR1 at 0x20f4ca06fd0>]"
+440,YP_207234_1,{'NGO_ID': 'NGO0057'},"[<Reaction THIORDXi at 0x20f4ca61e20>, <Reaction RNDR4 at 0x20f4ca06a30>, <Reaction RNDR3 at 0x20f4ca06d30>, <Reaction RNDR2 at 0x20f4ca06ca0>, <Reaction RNDR1 at 0x20f4ca06fd0>, <Reaction TRDR at 0x20f4ca68df0>]"
+441,YP_207754_2,{'NGO_ID': 'NGO0615'},"[<Reaction RNDR2 at 0x20f4ca06ca0>, <Reaction RNDR3 at 0x20f4ca06d30>, <Reaction RNDR4 at 0x20f4ca06a30>, <Reaction RNDR1 at 0x20f4ca06fd0>]"
+442,YP_207885_1,{'NGO_ID': 'NGO0758'},[<Reaction RPE at 0x20f4ca06d60>]
+443,YP_208068_1,{'NGO_ID': 'NGO0970'},[<Reaction RPI at 0x20f4ca06520>]
+444,YP_209006_1,{'NGO_ID': 'NGO1986'},[<Reaction S7PI at 0x20f4ca198b0>]
+445,YP_207850_1,{'NGO_ID': 'NGO0718'},[<Reaction S7PI at 0x20f4ca198b0>]
+446,YP_208891_1,{'NGO_ID': 'NGO1858'},[<Reaction SADT2 at 0x20f4ca19e50>]
+447,YP_208087_1,{'NGO_ID': 'NGO0991'},[<Reaction SDPDS at 0x20f4ca194c0>]
+448,YP_207610_1,{'NGO_ID': 'NGO0460'},[<Reaction SDPTA at 0x20f4ca19790>]
+449,YP_208479_1,{'NGO_ID': 'NGO1423'},[<Reaction SERAT at 0x20f4ca19d30>]
+450,YP_208804_1,{'NGO_ID': 'NGO1773'},"[<Reaction SERD_D at 0x20f4ca196a0>, <Reaction THRD_L at 0x20f4ca619a0>, <Reaction SERD_L at 0x20f4ca21df0>]"
+451,YP_207597_1,{'NGO_ID': 'NGO0444'},"[<Reaction SER_AL at 0x20f4ca19ca0>, <Reaction THRD_L at 0x20f4ca619a0>, <Reaction SERD_L at 0x20f4ca21df0>]"
+452,YP_208980_1,{'NGO_ID': 'NGO1957'},"[<Reaction SERt4 at 0x20f4ca19880>, <Reaction THRt4 at 0x20f4ca558e0>, <Reaction THRt4pp at 0x20f4ca68c40>, <Reaction SERt4pp at 0x20f4ca21b80>]"
+453,YP_207741_1,{'NGO_ID': 'NGO0600'},[<Reaction SFGTHi at 0x20f4ca19550>]
+454,YP_208642_1,{'NGO_ID': 'NGO1602'},[<Reaction SHK3Dr at 0x20f4ca21c10>]
+455,YP_207266_1,{'NGO_ID': 'NGO0093'},[<Reaction SHKK at 0x20f4ca21a60>]
+456,YP_207364_1,{'NGO_ID': 'NGO0199'},[<Reaction SLCYSS at 0x20f4ca21fa0>]
+457,YP_208120_1,{'NGO_ID': 'NGO1032'},[<Reaction SPMDt3 at 0x20f4ca29fd0>]
+458,YP_208786_1,{'NGO_ID': 'NGO1753'},[<Reaction SPMS at 0x20f4ca29fa0>]
+459,YP_207589_1,{'NGO_ID': 'NGO0435'},[<Reaction SPMS at 0x20f4ca29fa0>]
+460,YP_208143_1,{'NGO_ID': 'NGO1061'},"[<Reaction SSALy at 0x20f4ca29910>, <Reaction SSCOARy at 0x20f4ca29e20>, <Reaction SSALx at 0x20f4ca29f40>]"
+461,YP_207804_1,{'NGO_ID': 'NGO0665'},"[<Reaction SSALy at 0x20f4ca29910>, <Reaction SSALx at 0x20f4ca29f40>]"
+462,YP_208029_1,{'NGO_ID': 'NGO0921'},"[<Reaction SUCDi at 0x20f4ca29d00>, <Reaction SUCD4 at 0x20f4ca29610>, <Reaction SUCD1 at 0x20f4ca292e0>]"
+463,YP_208028_1,{'NGO_ID': 'NGO0920'},"[<Reaction SUCDi at 0x20f4ca29d00>, <Reaction SUCD4 at 0x20f4ca29610>, <Reaction SUCD1 at 0x20f4ca292e0>]"
+464,YP_208030_1,{'NGO_ID': 'NGO0922'},"[<Reaction SUCDi at 0x20f4ca29d00>, <Reaction SUCD4 at 0x20f4ca29610>, <Reaction SUCD1 at 0x20f4ca292e0>]"
+465,YP_208031_1,{'NGO_ID': 'NGO0923'},"[<Reaction SUCDi at 0x20f4ca29d00>, <Reaction SUCD4 at 0x20f4ca29610>, <Reaction SUCD1 at 0x20f4ca292e0>]"
+466,YP_208020_1,{'NGO_ID': 'NGO0912'},[<Reaction SUCOAS at 0x20f4ca299a0>]
+467,YP_208650_1,{'NGO_ID': 'NGO1610'},[<Reaction TALA at 0x20f4ca55970>]
+468,YP_208487_1,{'NGO_ID': 'NGO1432'},[<Reaction TAURabc at 0x20f4ca55a60>]
+469,YP_208489_1,{'NGO_ID': 'NGO1434'},[<Reaction TAURabc at 0x20f4ca55a60>]
+470,YP_208488_1,{'NGO_ID': 'NGO1433'},[<Reaction TAURabc at 0x20f4ca55a60>]
+471,YP_009115485_1,{},[<Reaction TDPDRE at 0x20f4ca55ac0>]
+472,YP_207490_1,{'NGO_ID': 'NGO0332'},"[<Reaction TDPDRRr at 0x20f4ca55f40>, <Reaction TDPDRR at 0x20f4ca55f70>]"
+473,YP_208925_1,{'NGO_ID': 'NGO1897'},[<Reaction TDPGDH at 0x20f4ca55c40>]
+474,YP_207407_1,{'NGO_ID': 'NGO0242'},[<Reaction TDSK at 0x20f4ca618b0>]
+475,YP_208704_1,{'NGO_ID': 'NGO1667'},[<Reaction THDPS at 0x20f4ca55eb0>]
+476,YP_207258_1,{'NGO_ID': 'NGO0085'},[<Reaction THDPS at 0x20f4ca55eb0>]
+477,YP_207486_1,{'NGO_ID': 'NGO0328'},[<Reaction THIORDXi at 0x20f4ca61e20>]
+478,YP_207828_1,{'NGO_ID': 'NGO0689'},[<Reaction THRS at 0x20f4ca619d0>]
+479,YP_209025_1,{'NGO_ID': 'NGO2005'},[<Reaction THZPSN at 0x20f4ca68e50>]
+480,YP_208616_1,{'NGO_ID': 'NGO1575'},"[<Reaction TMPK at 0x20f4ca68dc0>, <Reaction THZPSN at 0x20f4ca68e50>]"
+481,YP_208116_1,{'NGO_ID': 'NGO1028'},"[<Reaction TKT1 at 0x20f4ca68a90>, <Reaction TKT2 at 0x20f4ca68be0>]"
+482,YP_208417_1,{'NGO_ID': 'NGO1357'},[<Reaction TMDS at 0x20f4ca68a60>]
+483,YP_209027_1,{'NGO_ID': 'NGO2007'},[<Reaction TMPPP at 0x20f4ca68fa0>]
+484,YP_207198_1,{'NGO_ID': 'NGO0017'},[<Reaction TPI at 0x20f4ca68640>]
+485,YP_207723_1,{'NGO_ID': 'NGO0580'},[<Reaction TRDR at 0x20f4ca68df0>]
+486,YP_207413_1,{'NGO_ID': 'NGO0248'},"[<Reaction TRPS3 at 0x20f4ca6ce20>, <Reaction TRPS1 at 0x20f4ca6c970>]"
+487,YP_207436_1,{'NGO_ID': 'NGO0274'},"[<Reaction TRPS2 at 0x20f4ca6cc40>, <Reaction TRPS1 at 0x20f4ca6c970>]"
+488,YP_208833_1,{'NGO_ID': 'NGO1803'},[<Reaction U23GAAT at 0x20f4ca6cf40>]
+489,YP_208589_1,{'NGO_ID': 'NGO1541'},[<Reaction UAAGDS at 0x20f4ca6c9a0>]
+490,YP_208836_1,{'NGO_ID': 'NGO1806'},[<Reaction UAGAAT at 0x20f4cbf2b20>]
+491,YP_208943_1,{'NGO_ID': 'NGO1918'},[<Reaction UAGCVT at 0x20f4ca6cf10>]
+492,YP_208581_1,{'NGO_ID': 'NGO1533'},[<Reaction UAGPT3 at 0x20f4cbf2d00>]
+493,YP_208583_1,{'NGO_ID': 'NGO1535'},[<Reaction UAMAGS at 0x20f4cbf2b80>]
+494,YP_208580_3,{'NGO_ID': 'NGO1532'},[<Reaction UAMAS at 0x20f4cbf2ee0>]
+495,YP_207550_1,{'NGO_ID': 'NGO0394'},[<Reaction UAPGR at 0x20f4cbf2fd0>]
+496,YP_208595_1,{'NGO_ID': 'NGO1547'},[<Reaction UDCPDP at 0x20f4cbf2d30>]
+497,YP_208827_1,{'NGO_ID': 'NGO1797'},[<Reaction UDCPDPS at 0x20f4cbf2d60>]
+498,YP_208924_1,{'NGO_ID': 'NGO1896'},[<Reaction UDPG4E at 0x20f4cbfefa0>]
+499,YP_207257_1,{'NGO_ID': 'NGO0084'},[<Reaction UDPKAAT at 0x20f4cbfee20>]
+500,YP_208587_1,{'NGO_ID': 'NGO1539'},[<Reaction UGMDDS at 0x20f4cbfedf0>]
+501,YP_209080_1,{'NGO_ID': 'NGO2065'},[<Reaction UHGADA at 0x20f4cbfefd0>]
+502,YP_207939_1,{'NGO_ID': 'NGO0815'},"[<Reaction UM4PL at 0x20f4cc10730>, <Reaction UM3PL at 0x20f4cbfe460>]"
+503,YP_208994_1,{'NGO_ID': 'NGO1973'},"[<Reaction URIDK2r at 0x20f4cc10bb0>, <Reaction UMPK at 0x20f4cc10c40>]"
+504,YP_207515_1,{'NGO_ID': 'NGO0359'},[<Reaction UPP3S at 0x20f4cc10a60>]
+505,YP_207518_1,{'NGO_ID': 'NGO0362'},[<Reaction UPPDC1 at 0x20f4cc10eb0>]
+506,YP_207509_1,{'NGO_ID': 'NGO0353'},[<Reaction UPPRT at 0x20f4cc10f10>]
+507,YP_207732_1,{'NGO_ID': 'NGO0589'},"[<Reaction URAt at 0x20f4cc10a30>, <Reaction URAt2 at 0x20f4cc10ee0>]"
+508,YP_208502_1,{'NGO_ID': 'NGO1448'},[<Reaction USHD at 0x20f4cc10e80>]
+509,YP_207255_1,{'NGO_ID': 'NGO0082'},[<Reaction VPAMTr at 0x20f4cc29e20>]
