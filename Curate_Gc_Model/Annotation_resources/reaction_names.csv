@@ -1,0 +1,1529 @@
+reaction_id,Name
+ALAR,alanine racemase
+ASNN,L asparaginase
+ASNNpp,L asparaginase
+ASNSYN,asparaginyl synthase (via tRNA)
+ASPT,L aspartase
+ASPTA,aspartate transaminase
+DAAD,D Amino acid dehydrogenase
+VPAMT,Valine pyruvate aminotransferase
+A5PISO,arabinose 5 phosphate isomerase
+ALCD19,alcohol dehydrogenase glycerol 
+ALDD2x,aldehyde dehydrogenase acetaldehyde NAD 
+ALDD2y,aldehyde dehydrogenase acetaldehyde NADP 
+ALDD3y,aldehyde dehydrogenase propanal NADP 
+DDPGALA,2 dehydro 3 deoxy 6 phosphogalactonate aldolase
+F6PP,D fructose 6 phosphate phosphatase
+G3PD2,glycerol 3 phosphate dehydrogenase NADP 
+GALM2pp,aldose 1 epimerase
+GGGABADr,gamma glutamyl gamma aminobutyric acid dehydrogenase
+GGPTRCO,gamma glutamyl putrescine oxidase
+GNK,gluconokinase
+HPYRRx,Hydroxypyruvate reductase NADH 
+HPYRRy,Hydroxypyruvate reductase NADPH 
+LCADi,lactaldehyde dehydrogenase
+MCITL2,methylisocitrate lyase
+MCITS,2 methylcitrate synthase
+PGLYCP,Phosphoglycolate phosphatase
+PGMT1,phosphoglucomutase
+PGMT2,phosphoglucomutase
+PPAKr,Propionate kinase
+PTA2,Phosphate acetyltransferase
+R5PP,ribose 5 phosphate phosphatase
+UDPG4E,UDPglucose 4 epimerase
+ME1,malic enzyme NAD 
+ME2,malic enzyme NADP 
+PPA,inorganic diphosphatase
+PPA2,inorganic triphosphatase
+PPC,phosphoenolpyruvate carboxylase
+ACGK,acetylglutamate kinase
+ACGS,N acetylglutamate synthase
+ACODA,acetylornithine deacetylase
+ACOTA,acetylornithine transaminase
+AGMT,agmatinase
+AGPR,N acetyl g glutamyl phosphate reductase
+ARGDC,arginine decarboxylase
+ARGSL,argininosuccinate lyase
+ARGSS,argininosuccinate synthase
+CBPS,carbamoyl phosphate synthase glutamine hydrolysing 
+G5SADs,L glutamate 5 semialdehyde dehydratase spontaneous 
+G5SD,glutamate 5 semialdehyde dehydrogenase
+GLU5K,glutamate 5 kinase
+MTAN,methylthioadenosine nucleosidase
+PROHX,proline hydroxlase
+P3H5CR,pyrroline-5-carboxylate reductase
+P3H5CD,1-pyrroline-5-carboxylate dehydrogenase
+HGTA,4-hydroxyglutamate transaminase
+H2AKGAL,4-hydroxy-2-oxoglutarate aldolase
+OCBT,ornithine carbamoyltransferase
+P5CD,1 pyrroline 5 carboxylate dehydrogenase
+P5CR,pyrroline 5 carboxylate reductase
+PROD2,Proline dehydrogenase
+SPMS,spermidine synthase
+SAMC,SAM decarboxylase
+SSALy,succinate semialdehyde dehydrogenase NADP 
+3HAD100,3 hydroxyacyl acyl carrieprotein dehydratase n C100 
+3HAD120,3 hydroxyacyl acyl carrieprotein dehydratase n C120 
+3HAD121,3 hydroxyacyl acyl carrieprotein dehydratase n C121 
+3HAD140,3 hydroxyacyl acyl carrieprotein dehydratase n C140 
+3HAD141,3 hydroxyacyl acyl carrieprotein dehydratase n C141 
+3HAD160,3 hydroxyacyl acyl carrieprotein dehydratase n C160 
+3HAD161,3 hydroxyacyl acyl carrieprotein dehydratase n C161 
+3HAD161x,3 hydroxyacyl acyl carrier protein dehydratase n C161 
+3HAD180,3 hydroxyacyl acyl carrieprotein dehydratase n C180 
+3HAD181a,3 hydroxyacyl acyl carrier protein dehydratase n C181 
+3HAD40,3 hydroxyacyl acyl carrieprotein dehydratase n C40 
+3HAD60,3 hydroxyacyl acyl carrieprotein dehydratase n C60 
+3HAD80,3 hydroxyacyl acyl carrieprotein dehydratase n C80 
+3OAR100,3 oxoacyl acyl carrieprotein reductase n C100 
+3OAR120,3 oxoacyl acyl carrieprotein reductase n C120 
+3OAR121,3 oxoacyl acyl carrieprotein reductase n C121 
+3OAR140,3 oxoacyl acyl carrieprotein reductase n C140 
+3OAR141,3 oxoacyl acyl carrieprotein reductase n C141 
+3OAR160,3 oxoacyl acyl carrieprotein reductase n C160 
+3OAR161,3 oxoacyl acyl carrieprotein reductase n C161 
+3OAR161x,3 oxoacyl acyl carrier protein reductase n C161 
+3OAR180,3 oxoacyl acyl carrieprotein reductase n C180 
+3OAR181x,3 oxoacyl acyl carrier protein reductase n C181 
+3OAR40,3 oxoacyl acyl carrieprotein reductase n C40 
+3OAR60,3 oxoacyl acyl carrieprotein reductase n C60 
+3OAR80,3 oxoacyl acyl carrieprotein reductase n C80 
+3OAS100,3 oxoacyl acyl carrier protein synthase n C100 
+3OAS120,3 oxoacyl acyl carrier protein synthase n C120 
+3OAS121,3 oxoacyl acyl carrier protein synthase n C121 
+3OAS140,3 oxoacyl acyl carrier protein synthase n C140 
+3OAS141,3 oxoacyl acyl carrier protein synthase n C141 
+3OAS160,3 oxoacyl acyl carrieprotein synthase n C160 
+3OAS161a,3 oxoacyl acyl carrier protein synthase n C161 
+3OAS161,3 oxoacyl acyl carrier protein synthase n C161 
+3OAS180,3 oxoacyl acyl carrier protein synthase n C180 
+3OAS181a,3 oxoacyl acyl carrier protein synthase n C181 
+3OAS60,3 oxoacyl acyl carrieprotein synthase n C60 
+3OAS80,3 oxoacyl acyl carrieprotein synthase n C80 
+ACGAMT,UDP N acetylglucosamineundecaprenylphosphate N acetylglucosamine 1 phosphate transferase
+ALAALAr,D alanine D alanine ligase reversible 
+EAR100x,enoyl acyl carrieprotein reductase NADH  n C100 
+EAR100y,enoyl acyl carrieprotein reductase NADPH  n C100 
+EAR120x,enoyl acyl carrieprotein reductase NADH  n C120 
+EAR120y,enoyl acyl carrieprotein reductase NADPH  n C120 
+EAR121x,enoyl acyl carrieprotein reductase NADH  n C121 
+EAR121y,enoyl acyl carrieprotein reductase NADPH  n C121 
+EAR140x,enoyl acyl carrieprotein reductase NADH  n C140 
+EAR140y,enoyl acyl carrieprotein reductase NADPH  n C140 
+EAR141x,enoyl acyl carrieprotein reductase NADH  n C141 
+EAR141y,enoyl acyl carrieprotein reductase NADPH  n C141 
+EAR160x,enoyl acyl carrieprotein reductase NADH  n C160 
+EAR160y,enoyl acyl carrieprotein reductase NADPH  n C160 
+EAR161x,enoyl acyl carrieprotein reductase NADH  n C161 
+EAR161y,enoyl acyl carrieprotein reductase NADPH  n C161 
+EAR161a,enoyl acyl carrier protein reductase NADH n C161 
+EAR180x,enoyl acyl carrier protein reductase NADH n C180 
+EAR180y,enoyl acyl carrier protein reductase NADPH n C180 
+EAR181x,enoyl acyl carrier protein reductase NADH n C181 
+EAR181y,enoyl acyl carrier protein reductase NADPH n C181 
+EAR40x,enoyl acyl carrier protein reductase NADH n C40 
+EAR40y,enoyl acyl carrier protein reductase NADPH n C40 
+EAR60x,enoyl acyl carrier protein reductase NADH n C60 
+EAR60y,enoyl acyl carrier protein reductase NADPH n C60 
+EAR80x,enoyl acyl carrier protein reductase NADH n C80 
+EAR80y,enoyl acyl carrier protein reductase NADPH n C80 
+FACOAL100t2pp,fatty acid CoA ligase decanoate transport via vectoral Co A coupling 
+FACOAL120t2pp,fatty acid CoA ligase dodecanoate transport via vectoral Co A coupling 
+FACOAL140t2pp,fatty acid CoA ligase tetradecanoate transport via vectoral Co A coupling 
+FACOAL141t2pp,fatty acid CoA ligase tetradecenoate transport via vectoral Co A coupling 
+FACOAL160t2pp,fatty acid CoA ligase hexadecanoate transport via vectoral Co A coupling 
+FACOAL161t2pp,fatty acid CoA ligase hexadecenoate transport via vectoral Co A coupling 
+FACOAL180t2pp,fatty acid CoA ligase octadecanoate transport via vectoral Co A coupling 
+FACOAL181t2pp,fatty acid CoA ligase octadecenoate transport via vectoral Co A coupling 
+FACOAL60t2pp,fatty acid CoA ligase hexanoate transport via vectoral Co A coupling 
+FACOAL80t2pp,fatty acid CoA ligase octanoate transport via vectoral Co A coupling 
+G1PACT,glucosamine 1 phosphate N acetyltransferase
+G1PTT,glucose 1 phosphate thymidylyltransferase
+GALUi,UTP glucose 1 phosphate uridylyltransferase irreversible 
+GDPMNP,GDP mannose phyrophosphatase
+GF6PTA,glutamine fructose 6 phosphate transaminase
+GLUR,glutamate racemase
+MAN1PT2,mannose 1 phosphate guanylyltransferase GDP 
+MI1PP,myo inositol 1 phosphatase
+PAPPT3,phospho N acetylmuramoyl pentapeptide transferase meso 2 6 diaminopimelate 
+PGAMT,phosphoglucosamine mutase
+T2MRSI,trans 2 myristoyl ACP isomerase
+T2DECAIy,trans decenoyl ACP isomerase
+T2HDECI,trans 9 hexadecenoyl ACP isomerase
+TDPDRE,dTDP 4 dehydrorhamnose 3 5 epimerase
+TDPDRR,dTDP 4 dehydrorhamnose reductase
+TDPGDH,dTDPglucose 4 6 dehydratase
+UAAGDS,UDP N acetylmuramoyl L alanyl D glutamyl meso 2 6 diaminopimelate synthetase
+UAGCVT,UDP N acetylglucosamine epimerase
+UAG3E,UDP N acetylglucosamine epimerase
+ACNAMSYN,Neu5NAc condensing enzyme
+CACNAMSYN,CMP-Neu5NAc synthetase
+CAPSSYN,Capsule synthesis
+CAPStex,Capsule transport
+LPS8tex,LPS immunotype L8 transport
+LPS3tex,LPS immunotype L3 transport
+UAGDP,UDP N acetylglucosamine diphosphorylase
+UAGPT3,UDP N acetylglucosamine N acetylmuramyl pentapeptide pyrophosphoryl undecaprenol N acetylglucosamine transferase
+UAMAGS,UDP N acetylmuramoyl L alanyl D glutamate synthetase
+UAMAS,UDP N acetylmuramoyl L alanine synthetase
+UAPGR,UDP N acetylenolpyruvoylglucosamine reductase
+UDCPDP,undecaprenyl diphosphatase
+UDCPDPpp,undecaprenyl diphosphatase periplasm 
+UGMDDS,UDP N acetylmuramoyl L alanyl D glutamyl meso 2 6 diaminopimeloyl D alanyl D alanine synthetase
+ACONTa,aconitase half reaction A Citrate hydro lyase 
+ACONTb,aconitase half reaction B Isocitrate hydro lyase 
+AKGDH,2 Oxogluterate dehydrogenase
+CS,citrate synthase
+FUM,fumarase
+ICDHyr,isocitrate dehydrogenase NADP 
+MDH2,Malate dehydrogenase ubiquinone 8 as accepto
+SUCOAS,succinyl CoA synthetase ADP forming 
+2MAHMP,2 Methyl 4 amino 5 hydroxymethylpyrimidine diphosphatase
+4HTHRS,4 Hydroxy L threonine synthase
+5DOAN,5 deoxyadenosine nuclosidase
+ACPS1,acyl carrieprotein synthase ACP apoenzyme not included in equation
+ACPH,ACP hydrolyase Releases apoenzyme
+ADCL,4 aminobenzoate synthase
+ADCS,4 amino 4 deoxychorismate synthase
+AMAOTr,adenosylmethionine 8 amino 7 oxononanoate transaminase
+AMPMS2,4 amino 2 methyl 5 phosphomethylpyrimidine synthetase
+PMCOAS,Undefined pimeloylCoA synthase
+AOXSr,8 amino 7 oxononanoate synthase
+APRAUR,5 amino 6 5 phosphoribosylamino uracil reductase
+ASP1DC,aspartate 1 decarboxylase
+ASPO3,L aspartate oxidase
+ASPO5,L aspartate oxidase
+ASPO6,L aspartate oxidase
+BTS4,Biotin synthase
+CDPMEK,4 cytidine 5 diphospho 2 C methyl D erythritol kinase
+CHRPL,Chorismate pyruvate lyase
+CPPPGO2,Oxygen Independent coproporphyrinogen III oxidase
+DB4PS,3 4 Dihydroxy 2 butanone 4 phosphate synthase
+DBTS,dethiobiotin synthase
+DHFR,dihydrofolate reductase
+DHFS,dihydrofolate synthase
+DHNPA2,dihydroneopterin aldolase
+DHPPDA2,diaminohydroxyphosphoribosylaminopryrimidine deaminase 25drapp 
+DHPS2,dihydropteroate synthase 1
+DHPS3,dihydropteroate synthase 2
+DHPTPE,dihydroneopterin triphosphate 2 epimerase
+DMATT,dimethylallyltranstransferase
+DMPPS,1 hydroxy 2 methyl 2 E butenyl 4 diphosphate reductase dmpp 
+DMQMT,3 Dimethylubiquinonol 3 methyltransferase
+DNMPPA,Dihydroneopterin monophosphate dephosphorylase
+DNTPPA,Dihydroneopterin triphosphate pyrophosphatase
+DPCOAK,dephospho CoA kinase
+DPR,2 dehydropantoate 2 reductase
+DXPRIi,1 deoxy D xylulose reductoisomerase
+DXPS,1 deoxy D xylulose 5 phosphate synthase
+E4PD,Erythrose 4 phosphate dehydrogenase
+FALDH2,formaldehyde dehydrogenase
+FALGTHLs,formaldehyde glutathione ligase spontaneous 
+FCLT,Ferrochelatase
+CYTCS,Cytochrome c synthesis
+FMNAT,FMN adenylyltransferase
+G1SAT,glutamate 1 semialdehyde aminotransferase
+GDPDPK,GDP diphosphokinase
+GLUCYS,gamma glutamylcysteine synthetase
+GLUTRR,glutamyl tRNA reductase
+GLUTRS,Glutamyl tRNA synthetase
+GRTT,geranyltranstransferase
+GTHPO,glutathione peroxidase
+GTHRDHpp,glutathione hydralase periplasmic 
+GTHS,glutathione synthetase
+GTPCI,GTP cyclohydrolase I
+GTPCII2,GTP cyclohydrolase II 25drapp 
+GTPDPDP,guanosine 5 triphosphate 3 diphosphate diphosphatase
+GTPDPK,GTP diphosphokinase
+HBZOPT,Hydroxybenzoate octaprenyltransferase
+HMBS,hydroxymethylbilane synthase
+HMPK1,hydroxymethylpyrimidine kinase ATP 
+HPPK2,6 hydroxymethyl dihydropterin pyrophosphokinase
+IPDPS,1 hydroxy 2 methyl 2 E butenyl 4 diphosphate reductase ipdp 
+MECDPDH2,2C methyl D erythritol 2 4 cyclodiphosphate dehydratase
+MECDPS,2 C methyl D erythritol 2 4 cyclodiphosphate synthase
+MEPCT,2 C methyl D erythritol 4 phosphate cytidylyltransferase
+MOHMT,3 methyl 2 oxobutanoate hydroxymethyltransferase
+NADDP,NAD diphosphatase
+NADK,NAD kinase
+NT14,nmn nucleosidase
+NADS1,NAD synthase nh3 
+NAMNPP,nicotinic acid mononucleotide pyrophosphorylase
+NMNAT,nicotinamide nucleotide adenylyltransferase
+NNAM,nicotinamidase
+NNDPR,nicotinate nucleotide diphosphorylase carboxylating 
+OCTDPS,Octaprenyl pyrophosphate synthase
+OHPBAT,O Phospho 4 hydroxy L threonine2 oxoglutarate aminotransferase
+OHPHM,2 octaprenyl 6 hydroxyphenol methylase
+OMBZLM,2 Octaprenyl 6 methoxy benzoquinol methylase
+OMMBLHX,2 Octaprenyl 3 methyl 6 methoxy 1 4 benzoquinol hydroxylase
+OMPHHX,2 octaprenyl 6 methoxyphenol hydroxylase
+OPHBDC,Octaprenyl hydroxybenzoate decarboxylase
+OPHHX,2 Octaprenylphenol hydroxylase
+PANTS,pantothenate synthase
+PDX5POi,pyridoxine 5 phosphate oxidase
+PDX5PS,Pyridoxine 5 phosphate synthase
+PDXS,Pyridoxine synthase
+PERD,Erythronate 4 phosphate 4pedehydrogenase
+PMDPHT,pyrimidine phosphatase
+PMPK,phosphomethylpyrimidine kinase
+PNTK,pantothenate kinase
+PPBNGS,porphobilinogen synthase
+PPCDC,phosphopantothenoylcysteine decarboxylase
+PPGPPDP,guanosine 3 5 bis diphosphate 3 diphosphatase
+PPNCL2,phosphopantothenate cysteine ligase
+PPPGO,protoporphyrinogen oxidase aerobic 
+PPPGO3,protoporphyrinogen oxidase anaerobic 
+PTPATi,pantetheine phosphate adenylyltransferase
+PYAM5PO,pyridoxamine 5 phosphate oxidase
+PYAMO,pyridoxamine oxidase
+QULNS,quinolinate synthase
+RBFK,riboflavin kinase
+RBFSa,riboflavin synthase
+RBFSb,riboflavin synthase
+SFGTHi,S Formylglutathione hydralase
+SHCHD2,sirohydrochlorin dehydrogenase NAD 
+TDP,thiamin pyrophosphatase
+THZPSN,thiazole phosphate synthesis
+TMK,thiamine kinase
+TMPK,thiamine phosphate kinase
+TMPPP,thiamine phosphate diphosphorylase
+UDCPDPS,Undecaprenyl diphosphate synthase
+UPP3MT,uroporphyrinogen methyltransferase
+UPP3S,uroporphyrinogen III synthase
+UPPDC1,uroporphyrinogen decarboxylase uroporphyrinogen III 
+ADSR,adenylyl sulfate reductase
+AMPTASECG,alanyl aminopeptidase cys gly 
+PAPSR,phosphoadenylyl sulfate reductase thioredoxin 
+SADT2,Sulfate adenyltransferase
+SERAT,serine O acetyltransferase
+SULRi,sulfite reductase NADPH2 
+TSULST,thiosulfate sulfur transferase
+GCALDD,Glycolaldehyde dehydrogenase
+GLYCL,Glycine Cleavage System
+MTHF,
+MTHFD,methylenetetrahydrofolate dehydrogenase NADP 
+THFL,tetrahydrofolate ligase
+MTHFR2,5 10 methylenetetrahydrofolate reductase NADH 
+GLNS,glutamine synthetase
+GLUDy1,glutamate dehydrogenase NADP 
+GLUDy2,glutamate dehydrogenase NADP 
+AGPAT120,1 tetradecanoyl sn glycerol 3 phosphate O acyltransferase n C120 
+AGPAT140,1 tetradecanoyl sn glycerol 3 phosphate O acyltransferase n C140 
+AGPAT141b,1 tetradecanoyl sn glycerol 3 phosphate O acyltransferase n C141b 
+AGPAT141,1 tetradec 7 enoyl sn glycerol 3 phosphate O acyltransferase n C141 
+AGPAT160,1 hexadecanoyl sn glycerol 3 phosphate O acyltransferase n C160 
+AGPAT160a,1 hexadecanoyl sn glycerol 3 phosphate O acyltransferase n C160a
+AGPAT160b,1 hexadecanoyl sn glycerol 3 phosphate O acyltransferase n C160b
+AGPAT160c,1 hexadecanoyl sn glycerol 3 phosphate O acyltransferase n C160c
+AGPAT160e,1 hexadecanoyl sn glycerol 3 phosphate O acyltransferase n C160e
+AGPAT161a,1 hexadec trans9 enoyl sn glycerol 3 phosphate O acyltransferase n C161a
+AGPAT180,1 octadecanoyl sn glycerol 3 phosphate O acyltransferase n C180 
+AGPAT181,1 octadec 7 enoyl sn glycerol 3 phosphate O acyltransferase n C181 
+DAGK120,diacylglycerol kinase n C120 
+DAGK140,diacylglycerol kinase n C140 
+DAGK141,diacylglycerol kinase n C141 
+DAGK160,diacylglycerol kinase n C160 
+DAGK180,diacylglycerol kinase n C180 
+DAGK181,diacylglycerol kinase n C181 
+DASYN120,CDP diacylglycerol synthetase n C120 
+DASYN140,CDP diacylglycerol synthetase n C140 
+DASYN160a,CDP diacylglycerol synthetase n C160a
+DASYN160b,CDP diacylglycerol synthetase n C160b
+DASYN160c,CDP diacylglycerol synthetase n C160c
+DASYN160e,CDP diacylglycerol synthetase n C160e
+DASYN161a,CDP diacylglycerol synthetase n C140 
+DASYN141b,CDP diacylglycerol synthetase n C140 
+DASYN141,CDP diacylglycerol synthetase n C141 
+DASYN160,CDP diacylglycerol synthetase n C160 
+DASYN180,CDP diacylglycerol synthetase n C180 
+DASYN181,CDP diacylglycerol synthetase n C181 
+G3PAT120,glycerol 3 phosphate acyltransferase C120 
+G3PAT140,glycerol 3 phosphate acyltransferase C140 
+G3PAT141,glycerol 3 phosphate acyltransferase C141 
+G3PAT160,glycerol 3 phosphate acyltransferase C160 
+G3PAT180,glycerol 3 phosphate acyltransferase C180 
+G3PAT161ab,glycerol 3 phosphate acyltransferase C161 
+G3PAT181,glycerol 3 phosphate acyltransferase C181 
+PGPP120,phosphatidylglycerol phosphate phosphatase n C140 
+PGPP120pp,phosphatidylglycerol phosphate phosphatase periplasm n C140 
+PGPP140,phosphatidylglycerol phosphate phosphatase n C140 
+PGPP140pp,phosphatidylglycerol phosphate phosphatase periplasm n C140 
+PGPP160a,phosphatidylglycerol phosphate phosphatase n C160a
+PGPP160b,phosphatidylglycerol phosphate phosphatase n C160b
+PGPP160c,phosphatidylglycerol phosphate phosphatase n C160c
+PGPP160e,phosphatidylglycerol phosphate phosphatase n C160e
+PGPP161a,phosphatidylglycerol phosphate phosphatase n C140 
+PGPP141b,phosphatidylglycerol phosphate phosphatase n C140 
+PGPP160app,phosphatidylglycerol phosphate phosphatase periplasm n C160a
+PGPP160bpp,phosphatidylglycerol phosphate phosphatase periplasm n C160b
+PGPP160cpp,phosphatidylglycerol phosphate phosphatase periplasm n C160c
+PGPP160epp,phosphatidylglycerol phosphate phosphatase periplasm n C160e
+PGPP161app,phosphatidylglycerol phosphate phosphatase periplasm n C140 
+PGPP141bpp,phosphatidylglycerol phosphate phosphatase periplasm n C140 
+PGPP141,phosphatidylglycerol phosphate phosphatase n C141 
+PGPP141pp,phosphatidylglycerol phosphate phosphatase periplasm n C141 
+PGPP160,phosphatidylglycerol phosphate phosphatase n C160 
+PGPP160pp,phosphatidylglycerol phosphate phosphatase periplasm n C160 
+PGPP180,phosphatidylglycerol phosphate phosphatase n C180 
+PGPP180pp,phosphatidylglycerol phosphate phosphatase periplasm n C180 
+PGPP181,phosphatidylglycerol phosphate phosphatase n C181 
+PGPP181pp,phosphatidylglycerol phosphate phosphatase periplasm n C181 
+PGSA120,Phosphatidylglycerol synthase n C120 
+PGSA140,Phosphatidylglycerol synthase n C140 
+PGSA160a,Phosphatidylglycerol synthase n C160a
+PGSA160b,Phosphatidylglycerol synthase n C160b
+PGSA160c,Phosphatidylglycerol synthase n C160c
+PGSA160e,Phosphatidylglycerol synthase n C160e
+PGSA161a,Phosphatidylglycerol synthase n C140 
+PGSA141b,Phosphatidylglycerol synthase n C140 
+PGSA141,Phosphatidylglycerol synthase n C141 
+PGSA160,Phosphatidylglycerol synthase n C160 
+PGSA180,Phosphatidylglycerol synthase n C180 
+PGSA181,Phosphatidylglycerol synthase n C181 
+PLIPA1A120pp,Phospholipase A1 phosphatidate n C120 periplasm 
+PLIPA1A140pp,Phospholipase A1 phosphatidate n C140 periplasm 
+PLIPA1A160a,Phospholipase A1 phosphatidate n C160a
+PLIPA1A160b,Phospholipase A1 phosphatidate n C160b
+PLIPA1A160c,Phospholipase A1 phosphatidate n C160c
+PLIPA1A160e,Phospholipase A1 phosphatidate n C160e
+PLIPA1A161a,Phospholipase A1 phosphatidate n C140 
+PLIPA1A141b,Phospholipase A1 phosphatidate n C140 
+PLIPA1A141pp,Phospholipase A1 phosphatidate n C141 periplasm 
+PLIPA1A160pp,Phospholipase A1 phosphatidate n C160 periplasm 
+PLIPA1A180pp,Phospholipase A1 phosphatidate n C180 periplasm 
+PLIPA1A181pp,Phospholipase A1 phosphatidate n C181 periplasm 
+PLIPA1E120pp,Phospholipase A1 phosphatidylethanolamine n C120 periplasm 
+PLIPA1E140pp,Phospholipase A1 phosphatidylethanolamine n C140 periplasm 
+PLIPA1E160a,Phospholipase A1 phosphatidylethanolamine n C160a
+PLIPA1E160b,Phospholipase A1 phosphatidylethanolamine n C160b
+PLIPA1E160c,Phospholipase A1 phosphatidylethanolamine n C160c
+PLIPA1E160e,Phospholipase A1 phosphatidylethanolamine n C160e
+PLIPA1E161a,Phospholipase A1 phosphatidylethanolamine n C140 
+PLIPA1E141b,Phospholipase A1 phosphatidylethanolamine n C140 
+PLIPA1E141pp,Phospholipase A1 phosphatidylethanolamine n C141 periplasm 
+PLIPA1E160pp,Phospholipase A1 phosphatidylethanolamine n C160 periplasm 
+PLIPA1E180pp,Phospholipase A1 phosphatidylethanolamine n C180 periplasm 
+PLIPA1E181pp,Phospholipase A1 phosphatidylethanolamine n C181 periplasm 
+PLIPA1G120pp,Phospholipase A1 phosphatidylglycerol n C120 periplasm 
+PLIPA1G140pp,Phospholipase A1 phosphatidylglycerol n C140 periplasm 
+PLIPA1G160a,Phospholipase A1 phosphatidylethanolamine n C160a
+PLIPA1G160b,Phospholipase A1 phosphatidylethanolamine n C160b
+PLIPA1G160c,Phospholipase A1 phosphatidylethanolamine n C160c
+PLIPA1G160e,Phospholipase A1 phosphatidylethanolamine n C160e
+PLIPA1G161a,Phospholipase A1 phosphatidylethanolamine n C140 
+PLIPA1G141b,Phospholipase A1 phosphatidylethanolamine n C140 
+PLIPA1G141pp,Phospholipase A1 phosphatidylglycerol n C141 periplasm 
+PLIPA1G160pp,Phospholipase A1 phosphatidylglycerol n C160 periplasm 
+PLIPA1G180pp,Phospholipase A1 phosphatidylglycerol n C180 periplasm 
+PLIPA1G181pp,Phospholipase A1 phosphatidylglycerol n C181 periplasm 
+PSD120,Phosphatidylserine decarboxylase n C120 
+PSD140,Phosphatidylserine decarboxylase n C140 
+PSD160a,Phosphatidylserine decarboxylase n C160a
+PSD160b,Phosphatidylserine decarboxylase n C160b
+PSD160c,Phosphatidylserine decarboxylase n C160c
+PSD160e,Phosphatidylserine decarboxylase n C160e
+PSD161a,Phosphatidylserine decarboxylase n C140 
+PSD141b,Phosphatidylserine decarboxylase n C140 
+PSD141,Phosphatidylserine decarboxylase n C141 
+PSD160,Phosphatidylserine decarboxylase n C160 
+PSD180,Phosphatidylserine decarboxylase n C180 
+PSD181,Phosphatidylserine decarboxylase n C181 
+PSSA120,Phosphatidylserine syntase n C120 
+PSSA140,Phosphatidylserine syntase n C140 
+PSSA160a,Phosphatidylserine syntase n C160a
+PSSA160b,Phosphatidylserine syntase n C160b
+PSSA160c,Phosphatidylserine syntase n C160c
+PSSA160e,Phosphatidylserine syntase n C160e
+PSSA161a,Phosphatidylserine syntase n C140 
+PSSA141b,Phosphatidylserine syntase n C140 
+PSSA141,Phosphatidylserine syntase n C141 
+PSSA160,Phosphatidylserine syntase n C160 
+PSSA180,Phosphatidylserine syntase n C180 
+PSSA181,Phosphatidylserine syntase n C181 
+DSERDHr,D serine dehydrogenase
+GHMT2r,glycine hydroxymethyltransferase reversible
+GLYCK2,glycerate kinase
+LSERDHr,L serine dehydrogenase
+PGCD,phosphoglycerate dehydrogenase
+PSERT,phosphoserine transaminase
+ENO,enolase
+FBA,fructose bisphosphate aldolase
+FBP,fructose bisphosphatase
+G6PP,glucose 6 phosphate phosphatase
+GAPD2,glyceraldehyde 3 phosphate dehydrogenase
+GAPD1,glyceraldehyde 3 phosphate dehydrogenase
+HEX1,hexokinase D glucoseATP 
+PDH,pyruvate dehydrogenase
+PGI,glucose 6 phosphate isomerase
+PGK,phosphoglycerate kinase
+PGM,phosphoglycerate mutase
+PPS,phosphoenolpyruvate synthase
+PYK,pyruvate kinase
+TPI,triose phosphate isomerase
+GLYCK,glycerate kinase
+GLYCLTDx,Glycolate dehydrogenase NAD 
+GLYCLTDy,Glycolate dehydrogenase NADP 
+ATPPRT,ATP phosphoribosyltransferase
+HISTD,histidinol dehydrogenase
+HISTP,histidinol phosphatase
+HSTPT,histidinol phosphate transaminase
+IG3PS,Imidazole glycerol 3 phosphate synthase
+IGPDH,imidazoleglycerol phosphate dehydratase
+PRAMPC,phosphoribosyl AMP cyclohydrolase
+PRATPP,phosphoribosyl ATP pyrophosphatase
+PRMICI,1 5 phosphoribosyl 5 5 phosphoribosylamino methylideneamino imidazole 4 carboxamide isomerase
+PRPPS,phosphoribosylpyrophosphate synthetase
+HMT,histdine O-methyltransferase
+Agt,silvetransport out via proton antiport
+Cuabcpp,copper ABC transporter
+CAt1pp,calcium sodium antiporte11 
+CD2t3pp,cadmium Cd2 transport out via proton antiport periplasm 
+COBALT2t2pp,cobalt Co2 transport out via proton antiport periplasm 
+COBALT2t1pp,cobalt transport in via permease no H 
+CU1abcpp,CoppeCu 1 ABC transporteperiplasm 
+CU1Opp,Cuprous Oxidase Cu1 
+CU2abcpp,CoppeCu2 ABC transporteperiplasm 
+CU2tpp,coppetransport in via permease no H 
+FE3abcpp1,iron III transport via ABC system periplasm to cytoplasm 
+FEROpp,ferroxidase
+Ktpp,potassium transport in via proton symport periplasm 
+Kt2pp,potassium transport out via proton antiport periplasm 
+MG2t1pp,magnesium Mg2 transport inout via proton antiport periplasm 
+MG2t2pp,magnesium Mg2 transport inout via diffusion periplasm 
+MN2abcpp,manganese mn2 transport via ABC system periplasm 
+MOBDabcpp,molybdate transport via ABC system periplasm 
+N2Otpp,nitrious oxide transport diffusion 
+NAtpp,sodium transport out via proton antiport cytoplasm to periplasm 
+NH4tpp,ammonia reversible transport periplasm 
+NI2tpp,nickel Ni2 transport out via proton antiport periplasm 
+NOtpp,NO transport diffusion 
+O2tpp,o2 transport via diffusion periplasm 
+PIt2rpp,phosphate reversible transport via symport periplasm 
+SO2tpp,SO2 transport via diffusion periplasm 
+SULabcpp,sulfate transport via ABC system periplasm 
+TSULabcpp,thiosulfate transport via ABC system periplasm 
+ZN2abcpp,Zinc Zn2 ABC transporteperiplasm 
+ZN2t3pp,zinc Zn2 transport out via proton antiport periplasm 
+ZN2tpp,zinc transport in via permease no H 
+AGMHE,ADP D glycero D manno heptose epimerase
+EDTXS1,Endotoxin Synthesis lauroyl transferase1
+EDTXS2,Endotoxin Synthesis lauroyl transferase2
+GALT1,galactosyltransferase I LPS core synthesis 
+GNAT2,GlcNActransferase LPS core synthesis II
+GALT2,galactosyltransferase LPS core synthesis II
+GALT3,galactosyltransferase LPS core synthesis III
+SIALT1,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase"
+GLCTR1,glucosyltransferase III LPS core synthesis 
+GMHEPAT,D glycero D manno hepose 1 phosphate adenyltransferase
+GMHEPK,D glycero D manno heptose 7 phosphate kinase
+GMHEPPA,D glycero D manno heptose 1 7 bisphosphate phosphatase
+HEPT1,heptosyltransferase I LPS core synthesis 
+HEPT2,heptosyltransferase II LPS core synthesis 
+GNAT1,GlcNActransferase LPS core synthesis I
+PEAT1,PEAtransferase LPS core synthesis
+KDOCT2,3 deoxy manno octulosonate cytidylyltransferase
+KDOPP,3 deoxy manno octulosonate 8 phosphatase
+KDOPS,3 deoxy D manno octulosonic acid 8 phosphate synthase
+LPADSS,Lipid A disaccaride synthase
+MOAT,3 deoxy D manno octulosonic acid transferase
+MOAT2,3 deoxy D manno octulosonic acid transferase
+PETNT161pp,phosphoethanolamine transferase c C161 
+PETNT181pp,phosphoethanolamine transferase c C181 
+S7PI,sedoheptulose 7 phosphate isomerase
+TDSK,Tetraacyldisaccharide 4 kinase
+U23GAAT,UDP 3 O 3 hydroxymyristoyl glucosamine acyltransferase
+UAGAAT,UDP N acetylglucosamine acyltransferase
+UHGADA,UDP 3 O acetylglucosamine deacetylase
+USHD,UDP sugar hydrolase
+ACCOAC,acetyl CoA carboxylase
+ACOATA,Acetyl CoA ACP transacylase
+KAS14,beta ketoacyl ACP synthase
+KAS15,beta ketoacyl ACP synthase 2 
+MACPD,Malonyl ACP decarboxylase
+MCOATA,Malonyl CoA ACP transacylase
+AHCYSNS,S adenosylhomocysteine nucleosidase
+HSTA,homoserine O-acetyltransferase
+DHPTDCs,4 5 dihydroxy 2 3 pentanedione cyclization spontaneous 
+HSST,homoserine O succinyltransferase
+METAT,methionine adenosyltransferase
+METOX1s,methionine oxidation spontaneous 
+METOX2s,methionine oxidation 2 spontaneous 
+METS,methionine synthase
+METSOXR1,L methionine S oxide reductase
+METSOXR2,L methionine sulfoxide reductase
+RHCCE,S ribosylhomocysteine cleavage enzyme
+SHSL1,O succinylhomoserine lyase L cysteine 
+SHSL2,O succinylhomoserine lyase L cysteine2
+SHSL3,O succinylhomoserine lyase L cysteine3
+SHSL4,O succinylhomoserine lyase L cysteine4
+SHSL5,O-succinyl-L-homoserine succinate-lyase 
+GLYOX,hydroxyacylglutathione hydrolase
+LGTHL,lactoylglutathione lyase
+MGSA,methylglyoxal synthase
+MPTG,murein polymerizing transglycosylase
+MPTG2,murein polymerizing transglycosylase 2 three linked units 
+MCTP1App,murein crosslinking transpeptidase 1A A2pm D ala  periplasm 
+MCTP2App,murein crosslinking transpeptidase 1A A2pm D ala  periplasm 
+MDDCP1pp,murein D D carboxypeptidase murein5px4p  periplasm 
+MDDCP2pp,murein D D carboxypeptidase murein5px4px4p  periplasm 
+MDDCP3pp,murein D D carboxypeptidase murein5p5p  periplasm 
+MAc3,murein O acytlation murein5p4p  periplasm 
+MDDCP4pp,murein D D carboxypeptidase murein5p4p  periplasm 
+MAc4,murein O acytlation murein4p4p  periplasm 
+MAc5,murein O acytlation murein4p4pOAc  periplasm 
+MAc6,murein O acytlation murein4p3p  periplasm 
+MDDCP6pp,murein D D carboxypeptidase murein5p5p5p  periplasm 
+MAc1,murein O acytlation murein4p4p4p  periplasm 
+MAc2,murein O acytlation murein4px4px4p  periplasm 
+MAc7,murein O acytlation murein4p4p4pOAc  periplasm 
+MAc8,murein O acytlation murein4p4p4pdiOAc  periplasm 
+%MAcEs1,murein O acytlation murein4p4p4pOAc esterase periplasm 
+%MAcEs2,murein O acytlation murein4px4px4pOAc esterase  periplasm 
+%MAcEs3,murein O acytlation murein5p4pOAc esterase  periplasm 
+%MAcEs4,murein O acytlation murein4p4pOAc esterase periplasm 
+%MAcEs5,murein O acytlation murein4p4pdiOAc esterase periplasm 
+%MAcEs6,murein O acytlation murein4p3pOAc esterase periplasm 
+%MAcEs7,murein O acytlation murein4p4p4pdiOAc esterase periplasm 
+%MAcEs8,murein O acytlation murein4p4p4ptriOAc esterase periplasm 
+AGM3PA,N Acetyl D glucosamine anhydrous N Acetylmuramyl tripeptide amidase
+AGM3PApp,N Acetyl D glucosamine anhydrous N Acetylmuramyl tripeptide amidase periplasm 
+AGM3PH,N Acetyl D glucosamine anhydrous N Acetylmuramyl tripeptide beta 1 4 N acetylglucosaminidase
+AGM3Pt2pp,GlcNAc anhMurNAc tripeptide transport in via proton symport periplasm 
+AGM4PA,N Acetyl D glucosamine anhydrous N Acetylmuramyl tetrapeptide amidase
+AGM4PApp,N Acetyl D glucosamine anhydrous N Acetylmuramyl tetrapeptide amidase periplasm 
+AGM4PCP,N Acetyl D glucosamine anhydrous N Acetylmuramyl tetrapeptide L D carboxypeptidase
+AGM4PCPpp,N Acetyl D glucosamine anhydrous N Acetylmuramyl tetrapeptide L D carboxypeptidase periplasmic 
+AGM4PH,N Acetyl D glucosamine anhydrous N Acetylmuramyl tetrapeptide beta 1 4 N acetylglucosaminidase
+AGM4Pt2pp,GlcNAc anhMurNAc tetrapeptide transport in via proton symport periplasm 
+AGMH,N Acetyl D glucosamine anhydrous N Acetylmuramyl beta 1 4 N acetylglucosaminidase
+AGMt2pp,GlcNAc anhMurNAc transport in via proton symport periplasm 
+AM3PA,anhydrous N Acetylmuramyl tripeptide amidase
+AM4PA,anhydrous N Acetylmuramyl tetrapeptide amidase
+AM4PCP,anhydrous N Acetylmuramyl tetrapeptide L D carboxypeptidase
+ANHMK,1 6 anhydrous N Acetylmuramate kinase
+LADGMDH,L alanyl gamma D glutamyl meso diaminopimelate hydrolase
+AMPTASEAGl,aminopeptidase ala glut 
+MDDEP1pp,murein D D endopeptidase murein4px4p  periplasm 
+MDDEP3pp,murein D D endopeptidase murein5px4p  periplasm 
+MDDEP4pp,murein D D endopeptidase murein4px4px4p  periplasm 
+MLTGY1pp,murein lytic transglycosylase murein4p4p  periplasm 
+MLTGY2pp,murein lytic transglycosylase murein4p3p  periplasm 
+MLTGY4pp,murein lytic transglycosylase murein4px4p4p  periplasm 
+MLTGY5pp,murein lytic transglycosylase murein4p4p4p  periplasm 
+UM3PL,UDP N acetylmuramateL alanyl gamma D glutamyl meso diaminopimelate ligase
+UM4PCP,UDP N acetylmuramoyl L alanyl D gamma glutamyl meso 2 6 diaminopimelate D alanine L D carboxypeptidase
+UM4PL,UDP N acetylmuramateL alanyl gamma D glutamyl meso diaminopimelate D alanine ligase
+ALADt2pp,alanine D transport
+NHFRBO,NADHflavorubredoxin oxidoreductase
+NOR,nitric oxide reductase
+ADK1,adenylate kinase
+ADK3,adentylate kinase GTP 
+ADK4,adentylate kinase ITP 
+ADPRDP,ADPribose diphosphatase
+ADPT,adenine phosphoribosyltransferase
+ATPHs,ATP amine hydrolysis spontaneous 
+CYTK1,cytidylate kinase CMP 
+CYTK2,cytidylate kinase dCMP 
+DADK,deoxyadenylate kinase
+DATPHs,dATP amine hydrolysis spontaneous 
+DCTPD,dCTP deaminase
+DGK1,deoxyguanylate kinase dGMPATP 
+DTMPK,dTMP kinase
+DUTPDP,dUTP diphosphatase
+GK1,guanylate kinase GMPATP 
+GTPHs,GTP amine hydrolysis spontaneous 
+GUAPRT,guanine phosphoribosyltransferase
+XPRT,xanthine phosphoribosyltransferase 
+HXPRT,hypoxanthine phosphoribosyltransferase Hypoxanthine 
+NDPK1,nucleoside diphosphate kinase ATPGDP 
+NDPK2,nucleoside diphosphate kinase ATPUDP 
+NDPK3,nucleoside diphosphate kinase ATPCDP 
+NDPK4,nucleoside diphosphate kinase ATPdTDP 
+NDPK5,nucleoside diphosphate kinase ATPdGDP 
+NDPK6,nucleoside diphosphate kinase ATPdUDP 
+NDPK7,nucleoside diphosphate kinase ATPdCDP 
+NDPK9,nucleoside diphosphate kinase ATPdIDP 
+NDPK8,nucleoside diphosphate kinase ATPdADP 
+NNATr,nicotinate nucleotide adenylyltransferase
+NTD13,Nicotinate nucleotidase
+NTD10,5 nucleotidase XMP 
+NTD11,5 nucleotidase IMP 
+NTD2,5 nucleotidase UMP 
+NTD3,5 nucleotidase dCMP 
+NTD4,5 nucleotidase CMP 
+NTD5,5 nucleotidase dTMP 
+NTD6,5 nucleotidase dAMP 
+NTD7,5 nucleotidase AMP 
+NTD8,5 nucleotidase dGMP 
+NTD9,5 nucleotidase GMP 
+NTP1,nucleoside triphosphatase ATP 
+NTP10,nucleoside triphosphatase ITP 
+NTP3,nucleoside triphosphatase GTP 
+NTP5,nucleoside triphosphatase CTP 
+NTPP10,Nucleoside triphosphate pyrophosphorylase ditp 
+NTPP11,Nucleoside triphosphate pyrophosphorylase xtp 
+NTPP2,Nucleoside triphosphate pyrophosphorylase gtp 
+NTPP4,Nucleoside triphosphate pyrophosphorylase ctp 
+NTPP9,Nucleoside triphosphate pyrophosphorylase itp 
+RNDR1,ribonucleoside diphosphate reductase ADP 
+RNDR2,ribonucleoside diphosphate reductase GDP 
+RNDR3,ribonucleoside diphosphate reductase CDP 
+RNDR4,ribonucleoside diphosphate reductase UDP 
+TMDS,thymidylate synthase
+UMPK,UMP kinase
+UPPRT,uracil phosphoribosyltransferase
+URIDK2r,uridylate kinase dUMP 
+XPPT,xanthine phosphoribosyltransferase
+ATPS4rpp,ATP synthase fouprotons foone ATP  periplasm 
+NADH16pp,NADH dehydrogenase ubiquinone 8 4 protons periplasm 
+NADH5,NADH dehydrogenase ubiquinone 8 
+NADPHQR2,NADPH Quinone Reductase Ubiquinone 8 
+NADHQNa,Na translocating Quinone Reductase
+NADTRHD,NAD transhydrogenase
+PPK2r,polyphosphate kinase
+PPKr,polyphosphate kinase
+SUCD1,succinate dehydrogenase irreversible 
+FUMR,fumarate reductase
+THD2pp,NAD P transhydrogenase periplasm 
+TRDR1,thioredoxin reductase NADPH 
+TRDR2,thioredoxin reductase NADPH 
+UCYR,ubiquinol cytc oxidoreductase
+CYOX,cytochrome c oxidase
+EDA,2 dehydro 3 deoxy phosphogluconate aldolase
+EDD,6 phosphogluconate dehydratase
+G6PDH2r,glucose 6 phosphate dehydrogenase
+GND,phosphogluconate dehydrogenase
+PGL,6 phosphogluconolactonase
+RPE,ribulose 5 phosphate 3 epimerase
+RPI,ribose 5 phosphate isomerase
+TALA,transaldolase
+TKT1,transketolase
+TKT2,transketolase
+CTPS2,CTP synthase glutamine 
+CTPS3,CTP aminohydrolase
+ADSL1r,adenylsuccinate lyase
+ADSL2r,adenylosuccinate lyase
+ADSS,adenylosuccinate synthase
+AICART,phosphoribosylaminoimidazolecarboxamide formyltransferase
+AIRC2,phosphoribosylaminoimidazole carboxylase
+AIRC3,phosphoribosylaminoimidazole carboxylase mutase rxn 
+ASPCT,aspartate carbamoyltransferase
+DHORD2,dihydoorotic acid dehydrogenase quinone8 
+DHORTS,dihydroorotase
+GART,GAR transformylase T
+GARFT1,phosphoribosylglycinamide formyltransferase1
+GARFT2,phosphoribosylglycinamide formyltransferase2
+GLUPRT,glutamine phosphoribosyldiphosphate amidotransferase
+GMPS2,GMP synthase
+IMPC,IMP cyclohydrolase
+IMPD,IMP dehydrogenase
+OMPDC,orotidine 5 phosphate decarboxylase
+ORPT,orotate phosphoribosyltransferase
+PRAGSr,phosphoribosylglycinamide synthase
+PRAIS,phosphoribosylaminoimidazole synthase
+PRASCSi,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PRFGS,phosphoribosylformylglycinamidine synthase
+ACKr,acetate kinase
+ACS,acetyl CoA synthetase
+ALCD2x,alcohol dehydrogenase ethanol 
+PTAr,phosphotransacetylase
+ASAD,aspartate semialdehyde dehydrogenase
+ASPK,aspartate kinase
+ATHRDHr,L allo threonine dehydrogenase
+DAPDC,diaminopimelate decarboxylase
+DAPE,diaminopimelate epimerase
+DHDPRy,dihydrodipicolinate reductase NADPH 
+DHDPS,dihydrodipicolinate synthase
+HSDy,homoserine dehydrogenase NADPH 
+HSK,homoserine kinase
+SDPDS,succinyl diaminopimelate desuccinylase
+SDPTA,succinyldiaminopimelate transaminase
+THDPS,tetrahydrodipicolinate succinylase
+THRS,threonine synthase
+THRD_L,L threonine deaminase
+12DGR120tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C120 
+12DGR140tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C140 
+12DGR141tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C141 
+12DGR160tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C160 
+12DGR161tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C161 
+12DGR180tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C180 
+12DGR181tipp,1 2 diacylglycerol transport via flipping periplasm to cytoplasm n C181 
+2AGPA120tipp,2 Acyl sn glycero 3 phosphatidate n C120 transporter via facilitated diffusion periplasm 
+2AGPA140tipp,2 Acyl sn glycero 3 phosphatidate n C140 transporter via facilitated diffusion periplasm 
+2AGPA141tipp,2 Acyl sn glycero 3 phosphatidate n C141 transporter via facilitated diffusion periplasm 
+2AGPA160tipp,2 Acyl sn glycero 3 phosphatidate n C160 transporter via facilitated diffusion periplasm 
+2AGpa161tipp,2-hexadec-trans-9-enoyl-sn-glycerol-3-phosphate transporter via facilitated diffusion periplasm 
+2AGPA161tipp,2 Acyl sn glycero 3 phosphatidate n C161 transporter via facilitated diffusion periplasm 
+2AGPA180tipp,2 Acyl sn glycero 3 phosphatidate n C180 transporter via facilitated diffusion periplasm 
+2AGPA181atipp,2-octadec-7-enoyl-sn-glycerol-3-phosphate transporter via facilitated diffusion periplasm 
+2AGPA181tipp,2 Acyl sn glycero 3 phosphatidate n C181 transporter via facilitated diffusion periplasm 
+2AGPE120tipp,2 Acyl sn glycero 3 phosphoethanolamine n C120 transporter via facilitated diffusion periplasm 
+2AGPE140tipp,2 Acyl sn glycero 3 phosphoethanolamine n C140 transporter via facilitated diffusion periplasm 
+2AGPE141tipp,2 Acyl sn glycero 3 phosphoethanolamine n C141 transporter via facilitated diffusion periplasm 
+2AGPE160tipp,2 Acyl sn glycero 3 phosphoethanolamine n C160 transporter via facilitated diffusion periplasm 
+2AGpe161tipp,2 Acyl sn glycero 3 phosphoethanolamine n C161a transporter via facilitated diffusion periplasm 
+2AGPE161tipp,2 Acyl sn glycero 3 phosphoethanolamine n C161 transporter via facilitated diffusion periplasm 
+2AGPE180tipp,2 Acyl sn glycero 3 phosphoethanolamine n C180 transporter via facilitated diffusion periplasm 
+2agpe181tipp,2 Acyl sn glycero 3 phosphoethanolamine n C181a transporter via facilitated diffusion periplasm 
+2AGPG120tipp,2 Acyl sn glycero 3 phosphoglycerol n C120 transporter via facilitated diffusion periplasm 
+2AGPG140tipp,2 Acyl sn glycero 3 phosphoglycerol n C140 transporter via facilitated diffusion periplasm 
+2AGPG141tipp,2 Acyl sn glycero 3 phosphoglycerol n C141 transporter via facilitated diffusion periplasm 
+2AGPG160tipp,2 Acyl sn glycero 3 phosphoglycerol n C160 transporter via facilitated diffusion periplasm 
+2AGpg161tipp,2 Acyl sn glycero 3 phosphoglycerol n C161a transporter via facilitated diffusion periplasm 
+2AGPG161tipp,2 Acyl sn glycero 3 phosphoglycerol n C161 transporter via facilitated diffusion periplasm 
+2AGPG180tipp,2 Acyl sn glycero 3 phosphoglycerol n C180 transporter via facilitated diffusion periplasm 
+2agpg181tipp,2 Acyl sn glycero 3 phosphoglycerol n C181a transporter via facilitated diffusion periplasm 
+ACALDtpp,acetaldehyde reversible transport periplasm 
+ACt2rpp,acetate reversible transport via proton symport periplasm 
+ADEt2rpp,adenine transport via proton symport reversible periplasm 
+AKGt3pp,akg transport via Na symport periplasm 
+ALAabcpp,L alanine reversible transport via ABC system periplasm 
+ALAt1pp,L alanine reversible transport via proton symport periplasm
+ALAt2pp,L alanine transport in via sodium symport periplasm 
+ARGabcpp,L arginine transport via ABC system periplasm 
+ARGt1pp,L arginine reversible transport via proton symport periplasm
+ARGt2pp,L arginine transport via sodium symport periplasm
+ASCBptspp,L ascorbate transport via PEPPyr PTS periplasm 
+ASNabcpp,L asparagine transport via ABC system periplasm 
+ASNt1pp,L asparagine reversible transport via proton symport periplasm
+ASNt2pp,L asparagine transport via sodium symport periplasm
+ASPabcpp,L aspartate transport via ABC system periplasm 
+ASPt1pp,L aspartate reversible transport via proton symport periplasm
+ASPt2pp,Naaspartate symport periplasm 
+CHLt2pp,choline transport via proton symport periplasm 
+CITt1pp,Citrate transport via Na symport periplasm 
+CITt2pp,Citrate transport via H symport periplasm 
+CO2tpp,CO2 transporter via diffusion periplasm 
+COtpp,CO transporter via diffusion periplasm 
+CSNt2pp,cytosine transport in via proton symport periplasm 
+CYSabcpp,L cysteine uptake via ABC system periplasm 
+CYSt1pp,L cystine reversible transport via proton symport periplasm
+CYSt2pp,L cystine transport via sodium symport periplasm
+DLACt2pp,D lactate transport via proton symport periplasm 
+ETOHt2rpp,ethanol reversible transport via proton symport periplasm 
+FALDtpp,formaldehyde transport via diffusion periplasm 
+FORtpp,oxalate/formate antiport periplasm
+FRUpts2pp,Fructose transport via PEPPyr PTS f6p generating periplasm 
+Fumt1pp,Fumarate transport via Na symport periplasm 
+Fumt2pp,Fumarate transport via H symport periplasm 
+GALt2pp,D galactose transport in via proton symport periplasm 
+GLCNt2rpp,D gluconate transport via proton symport reversible periplasm 
+GLCptspp,D glucose transport via PEPPyPTS periplasm 
+GLCtpp,D glucose transport in via proton symport periplasm 
+GLNabcpp,L glutamine transport via ABC system periplasm 
+GLNt1pp,L glutamine reversible transport via proton symport periplasm
+GLNt2pp,L glutamine transport via sodium symport periplasm
+GLUabcpp,L glutamate transport via ABC system periplasm 
+GLUt1pp,L glutamate reversible transport via proton symport periplasm
+GLUt2pp,Naglutamate symport periplasm 
+GLYabcpp,L Glycine reversible transport via ABC system periplasm 
+GLYBt2pp,Glycine betaine transport via proton symport periplasm 
+GLYCLTt2rpp,glycolate transport via proton symport reversible periplasm 
+GLYCtpp,glycerol transport via channel periplasm 
+GLYt1pp,glycine transport in via proton symport periplasm 
+GLYt2pp,glycine transport in via sodium symport periplasm 
+GUAt2pp,guanine transport in via proton symport periplasm 
+H2Otpp,H2O transport via diffusion periplasm 
+H2St1pp,h2s transport periplasm 
+H2SO,Hydrogen sulfide oxidation
+H2tpp,hydrogen transport diffusion periplasm 
+Hgtpp,Mercury tramsport via ATPase periplasm
+HISabcpp,L histidine transport via ABC system periplasm 
+HISt1pp,L histidine reversible transport via proton symport periplasm
+HISt2pp,L histidine transport via sodium symport periplasm
+HYXNtpp,Hypoxanthine transport via H symport periplasm 
+ILEabcpp,L isoleucine reversible transport via ABC system periplasm 
+ILEt1pp,L isoleucine export reversible transport via proton symport periplasm
+ILEt2pp,L isoleucine reversible transport via proton antiport periplasm
+ILEt3pp,L isoleucine transport via sodium symport periplasm
+LEUabcpp,L leucine reversible transport via ABC system periplasm 
+LEUt1pp,L leucine reversible export transport via proton symport periplasm
+LEUt2pp,L leucine reversible transport via proton antiport periplasm
+LEUt3pp,L leucine transport via sodium symport periplasm
+LLACt3pp,L lactate transport via proton symport periplasm
+LYSabcpp,L lysine reversible transport via ABC system periplasm 
+LYSt1pp,L lysine reversible transport via proton symport periplasm
+LYSt2pp,L lysine transport via sodium symport periplasm
+Malt1pp,Malate transport via Na symport periplasm 
+Malt2pp,Malate transport via H symport periplasm 
+MALTpp,maltose transport via diffusion
+MALTptspp,maltose transport via PEPPyPTS periplasm 
+MANptspp,D mannose transport via PEPPyr PTS periplasm 
+METDabcpp,D methionine transport via ABC system periplasm 
+METLabcpp,L methionine transport via ABC system periplasm 
+METt1pp,L methionine reversible export transport via proton symport periplasm
+METt2pp,L methionine transport via sodium symport periplasm
+MNt2pp,manganese Mn2 transport in via proton symport periplasm 
+OAAt1pp,Oxaloacetate transport via Na symport periplasm 
+OAAt2pp,Oxaloacetate transport via H symport periplasm 
+ORNabcpp,ornithine transport via ABC system periplasm 
+PA120abcpp,phosphatidate transport via ABC system n C120 periplasm 
+PA140abcpp,phosphatidate transport via ABC system n C140 periplasm 
+PA141abcpp,phosphatidate transport via ABC system n C141 periplasm 
+PA141babcpp,phosphatidate transport via ABC system n C141b periplasm 
+PA160aabcpp,phosphatidate transport via ABC system n C160a periplasm 
+PA160abcpp,phosphatidate transport via ABC system n C160 periplasm 
+PA160babcpp,phosphatidate transport via ABC system n C160b periplasm 
+PA160cabcpp,phosphatidate transport via ABC system n C160c periplasm 
+PA160eabcpp,phosphatidate transport via ABC system n C160e periplasm 
+pa161abcpp,phosphatidate transport via ABC system n C161a periplasm 
+PA180abcpp,phosphatidate transport via ABC system n C180 periplasm 
+pa181abcpp,phosphatidate transport via ABC system n C181 periplasm 
+PE120abcpp,phosphatidylethanolamine transport via ABC system n C120 periplasm 
+PE140abcpp,phosphatidylethanolamine transport via ABC system n C140 periplasm 
+PE141abcpp,phosphatidylethanolamine transport via ABC system n C141 periplasm 
+PE141babcpp,phosphatidylethanolamine transport via ABC system n C141b periplasm 
+PE160aabcpp,phosphatidylethanolamine transport via ABC system n C160a periplasm 
+PE160abcpp,phosphatidylethanolamine transport via ABC system n C160 periplasm 
+PE160babcpp,phosphatidylethanolamine transport via ABC system n C160b periplasm 
+PE160cabcpp,phosphatidylethanolamine transport via ABC system n C160c periplasm 
+PE160eabcpp,phosphatidylethanolamine transport via ABC system n C160e periplasm 
+pe161abcpp,phosphatidylethanolamine transport via ABC system n C161a periplasm 
+PE180abcpp,phosphatidylethanolamine transport via ABC system n C180 periplasm 
+pe181abcpp,phosphatidylethanolamine transport via ABC system n C181 periplasm 
+PG120abcpp,phosphatidylglycerol transport via ABC system n C120 periplasm 
+PG140abcpp,phosphatidylglycerol transport via ABC system n C140 periplasm 
+PG141abcpp,phosphatidylglycerol transport via ABC system n C141 periplasm 
+PG141babcpp,phosphatidylglycerol transport via ABC system n C141b periplasm 
+PG160aabcpp,phosphatidylglycerol transport via ABC system n C160a periplasm 
+PG160abcpp,phosphatidylglycerol transport via ABC system n C160 periplasm 
+PG160babcpp,phosphatidylglycerol transport via ABC system n C160b periplasm 
+PG160cabcpp,phosphatidylglycerol transport via ABC system n C160c periplasm 
+PG160eabcpp,phosphatidylglycerol transport via ABC system n C160e periplasm 
+pg161abcpp,phosphatidylglycerol transport via ABC system n C161a periplasm 
+PG180abcpp,phosphatidylglycerol transport via ABC system n C180 periplasm 
+pg181abcpp,phosphatidylglycerol transport via ABC system n C181 periplasm 
+PGP120abcpp,phosphatidylglycerophosphate transport via ABC system n C120 periplasm 
+PGP140abcpp,phosphatidylglycerophosphate transport via ABC system n C140 periplasm 
+PGP141abcpp,phosphatidylglycerophosphate transport via ABC system n C141 periplasm 
+PGP141babcpp,phosphatidylglycerophosphate transport via ABC system n C141b periplasm 
+PGP160aabcpp,phosphatidylglycerophosphate transport via ABC system n C160a periplasm 
+PGP160abcpp,phosphatidylglycerophosphate transport via ABC system n C160 periplasm 
+PGP160babcpp,phosphatidylglycerophosphate transport via ABC system n C160b periplasm 
+PGP160cabcpp,phosphatidylglycerophosphate transport via ABC system n C160c periplasm 
+PGP160eabcpp,phosphatidylglycerophosphate transport via ABC system n C160e periplasm 
+pgp161abcpp,phosphatidylglycerophosphate transport via ABC system n C161a periplasm 
+PGP180abcpp,phosphatidylglycerophosphate transport via ABC system n C180 periplasm 
+pgp181abcpp,phosphatidylglycerophosphate transport via ABC system n C181 periplasm 
+PHEabcpp,L phenylalanine reversible transport via ABC system periplasm 
+PHEt1pp,L phenylalanine reversible transport via proton symport periplasm
+PHEt2pp,L phenylalanine transport via sodium symport periplasm
+PROabcpp,L-proline transport via ABC system periplasm 
+PROt1pp,L proline transport via sodium symport periplasm
+PROt2rpp,L proline reversible transport via proton symport periplasm 
+PTRCabcpp,putrescine transport via ABC system periplasm 
+PYRtrpp,pyruvate transport via proton symport periplasm 
+SERabcpp,L serine transport via ABC system periplasm 
+SERt1rpp,L serine reversible transport via proton symport periplasm 
+SERt2pp,L serine via sodium symport periplasm 
+SPMDabcpp,spermidine transport via ABC system periplasm 
+Succt1pp,Succinate transport via H symport periplasm 
+SUCCt2pp,Succinate transport via Na symport periplasm 
+SUCptspp,sucrose transport via PEPPyr periplasm 
+TDSR1,thioldisulfide reductase DsbC 
+TDSR2,thioldisulfide reductase DsbG 
+THMabcpp,thiamine transport via ABC system periplasm 
+THRabcpp,L threonine reversible transport via ABC system periplasm 
+THRt1rpp,L threonine reversible transport via proton symport periplasm 
+THRt2pp,L threonine via sodium symport periplasm 
+TRPabcpp,L tryptophan reversible transport via ABC system periplasm 
+TRPt1rpp,L tryptophan reversible transport via proton symport periplasm 
+TYRabcpp,L tyrosine reversible transport via ABC system periplasm 
+TYRt1rpp,L tyrosine reversible transport via proton symport periplasm 
+URAt1pp,uracil transport in via proton symport periplasm 
+URAt2rpp,uracil transport in via xanthine symport periplasm 
+VALabcpp,L valine reversible transport via ABC system periplasm 
+VALt1pp,L valine reversible export transport via proton symport periplasm
+VALt2pp,L valine reversible transport via proton antiport periplasm
+VALt3pp,L valine transport via sodium symport periplasm
+XANt2pp,xanthine transport in via proton symport periplasm 
+LIPAabcpp,lipid A transport via ABC system periplasm 
+DDCAtexi,Fatty acid dodecanoate transport via facilitated irreversible diffusion extracellulato periplasm 
+HGFE,Heme acquisition from Haemoglobin
+LFFE,Fe acquisition from Lactoferrin
+TFFE,Fe acquisition from Transferrin
+PHEMEtpp,Heme transport
+PHEMEFErel,Fe release from Heme
+H2Otex,H2O transport via diffusion extracellulato periplasm 
+HDCAtexi,Hexadecanoate transport via facilitated irreversible diffusion extracellulato periplasm 
+HDCEAtexi,Hexadecenoate transport via facilitated irreversible diffusion extracellulato periplasm 
+OCDCAtexi,Octadecanoate transport via facilitated irreversible diffusion extracellulato periplasm 
+OCDCEAtexi,Octadecenoate n C181 transport via facilitated irreversible diffusion extracellulato periplasm 
+TTDCAtexi,Tetradecanoate transport via facilitated irreversible diffusion extracellulato periplasm 
+TTDCEAtexi,Tetradecenoate transport via facilitated irreversible diffusion extracellulato periplasm 
+34dhpactex,dihydroxyphenylacetaldehyde transport via diffusion extracellular to periplasm 
+3AMPtex,3AMP transport via diffusion extracellular to periplasm 
+3CMPtex,3CMP transport via diffusion extracellular to periplasm 
+3PEPTtex,LalaDgluMdap tripeptide transport via diffusion extracellular to periplasm 
+3UMPtex,3UMP transport via diffusion extracellular to periplasm 
+4HOXPACDtex,4 hydroxyphenylacetaldehyde transport via diffusion extracellular to periplasm 
+4PEPTtex,LalaDgluMdapDala pentapeptide transport via diffusion extracellular to periplasm 
+5DGLCNtex,5 Dehydro D gluconate transport via diffusion extracellular to periplasm 
+ABUTtex,4 aminobutyrate transport via diffusion extracellular to periplasm 
+ACACtex,acetoacetate transport via diffusion extracellular to periplasm 
+ACALDtex,acetaldehyde transport via diffusion extracellular to periplasm 
+ACGALtex,N acetyl D galactosamine transport via diffusion extracellular to periplasm 
+ACGAM1Ptex,N acetyl D glucosamine 1 phosphate transport via diffusion extracellular to periplasm 
+ACGAtex,N Acetyl D glucosamine transport via diffusion extracellular to periplasm 
+ACMANAtex,N acetyl D mannosamine transport via diffusion extracellular to periplasm 
+ACMUMtex,N acetylmuramate transport via diffusion extracellular to periplasm 
+ACSERtex,O Acetyl L serine transport via diffusion extracellular to periplasm 
+ACtex,Acetate transport via diffusion extracellular to periplasm 
+ADEtex,adenine transport via diffusion extracellular to periplasm 
+AGMtex,agmatine transport via diffusion extracellular to periplasm 
+AKGtex,alpha ketoglutarate transport via diffusion extracellular to periplasm 
+ALAALAtex,D alanyl D alanine DalaDala transport via diffusion extracellular to periplasm 
+ALAtex,L alanine transport via diffusion extracellular to periplasm 
+ALLTNtex,allantoin transport via diffusion extracellular to periplasm 
+ALLtex,Allose transport via diffusion extracellular to periplasm 
+AMPtex,AMP transport via diffusion extracellular to periplasm 
+ANHGMtex,GlcNAc anhMurNAc transport via diffusion extracellular to periplasm 
+ARBtex,L arabinose transport via diffusion extracellular to periplasm 
+ARGtex,L arginine transport via diffusion extracellular to periplasm 
+ASCBtex,L ascorbate transport via diffusion extracellular to periplasm 
+ASNtex,L asparagine transport via diffusion extracellular to periplasm 
+ASO3tex,arsenite transport via diffusion extracellular to periplasm 
+ASPtex,L aspartate transport via diffusion extracellular to periplasm 
+BALAtex,beta alanine transport via diffusion extracellular to periplasm 
+BUTSO3tex,butanesulfonate transport via diffusion extracellular to periplasm 
+BUTtex,Butyrate transport via diffusion extracellular to periplasm 
+CA2tex,calcium Ca2 transport via diffusion extracellular to periplasm 
+CD2tex,cadmium Cd2 transport via diffusion extracellular to periplasm 
+CGLYtex,L Cysteinylglycine transport via diffusion extracellular to periplasm 
+CHLtex,choline transport via diffusion extracellular to periplasm 
+CITtex,citrate transport via diffusion extracellular to periplasm 
+CLtex,chloride Cl 1 transport via diffusion extracellular to periplasm 
+CMPtex,CMP transport via diffusion extracellular to periplasm 
+CO2tex,CO2 transport via diffusion extracellular to periplasm 
+COtex,CO transport via diffusion extracellular to periplasm 
+COBALT2tex,cobalt Co2 transport via diffusion extracellular to periplasm 
+CRNtex,L carnitine transport via diffusion extracellular to periplasm 
+CSNtex,cytosine transport via diffusion extracellular to periplasm 
+CU2tex,copper Cu2 transport via diffusion extracellular to periplasm 
+CUtex,copper Cu1 transport via diffusion extracellular to periplasm 
+CYANtex,Cyanide transport via diffusion extracellular to periplasm 
+CYNTtex,Cyanate transport via diffusion extracellular to periplasm 
+CYSDtex,D cysteine transport via diffusion extracellular to periplasm 
+CYStex,L cysteine transport via diffusion extracellular to periplasm 
+CYTDtex,cytidine transport via diffusion extracellular to periplasm 
+DALAtex,D Alanine transport via diffusion extracellular to periplasm 
+DAMPtex,dAMP transport via diffusion extracellular to periplasm 
+DAPtex,1 5 Diaminopentane transport via diffusion extracellular to periplasm 
+DCAtex,Decanoate transport via diffusion extracellular to periplasm 
+DCMPtex,dCMP transport via diffusion extracellular to periplasm 
+DDGLCNtex,2 dehydro 3 deoxy D gluconate transport via diffusion extracellular to periplasm 
+DGMPtex,dGMP transport via diffusion extracellular to periplasm 
+DGSNtex,deoxyguanosine transport via diffusion extracellular to periplasm 
+DHAPtex,Dihydroxyacetone phosphate transport via diffusion extracellular to periplasm 
+DHAtex,Dihydroxyacetone transport via diffusion extracellular to periplasm 
+DIMPtex,dIMP transport via diffusion extracellular to periplasm 
+DINStex,deoxyinosine transport via diffusion extracellular to periplasm 
+DMSOtex,Dimethyl sulfoxide transport via diffusion extracellular to periplasm 
+DMStex,Dimethyl sulfide transport via diffusion extracellular to periplasm 
+DOPAtex,dopamine transport via diffusion extracellular to periplasm 
+DSERtex,D serine transport via diffusion extracellular to periplasm 
+DTMPtex,dTMP transport via diffusion extracellular to periplasm 
+DUMPtex,dUMP transport via diffusion extracellular to periplasm 
+ETHAtex,ethanolamine transport via diffusion extracellular 
+ETHSO3tex,ethanesulfonate transport via diffusion extracellular to periplasm 
+ETOHtex,ethanol transport via diffusion extracellular to periplasm 
+F6Ptex,fructose 6 phosphate transport via diffusion extracellular to periplasm 
+FALDtex,formaldehyde transport via diffusion extracellular to periplasm 
+FE2tex,iron II transport via diffusion extracellular to periplasm 
+FE3tex,iron III transport via diffusion extracellular to periplasm 
+FORtex,formate transport via diffusion extracellular to periplasm 
+FRULYStex,fructoselysine transporter via diffusion extracellular 
+FRUURtex,D fructuronate transport via diffusion extracellular 
+FRUtex,D fructose transport via diffusion extracellular to periplasm 
+FUCtex,L fucose transport via diffusion extracellular to periplasm 
+FUMtex,Fumarate transport via diffusion extracellular to periplasm 
+G1Ptex,D glucose 1 phosphate transport via diffusion
+G3PCtex,glycero 3 phosphocholine transport via diffusion extracellular to periplasm 
+G3PEtex,glycero 3 phosphoethanolamine transport via diffusion extracellular to periplasm 
+G3PGtex,glycerophoglycerol transport via diffusion extracellular to periplasm 
+G3PItex,glycero 3 phospho 1 inositol transport via diffusion extracellular to periplasm 
+G3PStex,glycerophosphserine transport via diffusion extracellular to periplasm 
+G6Ptex,glucose 6 phosphate transport via diffusion extracellular to periplasm 
+GAL1Ptex,D galactose 1 phosphate transport via diffusion extracellular to periplasm 
+GALBDtex,beta D galactose transport via diffusion extracellular to periplasm 
+GALCTNLtex,L galactonate transport via diffusion extracellular to periplasm 
+GALCTNtex,D galactonate transport via diffusion extracellular to periplasm 
+GALCTtex,D galactarte transport via diffusion extracellular to periplasm 
+GALTtex,Galactitol transport via diffusion extracellular to periplasm 
+GALURtex,D galacturonate transport via diffusion extracellular to periplasm 
+GALtex,D galactose transport via diffusion extracellular to periplasm 
+GAMAN6Ptex,D glucosamine 6 phosphate transport via diffusion extracellular to periplasm 
+GAMtex,D glucosamine transport via diffusion extracellular to periplasm 
+GBBTNtex,gamma butyrobetaine transport via diffusion extracellular to periplasm 
+GDPtex,GDP transport via diffusion extracellular to periplasm 
+GLCNtex,D gluconate transport via diffusion extracellular to periplasm 
+GLCRtex,D glucarate transport via diffusion extracellular to periplasm 
+GLCUR1Ptex,D glucuronate 1 phosphate transport via diffusion extracellular to periplasm 
+GLCURtex,D glucuronat transport via diffusion extracellular to periplasm 
+GLCtex,glucose transport via diffusion extracellular to periplasm 
+GLNtex,L glutamine transport via diffusion extracellular to periplasm 
+GLUtex,L glutamate transport via diffusion extracellular to periplasm 
+GLYALDtex,Glyceraldehyde transport via diffusion extracellular to periplasm 
+GLYBtex,Glycine betaine transport via diffusion extracellular to periplasm 
+GLYC2Ptex,Glycerol 2 phosphate transport via diffusion extracellular to periplasm 
+GLYC3Ptex,Glycerol 3 phosphate transport via diffusion extracellular to periplasm 
+GLYCAtex,D glycerate transport via diffusion extracellular to periplasm 
+GLYCLTtex,glycolate transport via diffusion extracellular to periplasm 
+GLYCtex,glycerol transport via diffusion extracellular to periplasm 
+GLYtex,Glycine transport via diffusion extracellular to periplasm 
+GMPtex,GMP transport via diffusion extracellular to periplasm 
+GSNtex,guanosine transport via diffusion extracellular to periplasm 
+GTHOXtex,glutathione ox transport via diffusion extracellular to periplasm 
+GTHRDtex,glutathione transport via diffusion extracellular to periplasm 
+GTPtex,GTP transport via diffusion extracellular to periplasm 
+GUAtex,guanine transport via diffusion extracellular to periplasm 
+H2O2tex,hydrogen peroxide transport via diffusion external 
+H2Stex,h2s transport via diffusion extracellular to periplasm 
+H2tex,hydrogen transport via diffusion extracellular to periplasm 
+HCINNMtex,3 hydroxycinnamic acid transport via diffusion extracellular to periplasm 
+HG2tex,mercury Hg2 transport via diffusion extracellular to periplasm 
+HIStex,L histidine transport via diffusion extracellular to periplasm 
+HOMtex,L homoserine transport via diffusion extracellular to periplasm 
+HPPPNtex,3 3 hydroxyphenyl propionate transport via diffusion extracellular to periplasm 
+HXAtex,Hexanoate transport via diffusion extracellular to periplasm 
+HYXNtex,Hypoxanthine transport via diffusion extracellular to periplasm 
+Htex,proton transport via diffusion extracellular to periplasm 
+IDONtex,L idonate transport via diffusion extracellular to periplasm 
+ILEtex,L isoleucine transport via diffusion extracellular to periplasm 
+IMPtex,IMP transport via diffusion extracellular to periplasm 
+INDOLEtex,Indole transport via diffusion extracellular to periplasm 
+INSTtex,inositol transport via diffusion extracellular to periplasm 
+ISETACtex,isethionate transport via diffusion extracellular to periplasm 
+Ktex,potassium transport via diffusion extracellular to periplasm 
+LCTStex,Lactose transport via diffusion extracellular to periplasm 
+LEUtex,L leucine transport via diffusion extracellular to periplasm 
+LYStex,L lysine transport via diffusion extracellular to periplasm 
+LYXtex,L Lyxose transport via diffusion extracellular to periplasm 
+MALDtex,D Malate transport via diffusion extracellular to periplasm 
+MALtex,Malate transport via diffusion extracellular to periplasm 
+MALTtex,Maltose transport via diffusion extracellular to periplasm 
+MAN6Ptex,Mannose 6 phosphate transport via diffusion extracellular to periplasm 
+MANGLYCtex,2 O alpha mannosyl D glycerate transport via diffusion extracellular to periplasm 
+MANtex,D mannose transport via diffusion extracellular to periplasm 
+MELIBtex,melibiose transport via diffusion extracellular to periplasm 
+METDtex,D methionine transport via diffusion extracellular to periplasm 
+METSOX1tex,L methionine S oxide diffusion extracellular 
+METSOX2tex,L methionine R oxide diffusion extracellular 
+METtex,L methionine transport via diffusion extracellular to periplasm 
+MG2tex,magnesium Mg2 transport via diffusion extracellular to periplasm 
+MMETtex,S methyl L methionine transport via diffusion extracellular to periplasm 
+MNLtex,mannitol transport via diffusion extracellular to periplasm 
+MNtex,Manganese Mn2 transport via diffusion extracellular to periplasm 
+MOBDtex,molybdate transport via diffusion extracellular to periplasm 
+MSO3tex,methanesulfonate transport via diffusion extracellular to periplasm 
+N2Otex,nitrious oxide transport via diffusion extracellular to periplasm 
+NACtex,Nicotinic acid transport via diffusion extracellular to periplasm 
+NAtex,sodium transport via diffusion extracellular to periplasm 
+NH4tex,ammonia transport via diffusion extracellular to periplasm 
+NI2tex,nickel transport via diffusion extracellular to periplasm 
+NMNtex,NMN transport via diffusion extracellular to periplasm 
+NO2tex,nitrite transport via diffusion extracellular to periplasm 
+NO3tex,nitrate transport via diffusion extracellular to periplasm 
+NOtex,nitric oxide transport via diffusion extracellular to periplasm 
+OAAtex,oxaloacetate via diffusion extracellular to periplasm 
+O2Stex,superoxide anion transport via diffusion extracellular to periplasm 
+O2tex,oxygen transport via diffusion extracellular to periplasm 
+OCTAtex,Octanoate transport via diffusion extracellular to periplasm 
+ORNtex,ornithine transport via diffusion extracellular to periplasm 
+OROTtex,Orotate transport via diffusion extracellular to periplasm 
+PACALDtex,phenethylacetaldehyde transport via diffusion extracellular to periplasm 
+PEAMNtex,phenethylamine transport via diffusion extracellular to periplasm 
+PHEtex,L phenylalanine transport via diffusion extracellular to periplasm 
+PItex,phosphate transport via diffusion extracellular to periplasm 
+PNTOtex,Pantothenate transport via diffusion extracellular to periplasm 
+PPALtex,propanal transport via diffusion extracellular to periplasm 
+PPAtex,propionate transport via diffusion
+PPPNtex,3 phenylpropionate transport via diffusion extracellular to periplasm 
+PPTtex,Phosphonate transport via diffusion extracellular to periplasm 
+PROGLYtex,L Prolinylglycine transport via diffusion extracellular to periplasm 
+PROtex,L proline transport via diffusion extracellular to periplasm 
+PSCLYStex,psicoselysine transporter via diffusion extracellular 
+PSERtex,phospho L serine transport via diffusion extracellular to periplasm 
+PTRCtex,putrescine transport via diffusion extracellular to periplasm 
+PYRtex,pyruvate transport via diffusion extracellular to periplasm 
+R5Ptex,Ribose 5 phosphate transport via diffusion extracellular to periplasm 
+RIBtex,ribose transport via diffusion extracellular to periplasm 
+RMNtex,L rhamnose transport via diffusion extracellular to periplasm 
+SBTtex,D sorbitol transport via diffusion extracellular to periplasm 
+SERtex,L serine transport via diffusion extracellular to periplasm 
+SKMtex,shikimate transport via diffusion extracellular to periplasm 
+SO2tex,SO2 transport via diffusion extracellular to periplasm 
+SO3tex,sulfite transport via diffusion extracellular to periplasm 
+SO4tex,sulfate transport via diffusion extracellular to periplasm 
+SPMDtex,spermidine transport via diffusion extracellular to periplasm 
+SUCCtex,succinate transport via diffusion extracellular to periplasm 
+SUCRtex,sucrose transport transport via diffusion extracellular to periplasm 
+SULFACtex,sulfoaceate transport via diffusion extracellular to periplasm 
+TARTRtex,Tartrate transport via diffusion extracellular to periplasm 
+TAURtex,taurine transport via diffusion extracellular to periplasm 
+TCYNTtex,Thiocyanate transport via diffusion extracellular to periplasm 
+THMDtex,thymidine transport via diffusion extracellular to periplasm 
+THMtex,Thiamine transport via diffusion extracellular to periplasm 
+THRPtex,phospho L threonine transport via diffusion extracellular to periplasm 
+THRtex,L threonine transport via diffusion extracellular to periplasm 
+THYMtex,thymine transport via diffusion extracellular to periplasm 
+TMAOtex,Trimethylamine N oxide transport via diffusion extracellular to periplasm 
+TMAtex,Trimethylamine transport via diffusion extracellular to periplasm 
+TREtex,trehalose transport via diffusion extracellular to periplasm 
+TRPtex,L tryptophan transport via diffusion extracellular to periplasm 
+TSULtex,thiosulfate transport via diffusion extracellular to periplasm 
+TUNGStex,tungstate transport via diffusion extracellular to periplasm 
+TYMtex,tyramine transport via diffusion extracellular to periplasm 
+TYRPtex,phopho L tyrosine transport via diffusion extracellular to periplasm 
+TYRtex,L tyrosine transport via diffusion extracellular to periplasm 
+UACGAMtex,UDP N acetyl D glucosamine transport via diffusion extracellular to periplasm 
+UDPACGALtex,UDP N acetyl D galactosamine transport via diffusion extracellular to periplasm 
+UDPGALtex,UDPgalactose transport via diffusion extracellular to periplasm 
+UDPGLCURtex,UDP D glucuronate transport via diffusion extracellular to periplasm 
+UDPGtex,UDPglucose transport via diffusion extracellular to periplasm 
+UMPtex,UMP transport via diffusion extracellular to periplasm 
+URAtex,uracil transport via diffusion extracellular to periplasm 
+UREAtex,Urea transport via diffusion extracellular to periplasm 
+VALtex,L valine transport via diffusion extracellular to periplasm 
+XANtex,xanthine transport via diffusion extracellular to periplasm 
+XMPtex,XMP transport via diffusion extracellular to periplasm 
+XTSNtex,xanthosine transport via diffusion extracellular to periplasm 
+XYLUtex,L xylulose transport via diffusion extracellular to periplasm 
+XYLtex,D xylose transport via diffusion extracellular to periplasm 
+Zn2tex,zinc Zn2 transport via diffusion extracellular to periplasm 
+ANPRT,anthranilate phosphoribosyltransferase
+ANS,anthranilate synthase
+CHORM,chorismate mutase
+CHORS,chorismate synthase
+DDPA,3 deoxy D arabino heptulosonate 7 phosphate synthetase
+DHQS,3 dehydroquinate synthase
+DHQTi,3 dehydroquinate dehydratase irreversible
+IGPS,indole 3 glycerol phosphate synthase
+PHETA1,phenylalanine transaminase
+PPND,prephenate dehydrogenase
+PPNDH,prephenate dehydratase
+PRAIi,phosphoribosylanthranilate isomerase irreversible 
+PSCVT,3 phosphoshikimate 1 carboxyvinyltransferase
+SHK3Dr,shikimate dehydrogenase
+SHKK,shikimate kinase
+TRPS1,tryptophan synthase indoleglycerol phosphate 
+TRPS2,tryptophan synthase indole 
+TRPS3,tryptophan synthase indoleglycerol phosphate 
+TYRTA,tyrosine transaminase
+ACONIs,aconitate isomerase spontaneous 
+CAT,catalase
+DSBDR,DsbD reductase
+HCO3E,HCO3 equilibration reaction
+SPODMMn,superoxide dismutase with Mn cofactor
+SPODMpp,superoxide dismutase with Cu and Zn cofactor
+THIORDXi,hydrogen peroxide reductase thioredoxin 
+NO2R,nitrite reductase (NO forming)
+ACHBS,2 aceto 2 hydroxybutanoate synthase
+ACLS,acetolactate synthase
+DHAD1,dihydroxy acid dehydratase 2 3 dihydroxy 3 methylbutanoate 
+DHAD2,Dihydroxy acid dehydratase 2 3 dihydroxy 3 methylpentanoate 
+ILETA,isoleucine transaminase
+IPMD,3 isopropylmalate dehydrogenase
+IPPMIa,3 isopropylmalate dehydratase
+IPPMIb,2 isopropylmalate hydratase
+IPPS,2 isopropylmalate synthase
+KARA1,ketol acid reductoisomerase 2 3 dihydroxy 3 methylbutanoate 
+KARA2,ketol acid reductoisomerase 2 Acetolactate 
+LEUTAi,leucine transaminase irreversible 
+OMCDC,2 Oxo 4 methyl 3 carboxypentanoate decarboxylation
+VALTA,valine transaminase
+CLt4,chloride transport via diffusion 
+CYSS,cysteine synthase
+D_LACtex,D lactate transport via diffusion extracellular to periplasm 
+L_LACD4,L Lactate dehydrogenase ubiquinone 
+L_LACD2,L Lactate dehydrogenase ubiquinone 
+L_LACtex,L lactate transport via diffusion extracellular to periplasm 
+LDH_D,D lactate dehydrogenase
+PSP_L,phosphoserine phosphatase L serine 
+SERD_L,L serine deaminase
+T2DECAI,trans 2 decenoyl ACP isomerase
+MALTP,maltose phosphorylase
+FE3Ri,Fe III reduction
+ATPM,ATP maintenance requirement
+PROTS,protein synthesis
+DNAS,DNA polymerisation
+RNAS,RNA polymerisation
+PEPGLY,Peptidoglycan
+PLIPIDS,Phospholipids
+PLIPIDS_ESS,Essential Phospholipids
+Nm_biomass,N meningitidis MC58 biomass objective function fast growth Baart Rahman
+Nm_Ess_biomass,N meningitidis MC58 essential biomass objective function fast growth Baart Rahman
+Nm_Baart_biomass,N meningitidis MC58 (minus capsule) essential biomass objective function fast growth Baart Rahman
+EX_15dap_e_,1 5 Diaminopentane exchange
+EX_2ddglcn_e_,2 Dehydro 3 deoxy D gluconate exchange
+EX_34dhpac_e_,3 4 Dihydroxyphenylacetaldehyde exchange
+EX_3amp_e_,3 AMP exchange
+EX_3cmp_e_,3 cmp exchange
+EX_3hcinnm_e_,3 hydroxycinnamic acid exchange
+EX_3hpppn_e_,3 3 hydroxy phenyl propionate exchange
+EX_3ump_e_,3 UMP exchange
+EX_4abut_e_,4 Aminobutanoate exchange
+EX_4hoxpacd_e_,4 Hydroxyphenylacetaldehyde exchange
+EX_5dglcn_e_,5 Dehydro D gluconate exchange
+EX_ac_e_,Acetate exchange
+EX_acac_e_,Acetoacetate exchange
+EX_acald_e_,Acetaldehyde exchange
+EX_acgal_e_,N Acetyl D galactosamine exchange
+EX_acgam_e_,N Acetyl D glucosamine exchange
+EX_acgam1p_e_,N Acetyl D glucosamine 1 phosphate exchange
+EX_acmana_e_,N Acetyl D mannosamine exchange
+EX_acmum_e_,N Acetylmuramate exchange
+EX_acser_e_,O Acetyl L serine exchange
+EX_ade_e_,Adenine exchange
+EX_agm_e_,Agmatine exchange
+EX_akg_e_,2 Oxoglutarate exchange
+EX_ala_B_e_,beta Alanine exchange
+EX_ala_D_e_,D Alanine exchange
+EX_ala_L_e_,L Alanine exchange
+EX_alaala_e_,D Alanyl D alanine exchange
+EX_all_D_e_,D Allose exchange
+EX_alltn_e_,Allantoin exchange
+EX_amp_e_,AMP exchange
+EX_anhgm_e_,N Acetyl D glucosamine anhydrous N Acetylmuramic acid exchange
+EX_arab_L_e_,L Arabinose exchange
+EX_arg_L_e_,L Arginine exchange
+EX_ascb_L_e_,L Ascorbate exchange
+EX_asn_L_e_,L Asparagine exchange
+EX_aso3_e_,arsenite exchange
+EX_asp_L_e_,L Aspartate exchange
+EX_but_e_,Butyrate n C40 exchange
+EX_butso3_e_,butanesulfonate exchange
+EX_ca2_e_,Calcium exchange
+EX_cd2_e_,Cadmium exchange
+EX_cgly_e_,Cys Gly exchange
+EX_chol_e_,Choline exchange
+EX_cit_e_,Citrate exchange
+EX_cl_e_,Chloride exchange
+EX_cmp_e_,CMP exchange
+EX_co_e_,CO exchange
+EX_co2_e_,CO2 exchange
+EX_cobalt2_e_,Co2 exchange
+EX_colipa_e_,core oligosaccharide lipid A exchange
+EX_crn_e_,L Carnitine exchange
+EX_csn_e_,Cytosine exchange
+EX_cu_e_,Cu exchange
+EX_cu2_e_,Cu2 exchange
+EX_cyan_e_,Hydrogen cyanide exchange
+EX_cynt_e_,Cyanate exchange
+EX_cys_D_e_,D Cysteine exchange
+EX_cys_L_e_,L Cysteine exchange
+EX_cytd_e_,Cytidine exchange
+EX_damp_e_,dAMP exchange
+EX_dca_e_,Decanoate n C100 exchange
+EX_dcmp_e_,dCMP exchange
+EX_ddca_e_,Dodecanoate n C120 exchange
+EX_dgmp_e_,dGMP exchange
+EX_dgsn_e_,Deoxyguanosine exchange
+EX_dhap_e_,Dihydroxyacetone phosphate exchange
+EX_dha_e_,Dihydroxyacetone exchange
+EX_dimp_e_,dIMP exchange
+EX_din_e_,Deoxyinosine exchange
+EX_dms_e_,Dimethyl sulfide exchange
+EX_dmso_e_,Dimethyl sulfoxide exchange
+EX_dopa_e_,Dopamine exchange
+EX_dtmp_e_,dTMP exchange
+EX_dump_e_,dUMP exchange
+EX_e4hglu_e_,L-erythro-4-Hydroxyglutamate exchange
+EX_enlipa_e_,phosphoethanolamine KDO 2 lipid A exchange
+EX_etha_e_,Ethanolamine exchange
+EX_ethso3_e_,ethanesulfonate exchange
+EX_etoh_e_,Ethanol exchange
+EX_f6p_e_,D fructose 6 phosphate exchange
+EX_fald_e_,Formaldehyde exchange
+EX_fe2_e_,Fe2 exchange
+EX_fe3_e_,Fe3 exchange
+EX_for_e_,Formate exchange
+EX_fru_e_,D Fructose exchange
+EX_frulys_e_,fructoselysine exchange
+EX_fruur_e_,D Fructuronate exchange
+EX_fuc_L_e_,L Fucose exchange
+EX_fum_e_,Fumarate exchange
+EX_g1p_e_,D Glucose 1 phosphate exchange
+EX_g3pc_e_,sn Glycero 3 phosphocholine exchange
+EX_g3pe_e_,sn Glycero 3 phosphoethanolamine exchange
+EX_g3pg_e_,Glycerophosphoglycerol exchange
+EX_g3pi_e_,sn Glycero 3 phospho 1 inositol exchange
+EX_g3ps_e_,Glycerophosphoserine exchange
+EX_g6p_e_,D Glucose 6 phosphate exchange
+EX_gal_bD_e_,beta D Galactose exchange
+EX_gal_e_,D Galactose exchange
+EX_gal1p_e_,alpha D Galactose 1 phosphate exchange
+EX_galct_D_e_,D Galactarate exchange
+EX_galctn_D_e_,D Galactonate exchange
+EX_galctn_L_e_,L Galactonate exchange
+EX_galt_e_,Galactitol exchange
+EX_galur_e_,D Galacturonate exchange
+EX_gam_e_,D Glucosamine exchange
+EX_gam6p_e_,D Glucosamine 6 phosphate exchange
+EX_gbbtn_e_,gamma butyrobetaine exchange
+EX_gdp_e_,GDP exchange
+EX_glc_D_e_,D Glucose exchange
+EX_glcn_e_,D Gluconate exchange
+EX_glcr_e_,D Glucarate exchange
+EX_glcur_e_,D Glucuronate exchange
+EX_glcur1p_e_,D Glucuronate 1 phosphate exchange
+EX_gln_L_e_,L Glutamine exchange
+EX_glu_L_e_,L Glutamate exchange
+EX_gly_e_,Glycine exchange
+EX_glyald_e_,D Glyceraldehyde exchange
+EX_glyb_e_,Glycine betaine exchange
+EX_glyc_e_,Glycerol exchange
+EX_glyc_R_e_,Glycerate exchange
+EX_glyc2p_e_,Glycerol 2 phosphate exchange
+EX_glyc3p_e_,Glycerol 3 phosphate exchange
+EX_glyclt_e_,Glycolate exchange
+EX_gmp_e_,GMP exchange
+EX_gsn_e_,Guanosine exchange
+EX_gthox_e_,Oxidized glutathione exchange
+EX_gthrd_e_,Reduced glutathione exchange
+EX_gtp_e_,GTP exchange
+EX_gua_e_,guanine exchange
+EX_h_e_,H exchange
+EX_h2_e_,H2 exchange
+EX_h2o_e_,H2O exchange
+EX_h2o2_e_,Hydrogen peroxide exchange
+EX_h2s_e_,Hydrogen sulfide exchange
+EX_hdca_e_,Hexadecanoate n C160 exchange
+EX_hdcea_e_,hexadecenoate n C161 exchange
+EX_Hg_e_,Hemoglobin residue exchange
+EX_hg2_e_,Hg2 exchange
+EX_HgFe3_e_,Hemoglobin exchange
+EX_his_L_e_,L Histidine exchange
+EX_hom_L_e_,L Homoserine exchange
+EX_hxa_e_,Hexanoate n C60 exchange
+EX_hxan_e_,Hypoxanthine exchange
+EX_idon_L_e_,L Idonate exchange
+EX_ile_L_e_,L Isoleucine exchange
+EX_imp_e_,IMP exchange
+EX_indole_e_,Indole exchange
+EX_inost_e_,myo Inositol exchange
+EX_isetac_e_,Isethionic acid exchange
+EX_k_e_,K exchange
+EX_lac_D_e_,D lactate exchange
+EX_lac_L_e_,L Lactate exchange
+EX_LalaDgluMdap_e_,L alanine D glutamate meso 2 6 diaminoheptanedioate exchange
+EX_LalaDgluMdapDala_e_,L alanine D glutamate meso 2 6 diaminoheptanedioate D alanine exchange
+EX_lcts_e_,Lactose exchange
+EX_leu_L_e_,L Leucine exchange
+EX_Lf_e_,Lactoferrin residue exchange
+EX_LfFe3_e_,Lactoferrin exchange
+EX_lipa_e_,KDO 2 lipid A exchange
+EX_lys_L_e_,L Lysine exchange
+EX_lyx_L_e_,L Lyxose exchange
+EX_mal_D_e_,D Malate exchange
+EX_mal_L_e_,L Malate exchange
+EX_malt_e_,Maltose exchange
+EX_man_e_,D Mannose exchange
+EX_man6p_e_,D Mannose 6 phosphate exchange
+EX_manglyc_e_,2 alpha D Mannosyl D glycerate exchange
+EX_melib_e_,Melibiose exchange
+EX_met_D_e_,D Methionine exchange
+EX_met_L_e_,L Methionine exchange
+EX_metsox_R_L_e_,L methionine sulfoxide exchange
+EX_metsox_S_L_e_,L Methionine S oxide exchange
+EX_mg2_e_,Mg exchange
+EX_mmet_e_,S Methyl L methionine exchange
+EX_mn2_e_,Mn2 exchange
+EX_mnl_e_,D Mannitol exchange
+EX_mobd_e_,Molybdate exchange
+EX_mso3_e_,methanesulfonate exchange
+EX_n2o_e_,Nitrous oxide exchange
+EX_na1_e_,Sodium exchange
+EX_nac_e_,Nicotinate exchange
+EX_nh4_e_,Ammonia exchange
+EX_ni2_e_,Ni2 exchange
+EX_nmn_e_,NMN exchange
+EX_no_e_,Nitric oxide exchange
+EX_no2_e_,Nitrite exchange
+EX_no3_e_,Nitrate exchange
+EX_o2_e_,O2 exchange
+EX_oaa_e_,Oxaloacetate exchange
+EX_o2s_e_,Superoxide anion exchange
+EX_ocdca_e_,octadecanoate n C180 exchange
+EX_ocdcea_e_,octadecenoate n C181 exchange
+EX_octa_e_,octanoate n C80 exchange
+EX_orn_e_,Ornithine exchange
+EX_orot_e_,Orotate exchange
+EX_pacald_e_,Phenylacetaldehyde exchange
+EX_peamn_e_,Phenethylamine exchange
+EX_phe_L_e_,L Phenylalanine exchange
+EX_pheme_e_,Protoheme exchange
+EX_pi_e_,Phosphate exchange
+EX_pnto_R_e_,Pantothenate exchange
+EX_ppa_e_,Propionate exchange
+EX_ppal_e_,Propanal exchange
+EX_pppn_e_,Phenylpropanoate exchange
+EX_ppt_e_,Phosphonate exchange
+EX_pro_L_e_,L Proline exchange
+EX_progly_e_,L Prolinylglycine exchange
+EX_psclys_e_,psicoselysine exchange
+EX_pser_L_e_,O Phospho L serine exchange
+EX_ptrc_e_,Putrescine exchange
+EX_pyr_e_,Pyruvate exchange
+EX_1p3h5c_e_,L-1-Pyrroline-3-hydroxy-5-carboxylate exchange
+EX_r5p_e_,alpha D Ribose 5 phosphate exchange
+EX_rib_D_e_,D Ribose exchange
+EX_rmn_e_,L Rhamnose exchange
+EX_sbt_D_e_,D Sorbitol exchange
+EX_ser_D_e_,D Serine exchange
+EX_ser_L_e_,L Serine exchange
+EX_skm_e_,Shikimate exchange
+EX_so2_e_,sulfudioxide exchange
+EX_so3_e_,Sulfite exchange
+EX_so4_e_,Sulfate exchange
+EX_spmd_e_,Spermidine exchange
+EX_succ_e_,Succinate exchange
+EX_sucr_e_,Sucrose exchange
+EX_sulfac_e_,sulfoacetate exchange
+EX_tartr_L_e_,L tartrate exchange
+EX_taur_e_,Taurine exchange
+EX_tcynt_e_,Thiocyanate exchange
+EX_Tf_e_,Transferrin residue exchange
+EX_TfFe3_e_,Transferrin exchange
+EX_thm_e_,Thiamin exchange
+EX_thr_L_e_,L Threonine exchange
+EX_thrp_e_,L Threonine O 3 phosphate exchange
+EX_thym_e_,Thymine exchange
+EX_thymd_e_,Thymidine exchange
+EX_tma_e_,Trimethylamine exchange
+EX_tmao_e_,Trimethylamine N oxide exchange
+EX_tre_e_,Trehalose exchange
+EX_trp_L_e_,L Tryptophan exchange
+EX_tsul_e_,Thiosulfate exchange
+EX_ttdca_e_,tetradecanoate n C140 exchange
+EX_ttdcea_e_,tetradecenoate n C141 exchange
+EX_tungs_e_,tungstate exchange
+EX_tym_e_,Tyramine exchange
+EX_tyr_L_e_,L Tyrosine exchange
+EX_tyrp_e_,Phosphotyrosine exchange
+EX_uacgam_e_,UDP N acetyl D glucosamine exchange
+EX_udpacgal_e_,UDP N acetyl D galactosamine exchange
+EX_udpg_e_,UDPglucose exchange
+EX_udpgal_e_,UDPgalactose exchange
+EX_udpglcur_e_,UDP D glucuronate exchange
+EX_ump_e_,UMP exchange
+EX_ura_e_,Uracil exchange
+EX_urea_e_,Urea exchange
+EX_val_L_e_,L Valine exchange
+EX_xan_e_,Xanthine exchange
+EX_xmp_e_,Xanthosine 5 phosphate exchange
+EX_xtsn_e_,Xanthosine exchange
+EX_xyl_D_e_,D Xylose exchange
+EX_xylu_L_e_,L Xylulose exchange
+EX_zn2_e_,Zinc exchange
+DM_PAP,Sink needed to allow pap to leave system
+DM_AMOB,Sink needed to allow amob to leave system
+DM_UREA,Sink needed to allow urea to leave system
+DM_4HBA,Sink needed to allow biliverdin to leave system
+DM_BV,Sink needed to allow 4 hydroxy benzoate to leave system
+DM_5DRIB,Sink needed to allow 5 deoxyribose to leave system
+DM_HMFURN,Sink needed to allow 4 hydroxy 5 methyl 3 2H furanone to leave system
+DM_BIOMASS,Sink needed to allow biomass to leave system
+DM_ESSBIOMASS,Sink needed to allow essbiomass to leave system
+DM_CAPBIOMASS,Sink needed to allow capminusbiomass to leave system
